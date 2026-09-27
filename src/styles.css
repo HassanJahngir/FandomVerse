@@ -550,7 +550,7 @@ em {
 .fragment-one {
   background-image:
     linear-gradient(145deg, #21152980, #211529e8 82%),
-    url("https://i.ytimg.com/vi/9kb7vK11_Rw/hqdefault.jpg");
+    url("/media/anime-demon-slayer-group-cosplay-960.webp");
   background-size: cover;
   background-position: 50% center;
   top: 12%;
@@ -948,6 +948,40 @@ em {
   background: #25222d;
 }
 .profile-card .card-art { aspect-ratio: 1.3; }
+.card-grid {
+  grid-auto-rows: 448px;
+}
+.card-grid .content-card,
+.saved-grid .content-card {
+  height: 100%;
+}
+.card-grid .profile-card,
+.saved-grid .profile-card {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 0;
+  padding: 0;
+  margin: 0;
+  background: #1a191f;
+  border-color: #33303a;
+}
+.card-grid .card-art,
+.saved-grid .card-art,
+.card-grid .profile-card .card-art,
+.saved-grid .profile-card .card-art {
+  height: 185px;
+  min-height: 185px;
+  aspect-ratio: auto;
+  flex: none;
+}
+.card-grid .card-body h3,
+.saved-grid .card-body h3 {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+}
 .card-art picture,
 .card-art img {
   width: 100%;
@@ -1349,6 +1383,61 @@ em {
   position: relative;
   overflow: hidden;
 }
+.image-heading {
+  min-height: 290px;
+  margin: 28px 0 34px;
+  padding: 52px 46px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border: 1px solid color-mix(in srgb, var(--world, #bd9aff) 42%, #25212e);
+  border-radius: 12px;
+  background: #15131c;
+  isolation: isolate;
+}
+.image-heading > :not(.heading-visual) {
+  position: relative;
+  z-index: 1;
+}
+.heading-visual,
+.heading-visual picture,
+.heading-visual img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+}
+.heading-visual {
+  z-index: -1;
+  overflow: hidden;
+  pointer-events: none;
+}
+.heading-visual img {
+  object-fit: cover;
+  object-position: center 38%;
+  opacity: 0.68;
+}
+.heading-visual::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(90deg, #100e16 0%, #15111bea 43%, #16121b81 78%, #16121b42 100%), linear-gradient(0deg, #1310196e, transparent 45%);
+}
+.image-heading > p:not(.eyebrow),
+.image-heading .detail-deck {
+  color: #e3d9e9;
+  text-shadow: 0 1px 10px #0b0910;
+}
+.image-heading h1 {
+  text-shadow: 0 2px 16px #0b0910;
+}
+.image-heading .heading-photo-credit {
+  position: absolute;
+  right: 20px;
+  bottom: 15px;
+  max-width: min(52%, 420px);
+  text-align: right;
+}
 .page-heading h1 {
   font-size: clamp(35px, 4vw, 58px);
   max-width: 850px;
@@ -1361,29 +1450,6 @@ em {
 }
 .page-heading .eyebrow {
   color: var(--world);
-}
-.anime-heading {
-  min-height: 290px;
-  margin: 28px 0 34px;
-  padding: 58px 46px;
-  border: 1px solid #594565;
-  border-radius: 12px;
-  background-image:
-    linear-gradient(90deg, #110e17 0%, #17121ce8 41%, #17121c55 100%),
-    url("https://i.ytimg.com/vi/9kb7vK11_Rw/hqdefault.jpg");
-  background-size: cover;
-  background-position: center 39%;
-}
-.anime-heading > * {
-  position: relative;
-  z-index: 1;
-}
-.anime-heading > p:not(.eyebrow) {
-  color: #e3d9e9;
-}
-.anime-heading .world-heading-symbol {
-  color: #f3d5ff;
-  opacity: 0.12;
 }
 .heading-photo-credit {
   position: absolute !important;
@@ -1418,16 +1484,6 @@ em {
   padding: 5px 8px;
   font-size: 9px;
   letter-spacing: 0.04em;
-}
-@media (max-width: 640px) {
-  .anime-heading {
-    min-height: 290px;
-    padding: 42px 25px;
-    background-image:
-      linear-gradient(90deg, #110e17f2 0%, #17121cbd 60%, #17121c66 100%),
-      url("https://i.ytimg.com/vi/9kb7vK11_Rw/hqdefault.jpg");
-    background-position: 62% center;
-  }
 }
 .world-heading-symbol {
   position: absolute;
@@ -1637,6 +1693,43 @@ select {
 .detail-heading {
   max-width: 970px;
   padding: 60px 0 40px;
+}
+.detail-heading.image-heading {
+  max-width: none;
+  min-height: 340px;
+}
+@media (max-width: 700px) {
+  .image-heading,
+  .detail-heading.image-heading {
+    min-height: 285px;
+    margin: 18px 0 28px;
+    padding: 38px 26px 58px;
+  }
+  .heading-visual img { object-position: 60% center; }
+  .heading-visual::after {
+    background: linear-gradient(90deg, #100e16f4 0%, #15111bd8 64%, #16121b83 100%);
+  }
+  .image-heading .heading-photo-credit {
+    max-width: calc(100% - 32px);
+    right: 15px;
+    bottom: 12px;
+    font-size: 8px;
+  }
+  .card-grid { grid-auto-rows: 430px; }
+  .saved-item .content-card { height: 430px; }
+  .card-grid .card-art,
+  .saved-grid .card-art,
+  .card-grid .profile-card .card-art,
+  .saved-grid .profile-card .card-art {
+    height: 165px;
+    min-height: 165px;
+  }
+  .trailer-band .card-grid { grid-auto-rows: 210px; }
+  .trailer-band .card-art { height: 100%; }
+}
+@media (max-width: 390px) {
+  .card-grid { grid-auto-rows: 420px; }
+  .saved-item .content-card { height: 420px; }
 }
 .detail-heading h1 {
   font-size: clamp(35px, 4.7vw, 65px);
@@ -1946,7 +2039,7 @@ select {
   gap: 30px;
 }
 .saved-item .content-card {
-  height: auto;
+  height: 448px;
 }
 .saved-item > label {
   margin: 18px 0 8px;
@@ -3496,4 +3589,10 @@ main:focus {
   background: #1119;
   padding: 7px 9px;
   border-radius: 3px;
+}
+@media (max-width: 700px) {
+  .saved-item .content-card { height: 430px; }
+}
+@media (max-width: 390px) {
+  .saved-item .content-card { height: 420px; }
 }

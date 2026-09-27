@@ -53,8 +53,12 @@ test("stable unique IDs and sourced records", () => {
 });
 test("every local asset reference exists and gallery credits are present", () => {
   for (const item of records) {
-    if (item.type !== "merchandise")
-      assert.ok(item.image, `${item.id}: missing subject-matched visual`);
+    assert.ok(item.image, `${item.id}: missing relevant card visual`);
+    assert.ok(item.image.startsWith("/media/"), `${item.id}: card visual must be locally bundled`);
+    if (item.type === "merchandise") {
+      assert.ok(item.imageContext, `${item.id}: product context label required`);
+      assert.match(item.imageSourceUrl, /^https:\/\//, `${item.id}: image source required`);
+    }
     for (const src of [
       item.image,
       item.poster,

@@ -149,7 +149,13 @@ export function Card({ item, bookmarks, toggle, addCart }) {
         )}
         {item.imageContext ? (
           <span className="card-photo-label">
-            {item.type === "merchandise" ? "Official trailer · not product photo" : "Context image"}
+            {item.type === "merchandise"
+              ? item.imageKind === "official-trailer-thumbnail"
+                ? "Official trailer · not product photo"
+                : "Fan cosplay · not product photo"
+              : item.imageKind === "fan-cosplay"
+                ? "Fan cosplay · context image"
+                : "Licensed context photo"}
           </span>
         ) : item.imageKind === "official-trailer-thumbnail" ? (
           <span className="card-photo-label">Official trailer visual</span>

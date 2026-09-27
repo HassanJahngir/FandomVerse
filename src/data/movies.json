@@ -266,23 +266,30 @@
     ],
     "featured": false,
     "verifiedAt": "2026-09-26",
-    "image": "https://i.ytimg.com/vi/sGbxmsDFVnE/hqdefault.jpg",
-    "imageAlt": "Official Star Wars: The Force Awakens trailer thumbnail",
+    "image": "/media/movies-profile-luke-skywalker-960.webp",
+    "imageAlt": "Luke Skywalker fan cosplay; context image, not an official video frame",
     "sources": [
       {
         "label": "Official film page",
         "url": "https://www.starwars.com/films/star-wars-episode-vii-the-force-awakens"
+      },
+      {
+        "label": "Licensed context photo and reuse terms",
+        "url": "https://commons.wikimedia.org/wiki/File:SWCA_-_Luke_Skywalker_(16580421784).jpg"
       }
     ],
     "date": "2015-12-18",
     "status": "released",
     "location": "US cinemas",
     "franchise": "Star Wars",
-    "imageCredit": "Star Wars",
-    "imageKind": "official-trailer-thumbnail",
-    "imageSourceUrl": "https://www.youtube.com/watch?v=sGbxmsDFVnE",
-    "imageContext": "Related franchise visual; it does not depict the release artwork itself.",
-    "mediaPermission": "Context visual from movies-trailer-force-awakens; see its credited source. Not an official image of this release."
+    "imageCredit": "William Tung · CC BY-SA 2.0",
+    "imageKind": "fan-cosplay",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:SWCA_-_Luke_Skywalker_(16580421784).jpg",
+    "imageContext": "Luke Skywalker fan cosplay for video or story context; not an official video frame.",
+    "mediaPermission": "Context visual from movies-trailer-force-awakens; see its credited source. Not an official image of this release.",
+    "officialThumbnailUrl": "https://i.ytimg.com/vi/sGbxmsDFVnE/hqdefault.jpg",
+    "imageVerifiedAt": "2026-09-27",
+    "imagePermission": "William Tung · CC BY-SA 2.0; locally resized and converted to AVIF/WebP. Character and franchise rights remain with their owners."
   },
   {
     "id": "movies-trailer-force-awakens",
@@ -297,12 +304,16 @@
     ],
     "featured": true,
     "verifiedAt": "2026-09-26",
-    "image": "https://i.ytimg.com/vi/sGbxmsDFVnE/hqdefault.jpg",
-    "imageAlt": "Official Star Wars: The Force Awakens trailer thumbnail",
+    "image": "/media/movies-profile-luke-skywalker-960.webp",
+    "imageAlt": "Luke Skywalker fan cosplay; context image, not an official video frame",
     "sources": [
       {
         "label": "Star Wars official YouTube channel",
         "url": "https://www.youtube.com/watch?v=sGbxmsDFVnE"
+      },
+      {
+        "label": "Licensed context photo and reuse terms",
+        "url": "https://commons.wikimedia.org/wiki/File:SWCA_-_Luke_Skywalker_(16580421784).jpg"
       }
     ],
     "date": "2015-10-19",
@@ -312,11 +323,15 @@
     "mediaUrl": "https://www.youtube.com/watch?v=sGbxmsDFVnE",
     "embedUrl": "https://www.youtube-nocookie.com/embed/sGbxmsDFVnE",
     "mediaPermission": "Official YouTube player is embeddable according to YouTube oEmbed; media remains on YouTube and is not downloaded.",
-    "poster": "https://i.ytimg.com/vi/sGbxmsDFVnE/hqdefault.jpg",
-    "imageCredit": "Star Wars",
-    "imageKind": "official-trailer-thumbnail",
-    "imageSourceUrl": "https://www.youtube.com/watch?v=sGbxmsDFVnE",
-    "mediaPermissionNote": "Official YouTube player and thumbnail supplied through YouTube oEmbed; loads online. The video and image are not bundled or licensed for download by this project."
+    "poster": "/media/movies-profile-luke-skywalker-960.webp",
+    "imageCredit": "William Tung · CC BY-SA 2.0",
+    "imageKind": "fan-cosplay",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:SWCA_-_Luke_Skywalker_(16580421784).jpg",
+    "mediaPermissionNote": "Official YouTube player and thumbnail supplied through YouTube oEmbed; loads online. The video and image are not bundled or licensed for download by this project.",
+    "officialThumbnailUrl": "https://i.ytimg.com/vi/sGbxmsDFVnE/hqdefault.jpg",
+    "imageContext": "Luke Skywalker fan cosplay for video or story context; not an official video frame.",
+    "imageVerifiedAt": "2026-09-27",
+    "imagePermission": "William Tung · CC BY-SA 2.0; locally resized and converted to AVIF/WebP. Character and franchise rights remain with their owners."
   },
   {
     "id": "movies-article-star-wars-character-choices",
@@ -331,8 +346,8 @@
     ],
     "featured": true,
     "verifiedAt": "2026-09-26",
-    "image": "https://i.ytimg.com/vi/sGbxmsDFVnE/hqdefault.jpg",
-    "imageAlt": "Official Star Wars: The Force Awakens trailer thumbnail",
+    "image": "/media/movies-profile-luke-skywalker-960.webp",
+    "imageAlt": "Luke Skywalker fan cosplay; context image, not an official video frame",
     "sources": [
       {
         "label": "Star Wars official character guide",
@@ -357,6 +372,10 @@
       {
         "label": "Star Wars official trailer",
         "url": "https://www.youtube.com/watch?v=sGbxmsDFVnE"
+      },
+      {
+        "label": "Licensed context photo and reuse terms",
+        "url": "https://commons.wikimedia.org/wiki/File:SWCA_-_Luke_Skywalker_(16580421784).jpg"
       }
     ],
     "body": [
@@ -366,9 +385,13 @@
       "Vader and Yoda make that pattern more complicated. Vader's history as Anakin links an intimidating public identity to a private past. Yoda's role as a teacher makes experience a resource, while still leaving Luke to make his own decisions. Neither profile should be reduced to a list of powers. The official entries connect them to institutions, relationships and particular places, all of which help explain why their meetings with Luke carry weight.",
       "For a first visit, open two profiles with contrasting roles, then return to the trailer archive. Notice which images emphasize scale and which moments emphasize faces or relationships. That is a viewing exercise, not a hidden piece of canon. Bookmark the characters you want to compare and keep your interpretation in a personal note. Fandom discussion becomes more rewarding when it makes room for a clearly sourced fact and a clearly identified opinion in the same conversation."
     ],
-    "imageCredit": "Star Wars",
-    "imageKind": "official-trailer-thumbnail",
-    "imageSourceUrl": "https://www.youtube.com/watch?v=sGbxmsDFVnE"
+    "imageCredit": "William Tung · CC BY-SA 2.0",
+    "imageKind": "fan-cosplay",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:SWCA_-_Luke_Skywalker_(16580421784).jpg",
+    "officialThumbnailUrl": "https://i.ytimg.com/vi/sGbxmsDFVnE/hqdefault.jpg",
+    "imageContext": "Luke Skywalker fan cosplay for video or story context; not an official video frame.",
+    "imageVerifiedAt": "2026-09-27",
+    "imagePermission": "William Tung · CC BY-SA 2.0; locally resized and converted to AVIF/WebP. Character and franchise rights remain with their owners."
   },
   {
     "id": "movies-release-avengers-doomsday",
@@ -385,20 +408,28 @@
     "status": "upcoming",
     "featured": true,
     "verifiedAt": "2026-09-26",
-    "image": "https://i.ytimg.com/vi/iFl4YeX6jmc/hqdefault.jpg",
+    "image": "/media/movies-avengers-context-960.webp",
     "sources": [
       {
         "label": "Disney Movies — Avengers: Doomsday official film page",
         "url": "https://movies.disney.com/avengers-doomsday"
+      },
+      {
+        "label": "Licensed context photo and reuse terms",
+        "url": "https://commons.wikimedia.org/wiki/File:SDCC_-_Avengers_(7561329924).jpg"
       }
     ],
     "category": "movies",
-    "imageAlt": "Official Avengers: Doomsday | Official Trailer | In Theaters December 18 thumbnail",
-    "imageCredit": "Marvel Entertainment",
-    "imageKind": "official-trailer-thumbnail",
-    "imageSourceUrl": "https://www.youtube.com/watch?v=iFl4YeX6jmc",
+    "imageAlt": "Avengers fan cosplay at San Diego Comic-Con; context image, not an official video frame",
+    "imageCredit": "Pat Loika · CC BY 2.0",
+    "imageKind": "fan-cosplay",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:SDCC_-_Avengers_(7561329924).jpg",
     "mediaPermission": "YouTube oEmbed supplied an official channel player and thumbnail; media loads online and is not downloaded.",
-    "mediaPermissionNote": "Official online embed; no local copy or republication license claimed."
+    "mediaPermissionNote": "Official online embed; no local copy or republication license claimed.",
+    "officialThumbnailUrl": "https://i.ytimg.com/vi/iFl4YeX6jmc/hqdefault.jpg",
+    "imageContext": "Avengers fan cosplay at San Diego Comic-Con for video or story context; not an official video frame.",
+    "imageVerifiedAt": "2026-09-27",
+    "imagePermission": "Pat Loika · CC BY 2.0; locally resized and converted to AVIF/WebP. Character and franchise rights remain with their owners."
   },
   {
     "id": "movies-release-star-wars-starfighter",
@@ -517,17 +548,25 @@
       {
         "label": "Marvel Entertainment official YouTube channel",
         "url": "https://www.youtube.com/watch?v=iFl4YeX6jmc"
+      },
+      {
+        "label": "Licensed context photo and reuse terms",
+        "url": "https://commons.wikimedia.org/wiki/File:SDCC_-_Avengers_(7561329924).jpg"
       }
     ],
-    "image": "https://i.ytimg.com/vi/iFl4YeX6jmc/hqdefault.jpg",
-    "imageAlt": "Official Avengers: Doomsday | Official Trailer | In Theaters December 18 thumbnail",
-    "imageCredit": "Marvel Entertainment",
-    "imageKind": "official-trailer-thumbnail",
-    "imageSourceUrl": "https://www.youtube.com/watch?v=iFl4YeX6jmc",
+    "image": "/media/movies-avengers-context-960.webp",
+    "imageAlt": "Avengers fan cosplay at San Diego Comic-Con; context image, not an official video frame",
+    "imageCredit": "Pat Loika · CC BY 2.0",
+    "imageKind": "fan-cosplay",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:SDCC_-_Avengers_(7561329924).jpg",
     "mediaPermission": "YouTube oEmbed supplied an official channel player and thumbnail; media loads online and is not downloaded.",
     "mediaPermissionNote": "Official online embed; no local copy or republication license claimed.",
-    "poster": "https://i.ytimg.com/vi/iFl4YeX6jmc/hqdefault.jpg",
+    "poster": "/media/movies-avengers-context-960.webp",
     "mediaUrl": "https://www.youtube.com/watch?v=iFl4YeX6jmc",
-    "embedUrl": "https://www.youtube-nocookie.com/embed/iFl4YeX6jmc"
+    "embedUrl": "https://www.youtube-nocookie.com/embed/iFl4YeX6jmc",
+    "officialThumbnailUrl": "https://i.ytimg.com/vi/iFl4YeX6jmc/hqdefault.jpg",
+    "imageContext": "Avengers fan cosplay at San Diego Comic-Con for video or story context; not an official video frame.",
+    "imageVerifiedAt": "2026-09-27",
+    "imagePermission": "Pat Loika · CC BY 2.0; locally resized and converted to AVIF/WebP. Character and franchise rights remain with their owners."
   }
 ]

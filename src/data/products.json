@@ -16,8 +16,15 @@
     "retailerUrl": "https://www.lego.com/en-us/product/spider-man-key-chain-854290",
     "verifiedAt": "2026-09-26",
     "featured": true,
-    "image": null,
-    "mediaNote": "Product photograph reuse permission has not been established. View photographs on the official retailer's page.",
+    "image": "/media/merch-spiderman-context-960.webp",
+    "imageAlt": "LEGO Spider-Man fan cosplay at New York Comic Con; not the key chain product",
+    "imageKind": "fan-cosplay",
+    "imageCredit": "Carter McKendry · CC BY 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:NYCC_2018_-_Lego_Spider-Man_Cosplayer.jpg",
+    "imageContext": "LEGO Spider-Man fan cosplay for franchise context; not a photograph of the key chain.",
+    "imageVerifiedAt": "2026-09-27",
+    "mediaPermission": "Carter McKendry's CC BY 2.0 photo, resized and converted to WebP/AVIF with attribution. Product photograph rights remain unverified.",
+    "mediaNote": "View the exact key chain photograph on the official retailer's page.",
     "licensingNote": "LEGO Marvel product listed by the official LEGO US store.",
     "sources": [
       {
@@ -43,8 +50,15 @@
     "retailerUrl": "https://www.lego.com/en-us/product/the-mandalorian-key-chain-854326",
     "verifiedAt": "2026-09-26",
     "featured": true,
-    "image": null,
-    "mediaNote": "Product photograph reuse permission has not been established. View photographs on the official retailer's page.",
+    "image": "/media/merch-mandalorian-context-960.webp",
+    "imageAlt": "Din Djarin fan cosplay at New York Comic Con; not the key chain product",
+    "imageKind": "fan-cosplay",
+    "imageCredit": "LostplanetKD73 · CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:2021_NYCC_Cosplay_of_the_Mandalorian_Din_Djarin.jpg",
+    "imageContext": "Din Djarin fan cosplay for franchise context; not a photograph of the key chain.",
+    "imageVerifiedAt": "2026-09-27",
+    "mediaPermission": "LostplanetKD73's CC BY-SA 4.0 photo, resized and converted to WebP/AVIF under the same license. Product photograph rights remain unverified.",
+    "mediaNote": "View the exact key chain photograph on the official retailer's page.",
     "licensingNote": "LEGO Star Wars product listed by the official LEGO US store.",
     "sources": [
       {
@@ -70,8 +84,15 @@
     "retailerUrl": "https://www.lego.com/es-us/product/darth-vader-keyring-854236",
     "verifiedAt": "2026-09-26",
     "featured": false,
-    "image": null,
-    "mediaNote": "Product photograph reuse permission has not been established. View photographs on the official retailer's page.",
+    "image": "/media/movies-profile-darth-vader-960.webp",
+    "imageAlt": "Darth Vader fan costume; not the LEGO key chain product",
+    "imageKind": "fan-cosplay",
+    "imageCredit": "Sam Howzit · CC BY 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:SWC_6_-_Darth_Vader_Costume_(7865106344).jpg",
+    "imageContext": "Darth Vader fan costume for franchise context; not a photograph of the key chain.",
+    "imageVerifiedAt": "2026-09-27",
+    "mediaPermission": "Existing CC BY 2.0 photograph by Sam Howzit, resized and converted with attribution. Product photograph rights remain unverified.",
+    "mediaNote": "View the exact key chain photograph on the official retailer's page.",
     "licensingNote": "LEGO Star Wars product listed by the official LEGO US store.",
     "sources": [
       {
@@ -97,8 +118,8 @@
     "retailerUrl": "https://store.crunchyroll.com/products/naruto-shippuden-ichiraku-ramen-t-shirt-crunchyroll-exclusive-196599001341.html",
     "verifiedAt": "2026-09-26",
     "featured": true,
-    "image": "https://i.ytimg.com/vi/22R0j8UKRzY/hqdefault.jpg",
-    "mediaNote": "Official Naruto Shippuden trailer visual for context. The exact product photograph remains on Crunchyroll Store because republication permission was not established.",
+    "image": "/media/anime-naruto-context-960.webp",
+    "mediaNote": "Licensed Naruto fan cosplay is shown for franchise context. The exact T-shirt photograph remains on Crunchyroll Store because republication permission was not established.",
     "licensingNote": "The Crunchyroll listing explicitly identifies the shirt as officially licensed and exclusive to Crunchyroll.",
     "sources": [
       {
@@ -108,14 +129,21 @@
       {
         "label": "VIZ Media official Naruto Shippuden trailer — contextual visual",
         "url": "https://www.youtube.com/watch?v=22R0j8UKRzY"
+      },
+      {
+        "label": "Licensed context photo and reuse terms",
+        "url": "https://commons.wikimedia.org/wiki/File:Naruto_Uzumaki_cosplay_at_Japan_Expo_2016.jpg"
       }
     ],
-    "imageAlt": "Naruto Uzumaki in VIZ Media's official Naruto Shippuden Set 1 trailer; this is not the T-shirt",
-    "imageKind": "official-trailer-thumbnail",
-    "imageCredit": "VIZ Media via its official YouTube trailer",
-    "imageSourceUrl": "https://www.youtube.com/watch?v=22R0j8UKRzY",
-    "imageContext": "Official Naruto Shippuden trailer visual, shown for franchise context; the exact T-shirt photo is on the retailer page, not reproduced here.",
-    "imageVerifiedAt": "2026-09-27"
+    "imageAlt": "Naruto Uzumaki fan cosplay at Japan Expo; context image, not an official video frame or product photo",
+    "imageKind": "fan-cosplay",
+    "imageCredit": "Miguel Discart · CC BY-SA 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Naruto_Uzumaki_cosplay_at_Japan_Expo_2016.jpg",
+    "imageContext": "Naruto Uzumaki fan cosplay at Japan Expo for franchise context; not an official product photograph.",
+    "imageVerifiedAt": "2026-09-27",
+    "officialThumbnailUrl": "https://i.ytimg.com/vi/22R0j8UKRzY/hqdefault.jpg",
+    "imagePermission": "Miguel Discart · CC BY-SA 2.0; locally resized and converted to AVIF/WebP. Character and franchise rights remain with their owners.",
+    "imageFocus": "center 9%"
   },
   {
     "id": "merch-one-piece-digital",
@@ -134,8 +162,15 @@
     "retailerUrl": "https://www.viz.com/manga-books/manga/one-piece-volume-1/product/139/digital",
     "verifiedAt": "2026-09-26",
     "featured": true,
-    "image": null,
-    "mediaNote": "Book cover reuse permission has not been established. View the official preview and cover at VIZ.",
+    "image": "/media/manga-profile-luffy-960.webp",
+    "imageAlt": "Monkey D. Luffy fan cosplay; not the One Piece Volume 1 digital cover",
+    "imageKind": "fan-cosplay",
+    "imageCredit": "Castorice · CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Monkey_D._Luffy.jpg",
+    "imageContext": "Luffy fan cosplay for One Piece context; not the digital edition's cover.",
+    "imageVerifiedAt": "2026-09-27",
+    "mediaPermission": "Existing CC BY-SA 4.0 photograph by Castorice, resized and converted under the same license. Cover reuse rights remain unverified.",
+    "mediaNote": "View the exact digital cover and preview at VIZ.",
     "licensingNote": "Digital edition offered directly by English-language publisher VIZ Media.",
     "sources": [
       {

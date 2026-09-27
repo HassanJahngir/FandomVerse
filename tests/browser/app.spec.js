@@ -319,16 +319,16 @@ test("demo login and signup collect no password and save no identity", async ({
   ).not.toContain("test@example.com");
 });
 
-test("official Anime preview and licensed cosplay remain clearly attributed", async ({
+test("locally bundled Anime cosplay and sources remain clearly attributed", async ({
   page,
 }) => {
   await page.goto("/#/world/anime");
-  await expect(page.locator(".anime-heading")).toHaveCSS(
-    "background-image",
-    /i\.ytimg\.com\/vi\/9kb7vK11_Rw/,
+  await expect(page.locator(".image-heading .heading-visual img")).toHaveAttribute(
+    "src",
+    /anime-naruto-context-960\.webp/,
   );
   await expect(page.locator(".heading-photo-credit")).toContainText(
-    "Official trailer visual",
+    "Fan cosplay photo",
   );
   for (const slug of ["tanjiro", "nezuko", "zenitsu", "inosuke", "giyu"]) {
     await page.goto(`/#/item/anime-profile-${slug}`);
@@ -344,6 +344,35 @@ test("official Anime preview and licensed cosplay remain clearly attributed", as
       "href",
       /commons\.wikimedia\.org/,
     );
+  }
+});
+
+test("world headers use relevant sourced photos and cards share dimensions", async ({ page }) => {
+  for (const world of ["anime", "gaming", "movies", "tv", "kpop", "comics", "manga"]) {
+    await page.goto(`/#/world/${world}`);
+    await expect(page.locator(".image-heading .heading-visual img")).toHaveAttribute("src", /\S+/);
+    await expect(page.locator(".image-heading .heading-photo-credit")).toHaveAttribute("href", /^https:\/\//);
+    const sizes = await page.locator(".card-grid .content-card").evaluateAll((cards) =>
+      cards.slice(0, 5).map((card) => {
+        const rect = card.getBoundingClientRect();
+        return [Math.round(rect.width), Math.round(rect.height)];
+      }),
+    );
+    expect(new Set(sizes.map(([width]) => width)).size).toBe(1);
+    expect(new Set(sizes.map(([, height]) => height)).size).toBe(1);
+  }
+});
+
+test("all merchandise cards show credited local context photos", async ({ page }) => {
+  await page.goto("/#/merchandise");
+  const cards = page.locator(".card-grid .content-card");
+  await expect(cards).toHaveCount(5);
+  for (let index = 0; index < 5; index++) {
+    const card = cards.nth(index);
+    const photo = card.locator(".card-art img");
+    await photo.scrollIntoViewIfNeeded();
+    await expect.poll(() => photo.evaluate((image) => image.naturalWidth)).toBeGreaterThan(0);
+    await expect(card.locator(".card-photo-label")).toContainText("not product photo");
   }
 });
 

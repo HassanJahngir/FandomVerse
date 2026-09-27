@@ -24,6 +24,49 @@ import { bookmarkExport } from "./lib/storage";
 import team from "./config/team.json";
 
 const itemLink = (item) => `#/item/${item.id}`;
+// Page art comes from sourced records. Context photos and online trailer previews
+// are credited rather than presented as original franchise artwork.
+const headingRecord = (id) => content.find((item) => item.id === id);
+const worldHeadingIds = {
+  anime: "anime-trailer-naruto-shippuden",
+  gaming: "gaming-event-gamescom2025",
+  movies: "movies-event-celebration-japan-2025",
+  tv: "tv-gallery-real-world",
+  kpop: "kpop-gallery-real-world",
+  comics: "comics-event-comic-con-2025",
+  manga: "manga-gallery-culture",
+};
+const collectionHeadingIds = {
+  explore: "anime-event-ax2025",
+  profiles: "movies-gallery-real-world",
+  events: "gaming-event-gamescom2025",
+  trailers: "anime-trailer-naruto-shippuden",
+  merchandise: "anime-trailer-naruto-shippuden",
+  media: "gaming-gallery-culture",
+  search: "comics-event-comic-con-2025",
+  calendar: "movies-release-star-wars-starfighter",
+  about: "anime-event-ax2025",
+  contact: "kpop-gallery-real-world",
+  credits: "manga-gallery-culture",
+};
+function HeadingVisual({ item, context = "" }) {
+  if (!item?.image) return null;
+  const source = item.imageSourceUrl || item.sources?.[0]?.url;
+  const isTrailer = item.imageKind === "official-trailer-thumbnail";
+  const label = context || (isTrailer ? "Official trailer preview" : item.imageKind === "fan-cosplay" ? "Fan cosplay photo" : "Credited fandom photo");
+  return (
+    <>
+      <div className="heading-visual" aria-hidden="true">
+        <Image src={item.image} alt="" priority sizes="(max-width: 700px) 100vw, 1200px" style={{ objectPosition: item.imageFocus || "center 38%" }} />
+      </div>
+      {source && (
+        <a className="heading-photo-credit" href={source} target="_blank" rel="noreferrer">
+          {label} · {item.imageCredit || "source"}{isTrailer ? " · online" : ""}
+        </a>
+      )}
+    </>
+  );
+}
 function categoryImage(id) {
   if (id === "anime") return content.find((item) => item.id === "anime-trailer-jujutsu-kaisen")?.image;
   return (
@@ -441,9 +484,11 @@ export function Catalog({
       className="container catalog-page"
       style={{ "--world": world?.color || "#bd9aff" }}
     >
-      <header
-        className={`page-heading ${category === "anime" ? "anime-heading" : ""}`}
-      >
+      <header className="page-heading image-heading">
+        <HeadingVisual
+          item={headingRecord(world ? worldHeadingIds[category] : collectionHeadingIds[mode] || collectionHeadingIds.explore)}
+          context={mode === "merchandise" && !world ? "Naruto fandom visual · not a product photo" : ""}
+        />
         <p className="eyebrow">
           {world
             ? `WORLD 0${categories.findIndex((c) => c.id === category) + 1} / ${world.eyebrow}`
@@ -455,16 +500,6 @@ export function Catalog({
           <span className="world-heading-symbol" aria-hidden="true">
             {world.symbol}
           </span>
-        )}
-        {category === "anime" && (
-          <a
-            className="heading-photo-credit"
-            href={content.find((item) => item.id === "anime-trailer-infinitycastle")?.imageSourceUrl}
-            target="_blank"
-            rel="noreferrer"
-          >
-            Official trailer visual · Aniplex USA · internet required
-          </a>
         )}
       </header>
       {mode === "explore" && !category && (
@@ -917,7 +952,8 @@ export function Detail({ item, ...props }) {
       className="container detail-page"
       style={{ "--world": category?.color }}
     >
-      <header className="detail-heading">
+      <header className="detail-heading image-heading">
+        <HeadingVisual item={item} context={item.imageContext ? "Context image · see source" : ""} />
         <p className="eyebrow">
           {category?.name} / {typeLabel(item.type)}{" "}
           {getStatus(item) && ` / ${getStatus(item)}`}
@@ -1176,7 +1212,8 @@ export function Bookmarks({ bookmarks, notes, updateNote, ...props }) {
   }
   return (
     <div className="container saved-page">
-      <header className="page-heading">
+      <header className="page-heading image-heading">
+        <HeadingVisual item={saved.find((item) => item.image) || headingRecord(collectionHeadingIds.explore)} context={saved.length ? "Saved collection image" : "Fandom community photo"} />
         <p className="eyebrow">YOUR PERSONAL ORBIT</p>
         <h1>Keep a little of every world.</h1>
         <p>
@@ -1242,7 +1279,8 @@ export function Calendar(props) {
   const inMonth = records.filter((item) => item.date?.startsWith(key));
   return (
     <div className="container calendar-page">
-      <header className="page-heading">
+      <header className="page-heading image-heading">
+        <HeadingVisual item={headingRecord(collectionHeadingIds.calendar)} context="Star Wars release context · see source" />
         <p className="eyebrow">WHAT’S ON THE HORIZON</p>
         <h1>Good things are worth the wait.</h1>
         <p>
@@ -1390,7 +1428,8 @@ export function Calendar(props) {
 export function About() {
   return (
     <div className="container info-page">
-      <header className="page-heading">
+      <header className="page-heading image-heading">
+        <HeadingVisual item={headingRecord(collectionHeadingIds.about)} context="Fan community photo" />
         <p className="eyebrow">MADE FOR THE THINGS YOU LOVE</p>
         <h1>
           Different worlds.
@@ -1518,7 +1557,8 @@ export function Contact() {
   }
   return (
     <div className="container info-page">
-      <header className="page-heading">
+      <header className="page-heading image-heading">
+        <HeadingVisual item={headingRecord(collectionHeadingIds.contact)} context="Fandom community photo · not the team location" />
         <p className="eyebrow">LET’S CONNECT</p>
         <h1>
           Every conversation
@@ -1621,7 +1661,8 @@ export function Credits() {
   const galleries = content.filter((item) => item.type === "gallery");
   return (
     <div className="container info-page">
-      <header className="page-heading">
+      <header className="page-heading image-heading">
+        <HeadingVisual item={headingRecord(collectionHeadingIds.credits)} context="Credited manga culture photo" />
         <p className="eyebrow">A CLEAR TRAIL BACK TO THE SOURCE</p>
         <h1>Credits, context & care.</h1>
         <p>

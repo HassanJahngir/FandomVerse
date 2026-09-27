@@ -179,23 +179,30 @@
     ],
     "featured": false,
     "verifiedAt": "2026-09-26",
-    "image": "https://i.ytimg.com/vi/MPxtqx55PA0/hqdefault.jpg",
-    "imageAlt": "Official Doctor Who Season 2 trailer thumbnail",
+    "image": "/media/doctor-who-experience-2016-960.webp",
+    "imageAlt": "Doctor Who Experience exhibit; context image, not an official video frame",
     "sources": [
       {
         "label": "Official event source",
         "url": "https://www.doctorwho.tv/news-and-features/catherine-tate-to-host-the-doctor-who-prom"
+      },
+      {
+        "label": "Licensed context photo and reuse terms",
+        "url": "https://commons.wikimedia.org/wiki/File:Doctor_Who_Experience_(29349401791).jpg"
       }
     ],
     "date": "2024-08-26",
     "endDate": "2024-08-26",
     "location": "Royal Albert Hall, London, UK",
     "status": "past",
-    "imageCredit": "Doctor Who",
-    "imageKind": "official-trailer-thumbnail",
-    "imageSourceUrl": "https://www.youtube.com/watch?v=MPxtqx55PA0",
-    "imageContext": "Related franchise visual; it does not depict this event itself.",
-    "mediaPermission": "Context visual from tv-trailer-doctor-who-2025; see its credited source. Not an official image of this event."
+    "imageCredit": "Armina · CC BY 2.0",
+    "imageKind": "licensed-photo",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Doctor_Who_Experience_(29349401791).jpg",
+    "imageContext": "Doctor Who Experience exhibit for video or story context; not an official video frame.",
+    "mediaPermission": "Context visual from tv-trailer-doctor-who-2025; see its credited source. Not an official image of this event.",
+    "officialThumbnailUrl": "https://i.ytimg.com/vi/MPxtqx55PA0/hqdefault.jpg",
+    "imageVerifiedAt": "2026-09-27",
+    "imagePermission": "Armina · CC BY 2.0; locally resized and converted to AVIF/WebP. Character and franchise rights remain with their owners."
   },
   {
     "id": "tv-event-emmys-2024",
@@ -270,23 +277,30 @@
     ],
     "featured": false,
     "verifiedAt": "2026-09-26",
-    "image": "https://i.ytimg.com/vi/MPxtqx55PA0/hqdefault.jpg",
-    "imageAlt": "Official Doctor Who Season 2 trailer thumbnail",
+    "image": "/media/doctor-who-experience-2016-960.webp",
+    "imageAlt": "Doctor Who Experience exhibit; context image, not an official video frame",
     "sources": [
       {
         "label": "Disney+ official press announcement",
         "url": "https://press.disneyplus.com/news/disney-plus-unveils-otherworldly-new-doctor-who-season-two-trailer"
+      },
+      {
+        "label": "Licensed context photo and reuse terms",
+        "url": "https://commons.wikimedia.org/wiki/File:Doctor_Who_Experience_(29349401791).jpg"
       }
     ],
     "date": "2025-04-12",
     "status": "released",
     "location": "BBC iPlayer / BBC One (UK); Disney+ where available",
     "franchise": "Doctor Who",
-    "imageCredit": "Doctor Who",
-    "imageKind": "official-trailer-thumbnail",
-    "imageSourceUrl": "https://www.youtube.com/watch?v=MPxtqx55PA0",
-    "imageContext": "Related franchise visual; it does not depict the release artwork itself.",
-    "mediaPermission": "Context visual from tv-trailer-doctor-who-2025; see its credited source. Not an official image of this release."
+    "imageCredit": "Armina · CC BY 2.0",
+    "imageKind": "licensed-photo",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Doctor_Who_Experience_(29349401791).jpg",
+    "imageContext": "Doctor Who Experience exhibit for video or story context; not an official video frame.",
+    "mediaPermission": "Context visual from tv-trailer-doctor-who-2025; see its credited source. Not an official image of this release.",
+    "officialThumbnailUrl": "https://i.ytimg.com/vi/MPxtqx55PA0/hqdefault.jpg",
+    "imageVerifiedAt": "2026-09-27",
+    "imagePermission": "Armina · CC BY 2.0; locally resized and converted to AVIF/WebP. Character and franchise rights remain with their owners."
   },
   {
     "id": "tv-trailer-doctor-who-2025",
@@ -301,12 +315,16 @@
     ],
     "featured": true,
     "verifiedAt": "2026-09-26",
-    "image": "https://i.ytimg.com/vi/MPxtqx55PA0/hqdefault.jpg",
-    "imageAlt": "Official Doctor Who Season 2 trailer thumbnail",
+    "image": "/media/doctor-who-experience-2016-960.webp",
+    "imageAlt": "Doctor Who Experience exhibit; context image, not an official video frame",
     "sources": [
       {
         "label": "Doctor Who official YouTube channel",
         "url": "https://www.youtube.com/watch?v=MPxtqx55PA0"
+      },
+      {
+        "label": "Licensed context photo and reuse terms",
+        "url": "https://commons.wikimedia.org/wiki/File:Doctor_Who_Experience_(29349401791).jpg"
       }
     ],
     "date": "2025-03-02",
@@ -316,11 +334,15 @@
     "mediaUrl": "https://www.youtube.com/watch?v=MPxtqx55PA0",
     "embedUrl": "https://www.youtube-nocookie.com/embed/MPxtqx55PA0",
     "mediaPermission": "Official YouTube player is embeddable according to YouTube oEmbed; media remains on YouTube and is not downloaded.",
-    "poster": "https://i.ytimg.com/vi/MPxtqx55PA0/hqdefault.jpg",
-    "imageCredit": "Doctor Who",
-    "imageKind": "official-trailer-thumbnail",
-    "imageSourceUrl": "https://www.youtube.com/watch?v=MPxtqx55PA0",
-    "mediaPermissionNote": "Official YouTube player and thumbnail supplied through YouTube oEmbed; loads online. The video and image are not bundled or licensed for download by this project."
+    "poster": "/media/doctor-who-experience-2016-960.webp",
+    "imageCredit": "Armina · CC BY 2.0",
+    "imageKind": "licensed-photo",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Doctor_Who_Experience_(29349401791).jpg",
+    "mediaPermissionNote": "Official YouTube player and thumbnail supplied through YouTube oEmbed; loads online. The video and image are not bundled or licensed for download by this project.",
+    "officialThumbnailUrl": "https://i.ytimg.com/vi/MPxtqx55PA0/hqdefault.jpg",
+    "imageContext": "Doctor Who Experience exhibit for video or story context; not an official video frame.",
+    "imageVerifiedAt": "2026-09-27",
+    "imagePermission": "Armina · CC BY 2.0; locally resized and converted to AVIF/WebP. Character and franchise rights remain with their owners."
   },
   {
     "id": "tv-article-doctor-who-companions",
@@ -335,8 +357,8 @@
     ],
     "featured": true,
     "verifiedAt": "2026-09-26",
-    "image": "https://i.ytimg.com/vi/MPxtqx55PA0/hqdefault.jpg",
-    "imageAlt": "Official Doctor Who Season 2 trailer thumbnail",
+    "image": "/media/doctor-who-experience-2016-960.webp",
+    "imageAlt": "Doctor Who Experience exhibit; context image, not an official video frame",
     "sources": [
       {
         "label": "Doctor Who official character guide",
@@ -361,6 +383,10 @@
       {
         "label": "Doctor Who official trailer",
         "url": "https://www.youtube.com/watch?v=MPxtqx55PA0"
+      },
+      {
+        "label": "Licensed context photo and reuse terms",
+        "url": "https://commons.wikimedia.org/wiki/File:Doctor_Who_Experience_(29349401791).jpg"
       }
     ],
     "body": [
@@ -370,9 +396,13 @@
       "Ruby brings music, an adoptive family and questions about her origins into her travels. Those details give the viewer connections beyond the next alien encounter. River, in contrast, asks us to pay attention to chronology itself. Her encounters with the Doctor unfold in different orders for each of them. A timeline can therefore clarify facts, but it cannot replace the experience of learning something at a particular moment in a story.",
       "The Tenth Doctor's profile sits alongside these human perspectives rather than cancelling them out. His ability to travel is the premise; the people who travel with him help shape what a journey means. For a manageable starting exercise, choose one companion profile and one official episode link from its source. Record what the character knows at the beginning and what they choose by the end. This is an interpretation exercise rather than an official watch order, and it works without treating decades of television as homework that must be completed first."
     ],
-    "imageCredit": "Doctor Who",
-    "imageKind": "official-trailer-thumbnail",
-    "imageSourceUrl": "https://www.youtube.com/watch?v=MPxtqx55PA0"
+    "imageCredit": "Armina · CC BY 2.0",
+    "imageKind": "licensed-photo",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Doctor_Who_Experience_(29349401791).jpg",
+    "officialThumbnailUrl": "https://i.ytimg.com/vi/MPxtqx55PA0/hqdefault.jpg",
+    "imageContext": "Doctor Who Experience exhibit for video or story context; not an official video frame.",
+    "imageVerifiedAt": "2026-09-27",
+    "imagePermission": "Armina · CC BY 2.0; locally resized and converted to AVIF/WebP. Character and franchise rights remain with their owners."
   },
   {
     "id": "tv-release-ahsoka-season-2",

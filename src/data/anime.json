@@ -259,22 +259,29 @@
     ],
     "featured": false,
     "verifiedAt": "2026-09-26",
-    "image": "https://i.ytimg.com/vi/VQGCKyvzIM4/hqdefault.jpg",
-    "imageAlt": "Official Demon Slayer: Kimetsu no Yaiba — Trailer 1 thumbnail",
+    "image": "/media/anime-nezuko-cosplay-960.webp",
+    "imageAlt": "Nezuko fan cosplay; context image, not an official video frame",
     "sources": [
       {
         "label": "Anime Expo: archived 2025 schedule",
         "url": "https://www.anime-expo.org/ax/schedule-2025/"
+      },
+      {
+        "label": "Licensed context photo and reuse terms",
+        "url": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Nezuko_Kamado_at_Made_in_Asia_2022_(52129814711).jpg"
       }
     ],
     "date": "2025-07-04",
     "location": "Peacock Theater, Los Angeles, California, USA",
     "status": "past",
-    "imageCredit": "Aniplex USA",
-    "imageKind": "official-trailer-thumbnail",
-    "imageSourceUrl": "https://www.youtube.com/watch?v=VQGCKyvzIM4",
-    "imageContext": "Related franchise visual; it does not depict this event itself.",
-    "mediaPermission": "Context visual from anime-trailer-original-2019; see its credited source. Not an official image of this event."
+    "imageCredit": "Kiri Karma · CC BY-SA 2.0",
+    "imageKind": "fan-cosplay",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Nezuko_Kamado_at_Made_in_Asia_2022_(52129814711).jpg",
+    "imageContext": "Nezuko fan cosplay for video or story context; not an official video frame.",
+    "mediaPermission": "Context visual from anime-trailer-original-2019; see its credited source. Not an official image of this event.",
+    "officialThumbnailUrl": "https://i.ytimg.com/vi/VQGCKyvzIM4/hqdefault.jpg",
+    "imageVerifiedAt": "2026-09-27",
+    "imagePermission": "Kiri Karma · CC BY-SA 2.0; locally resized and converted to AVIF/WebP. Character and franchise rights remain with their owners."
   },
   {
     "id": "anime-release-infinitycastle-us",
@@ -289,23 +296,30 @@
     ],
     "featured": false,
     "verifiedAt": "2026-09-26",
-    "image": "https://i.ytimg.com/vi/9kb7vK11_Rw/hqdefault.jpg",
-    "imageAlt": "Official Demon Slayer: Infinity Castle trailer thumbnail",
+    "image": "/media/anime-demon-slayer-group-cosplay-960.webp",
+    "imageAlt": "Demon Slayer fan cosplay at FanimeCon; context image, not an official video frame",
     "sources": [
       {
         "label": "Official release announcement",
         "url": "https://demonslayer-anime.com/news/?id=68526"
+      },
+      {
+        "label": "Licensed context photo and reuse terms",
+        "url": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Tanjiro_Kamado%2C_Nezuko_Kamado_and_Zenitsu_Agatsuma_from_Demon_Slayer_Kimetsu_no_Yaiba_at_FanimeCon_2023_(53055055252).jpg"
       }
     ],
     "date": "2025-09-12",
     "status": "released",
     "location": "United States and Canada",
     "franchise": "Demon Slayer: Kimetsu no Yaiba",
-    "imageCredit": "Aniplex USA",
-    "imageKind": "official-trailer-thumbnail",
-    "imageSourceUrl": "https://www.youtube.com/watch?v=9kb7vK11_Rw",
-    "imageContext": "Related franchise visual; it does not depict the release artwork itself.",
-    "mediaPermission": "Context visual from anime-trailer-infinitycastle; see its credited source. Not an official image of this release."
+    "imageCredit": "LX-Designs (Alex Wong) · CC BY-SA 2.0",
+    "imageKind": "fan-cosplay",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Tanjiro_Kamado%2C_Nezuko_Kamado_and_Zenitsu_Agatsuma_from_Demon_Slayer_Kimetsu_no_Yaiba_at_FanimeCon_2023_(53055055252).jpg",
+    "imageContext": "Demon Slayer fan cosplay at FanimeCon for video or story context; not an official video frame.",
+    "mediaPermission": "Context visual from anime-trailer-infinitycastle; see its credited source. Not an official image of this release.",
+    "officialThumbnailUrl": "https://i.ytimg.com/vi/9kb7vK11_Rw/hqdefault.jpg",
+    "imageVerifiedAt": "2026-09-27",
+    "imagePermission": "LX-Designs (Alex Wong) · CC BY-SA 2.0; locally resized and converted to AVIF/WebP. Character and franchise rights remain with their owners."
   },
   {
     "id": "anime-trailer-infinitycastle",
@@ -320,12 +334,16 @@
     ],
     "featured": false,
     "verifiedAt": "2026-09-26",
-    "image": "https://i.ytimg.com/vi/9kb7vK11_Rw/hqdefault.jpg",
-    "imageAlt": "Official Demon Slayer: Infinity Castle trailer thumbnail",
+    "image": "/media/anime-demon-slayer-group-cosplay-960.webp",
+    "imageAlt": "Demon Slayer fan cosplay at FanimeCon; context image, not an official video frame",
     "sources": [
       {
         "label": "Aniplex USA official YouTube upload",
         "url": "https://www.youtube.com/watch?v=9kb7vK11_Rw"
+      },
+      {
+        "label": "Licensed context photo and reuse terms",
+        "url": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Tanjiro_Kamado%2C_Nezuko_Kamado_and_Zenitsu_Agatsuma_from_Demon_Slayer_Kimetsu_no_Yaiba_at_FanimeCon_2023_(53055055252).jpg"
       }
     ],
     "status": "released",
@@ -334,12 +352,16 @@
     "mediaUrl": "https://www.youtube.com/watch?v=9kb7vK11_Rw",
     "mediaPermission": "Official YouTube player is embeddable according to YouTube oEmbed; media remains on YouTube and is not downloaded.",
     "transcript": "Context summary: A promotional introduction to the Infinity Castle film and its conflict between the Demon Slayer Corps and demons. This is a descriptive summary, not a verbatim transcript.",
-    "poster": "https://i.ytimg.com/vi/9kb7vK11_Rw/hqdefault.jpg",
-    "imageCredit": "Aniplex USA",
-    "imageKind": "official-trailer-thumbnail",
-    "imageSourceUrl": "https://www.youtube.com/watch?v=9kb7vK11_Rw",
+    "poster": "/media/anime-demon-slayer-group-cosplay-960.webp",
+    "imageCredit": "LX-Designs (Alex Wong) · CC BY-SA 2.0",
+    "imageKind": "fan-cosplay",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Tanjiro_Kamado%2C_Nezuko_Kamado_and_Zenitsu_Agatsuma_from_Demon_Slayer_Kimetsu_no_Yaiba_at_FanimeCon_2023_(53055055252).jpg",
     "embedUrl": "https://www.youtube-nocookie.com/embed/9kb7vK11_Rw",
-    "mediaPermissionNote": "Official YouTube player and thumbnail supplied through YouTube oEmbed; loads online. The video and image are not bundled or licensed for download by this project."
+    "mediaPermissionNote": "Official YouTube player and thumbnail supplied through YouTube oEmbed; loads online. The video and image are not bundled or licensed for download by this project.",
+    "officialThumbnailUrl": "https://i.ytimg.com/vi/9kb7vK11_Rw/hqdefault.jpg",
+    "imageContext": "Demon Slayer fan cosplay at FanimeCon for video or story context; not an official video frame.",
+    "imageVerifiedAt": "2026-09-27",
+    "imagePermission": "LX-Designs (Alex Wong) · CC BY-SA 2.0; locally resized and converted to AVIF/WebP. Character and franchise rights remain with their owners."
   },
   {
     "id": "anime-article-demonslayer-start",
@@ -354,8 +376,8 @@
     ],
     "featured": true,
     "verifiedAt": "2026-09-26",
-    "image": "https://i.ytimg.com/vi/9kb7vK11_Rw/hqdefault.jpg",
-    "imageAlt": "Official Demon Slayer: Infinity Castle trailer thumbnail",
+    "image": "/media/anime-demon-slayer-group-cosplay-960.webp",
+    "imageAlt": "Demon Slayer fan cosplay at FanimeCon; context image, not an official video frame",
     "sources": [
       {
         "label": "Official first episode story",
@@ -387,17 +409,21 @@
       "When you watch an official trailer, treat it as advertising with its own editing choices. A trailer can establish mood and introduce a release, but it is not a substitute for the order or context of the complete story. The first Infinity Castle film’s United States and Canada theatrical date, September 12, 2025, is preserved here as release history. A historical date should not turn into a promise that a particular cinema or streaming service offers the film today.",
       "For a conversation with another fan, try discussing a decision before debating a power ranking. Which choice makes you understand a character more clearly? Where does the story ask you to hold sympathy and danger in mind at the same time? Those questions work even if you are at different stages of the series, provided you agree on a spoiler boundary first. The purpose of this guide is to make room for that thoughtful exchange while leaving the surprises of the original work intact."
     ],
-    "imageCredit": "Aniplex USA",
-    "imageSourceUrl": "https://www.youtube.com/watch?v=9kb7vK11_Rw",
+    "imageCredit": "LX-Designs (Alex Wong) · CC BY-SA 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Tanjiro_Kamado%2C_Nezuko_Kamado_and_Zenitsu_Agatsuma_from_Demon_Slayer_Kimetsu_no_Yaiba_at_FanimeCon_2023_(53055055252).jpg",
     "mediaPermission": "Fan cosplay photograph, CC BY-SA 2.0; not official character artwork. Converted and cropped for responsive display.",
-    "imageKind": "official-trailer-thumbnail"
+    "imageKind": "fan-cosplay",
+    "officialThumbnailUrl": "https://i.ytimg.com/vi/9kb7vK11_Rw/hqdefault.jpg",
+    "imageContext": "Demon Slayer fan cosplay at FanimeCon for video or story context; not an official video frame.",
+    "imageVerifiedAt": "2026-09-27",
+    "imagePermission": "LX-Designs (Alex Wong) · CC BY-SA 2.0; locally resized and converted to AVIF/WebP. Character and franchise rights remain with their owners."
   },
   {
     "id": "anime-gallery-culture",
     "category": "anime",
     "type": "gallery",
-    "title": "Official Demon Slayer previews and fan culture",
-    "description": "Official Aniplex USA anime trailer previews followed by separately credited fan cosplay and Anime Expo photography. The anime previews load from YouTube.",
+    "title": "Anime fan culture across five series",
+    "description": "Licensed photographs of Naruto, Attack on Titan, Jujutsu Kaisen, My Hero Academia and Demon Slayer fan cosplay, plus an Anime Expo crowd scene. These are real fans, not official anime frames.",
     "tags": [
       "Photography",
       "Archive",
@@ -405,8 +431,8 @@
     ],
     "featured": true,
     "verifiedAt": "2026-09-26",
-    "image": "https://i.ytimg.com/vi/9kb7vK11_Rw/hqdefault.jpg",
-    "imageAlt": "Official Demon Slayer: Infinity Castle trailer thumbnail",
+    "image": "/media/anime-demon-slayer-group-cosplay-960.webp",
+    "imageAlt": "Demon Slayer fan cosplay at FanimeCon; context image, not an official video frame",
     "sources": [
       {
         "label": "Aniplex USA official trailer and preview",
@@ -431,40 +457,60 @@
       {
         "label": "Demon Slayer: Hashira Training Arc — official trailer official upload",
         "url": "https://www.youtube.com/watch?v=rq1tllAUS1I"
+      },
+      {
+        "label": "Licensed fan cosplay and reuse terms",
+        "url": "https://commons.wikimedia.org/wiki/File:Naruto_Uzumaki_cosplay_at_Japan_Expo_2016.jpg"
+      },
+      {
+        "label": "Licensed fan cosplay and reuse terms",
+        "url": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Eren_Yeager.jpg"
+      },
+      {
+        "label": "Licensed fan cosplay and reuse terms",
+        "url": "https://commons.wikimedia.org/wiki/File:Satoru_Goj%C5%8D_cosplay.jpg"
+      },
+      {
+        "label": "Licensed fan cosplay and reuse terms",
+        "url": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Rumi_Usagiyama,_Keigo_Takami_and_Yu_Takeyama_from_My_Hero_Academia_at_Japan_Expo_2023,_Day_2_(53176984562).jpg"
       }
     ],
     "gallery": [
       {
-        "src": "https://i.ytimg.com/vi/9kb7vK11_Rw/hqdefault.jpg",
-        "alt": "Official Demon Slayer: Infinity Castle trailer thumbnail",
-        "credit": "Aniplex USA via YouTube oEmbed",
-        "sourceUrl": "https://www.youtube.com/watch?v=9kb7vK11_Rw",
-        "license": "Official remote preview; not licensed for local download",
-        "changes": "No local copy or conversion; displayed from YouTube's thumbnail URL"
+        "src": "/media/anime-naruto-context-960.webp",
+        "alt": "Naruto Uzumaki fan cosplay at Japan Expo",
+        "credit": "Miguel Discart · CC BY-SA 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Naruto_Uzumaki_cosplay_at_Japan_Expo_2016.jpg",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "changes": "Downloaded, resized and converted to AVIF/WebP. Gallery uses the original photo; no official anime frame is implied."
       },
       {
-        "src": "https://i.ytimg.com/vi/VQGCKyvzIM4/hqdefault.jpg",
-        "alt": "Official Demon Slayer: Kimetsu no Yaiba — Trailer 1 thumbnail",
-        "credit": "Aniplex USA via YouTube oEmbed",
-        "sourceUrl": "https://www.youtube.com/watch?v=VQGCKyvzIM4",
-        "license": "Official remote preview; not licensed for local download",
-        "changes": "No local copy or conversion; displayed from YouTube's thumbnail URL"
+        "src": "/media/anime-aot-context-960.webp",
+        "alt": "Eren Yeager fan cosplay from Attack on Titan",
+        "credit": "GabboT (Tony Shek) · CC BY-SA 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Eren_Yeager.jpg",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "changes": "Downloaded, resized and converted to AVIF/WebP. Gallery uses the original photo; no official anime frame is implied."
       },
       {
-        "src": "https://i.ytimg.com/vi/a9tq0aS5Zu8/hqdefault.jpg",
-        "alt": "Official Demon Slayer: Swordsmith Village Arc — official trailer thumbnail",
-        "credit": "Aniplex USA via YouTube oEmbed",
-        "sourceUrl": "https://www.youtube.com/watch?v=a9tq0aS5Zu8",
-        "license": "Official remote preview; not licensed for local download",
-        "changes": "No local copy or conversion; displayed from YouTube's thumbnail URL"
+        "src": "/media/anime-jjk-context-960.webp",
+        "alt": "Satoru Gojo fan cosplay from Jujutsu Kaisen",
+        "credit": "Solomon203 · CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Satoru_Goj%C5%8D_cosplay.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "changes": "Downloaded, resized and converted to AVIF/WebP. Gallery uses the original photo; no official anime frame is implied."
       },
       {
-        "src": "https://i.ytimg.com/vi/rq1tllAUS1I/hqdefault.jpg",
-        "alt": "Official Demon Slayer: Hashira Training Arc — official trailer thumbnail",
-        "credit": "Aniplex USA via YouTube oEmbed",
-        "sourceUrl": "https://www.youtube.com/watch?v=rq1tllAUS1I",
-        "license": "Official remote preview; not licensed for local download",
-        "changes": "No local copy or conversion; displayed from YouTube's thumbnail URL"
+        "src": "/media/anime-mha-context-960.webp",
+        "alt": "My Hero Academia fan cosplay at Japan Expo",
+        "credit": "Kiri Karma · CC BY-SA 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Rumi_Usagiyama,_Keigo_Takami_and_Yu_Takeyama_from_My_Hero_Academia_at_Japan_Expo_2023,_Day_2_(53176984562).jpg",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "changes": "Downloaded, resized and converted to AVIF/WebP. Gallery uses the original photo; no official anime frame is implied."
       },
       {
         "src": "/media/anime-demon-slayer-group-cosplay-960.webp",
@@ -485,9 +531,13 @@
         "changes": "Resized and converted to AVIF/WebP. Interface may crop preview; lightbox preserves the image."
       }
     ],
-    "imageCredit": "Aniplex USA",
-    "imageKind": "official-trailer-thumbnail",
-    "imageSourceUrl": "https://www.youtube.com/watch?v=9kb7vK11_Rw"
+    "imageCredit": "LX-Designs (Alex Wong) · CC BY-SA 2.0",
+    "imageKind": "fan-cosplay",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Tanjiro_Kamado%2C_Nezuko_Kamado_and_Zenitsu_Agatsuma_from_Demon_Slayer_Kimetsu_no_Yaiba_at_FanimeCon_2023_(53055055252).jpg",
+    "officialThumbnailUrl": "https://i.ytimg.com/vi/9kb7vK11_Rw/hqdefault.jpg",
+    "imageContext": "Demon Slayer fan cosplay at FanimeCon for video or story context; not an official video frame.",
+    "imageVerifiedAt": "2026-09-27",
+    "imagePermission": "LX-Designs (Alex Wong) · CC BY-SA 2.0; locally resized and converted to AVIF/WebP. Character and franchise rights remain with their owners."
   },
   {
     "id": "anime-trailer-original-2019",
@@ -502,12 +552,12 @@
     ],
     "featured": false,
     "verifiedAt": "2026-09-26",
-    "image": "https://i.ytimg.com/vi/VQGCKyvzIM4/hqdefault.jpg",
-    "imageAlt": "Official Demon Slayer: Kimetsu no Yaiba — Trailer 1 thumbnail",
-    "imageCredit": "Aniplex USA",
-    "imageKind": "official-trailer-thumbnail",
-    "imageSourceUrl": "https://www.youtube.com/watch?v=VQGCKyvzIM4",
-    "poster": "https://i.ytimg.com/vi/VQGCKyvzIM4/hqdefault.jpg",
+    "image": "/media/anime-nezuko-cosplay-960.webp",
+    "imageAlt": "Nezuko fan cosplay; context image, not an official video frame",
+    "imageCredit": "Kiri Karma · CC BY-SA 2.0",
+    "imageKind": "fan-cosplay",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Nezuko_Kamado_at_Made_in_Asia_2022_(52129814711).jpg",
+    "poster": "/media/anime-nezuko-cosplay-960.webp",
     "franchise": "Demon Slayer: Kimetsu no Yaiba",
     "mediaKind": "trailer",
     "mediaUrl": "https://www.youtube.com/watch?v=VQGCKyvzIM4",
@@ -519,8 +569,16 @@
       {
         "label": "Aniplex USA official YouTube upload",
         "url": "https://www.youtube.com/watch?v=VQGCKyvzIM4"
+      },
+      {
+        "label": "Licensed context photo and reuse terms",
+        "url": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Nezuko_Kamado_at_Made_in_Asia_2022_(52129814711).jpg"
       }
-    ]
+    ],
+    "officialThumbnailUrl": "https://i.ytimg.com/vi/VQGCKyvzIM4/hqdefault.jpg",
+    "imageContext": "Nezuko fan cosplay for video or story context; not an official video frame.",
+    "imageVerifiedAt": "2026-09-27",
+    "imagePermission": "Kiri Karma · CC BY-SA 2.0; locally resized and converted to AVIF/WebP. Character and franchise rights remain with their owners."
   },
   {
     "id": "anime-trailer-swordsmith-village",
@@ -535,12 +593,12 @@
     ],
     "featured": false,
     "verifiedAt": "2026-09-26",
-    "image": "https://i.ytimg.com/vi/a9tq0aS5Zu8/hqdefault.jpg",
-    "imageAlt": "Official Demon Slayer: Swordsmith Village Arc — official trailer thumbnail",
-    "imageCredit": "Aniplex USA",
-    "imageKind": "official-trailer-thumbnail",
-    "imageSourceUrl": "https://www.youtube.com/watch?v=a9tq0aS5Zu8",
-    "poster": "https://i.ytimg.com/vi/a9tq0aS5Zu8/hqdefault.jpg",
+    "image": "/media/anime-giyu-cosplay-960.webp",
+    "imageAlt": "Giyu and Shinobu fan cosplay; context image, not an official video frame",
+    "imageCredit": "Kaisars Fang · CC BY-SA 2.0",
+    "imageKind": "fan-cosplay",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Cosplayers_of_Giy%C5%AB_Tomioka_and_Shinobu_Koch%C5%8D_20200907a.jpg",
+    "poster": "/media/anime-giyu-cosplay-960.webp",
     "franchise": "Demon Slayer: Kimetsu no Yaiba",
     "mediaKind": "trailer",
     "mediaUrl": "https://www.youtube.com/watch?v=a9tq0aS5Zu8",
@@ -552,8 +610,16 @@
       {
         "label": "Aniplex USA official YouTube upload",
         "url": "https://www.youtube.com/watch?v=a9tq0aS5Zu8"
+      },
+      {
+        "label": "Licensed context photo and reuse terms",
+        "url": "https://commons.wikimedia.org/wiki/File:Cosplayers_of_Giy%C5%AB_Tomioka_and_Shinobu_Koch%C5%8D_20200907a.jpg"
       }
-    ]
+    ],
+    "officialThumbnailUrl": "https://i.ytimg.com/vi/a9tq0aS5Zu8/hqdefault.jpg",
+    "imageContext": "Giyu and Shinobu fan cosplay for video or story context; not an official video frame.",
+    "imageVerifiedAt": "2026-09-27",
+    "imagePermission": "Kaisars Fang · CC BY-SA 2.0; locally resized and converted to AVIF/WebP. Character and franchise rights remain with their owners."
   },
   {
     "id": "anime-trailer-hashira-training",
@@ -568,12 +634,12 @@
     ],
     "featured": false,
     "verifiedAt": "2026-09-26",
-    "image": "https://i.ytimg.com/vi/rq1tllAUS1I/hqdefault.jpg",
-    "imageAlt": "Official Demon Slayer: Hashira Training Arc — official trailer thumbnail",
-    "imageCredit": "Aniplex USA",
-    "imageKind": "official-trailer-thumbnail",
-    "imageSourceUrl": "https://www.youtube.com/watch?v=rq1tllAUS1I",
-    "poster": "https://i.ytimg.com/vi/rq1tllAUS1I/hqdefault.jpg",
+    "image": "/media/anime-zenitsu-cosplay-960.webp",
+    "imageAlt": "Zenitsu and Nezuko fan cosplay; context image, not an official video frame",
+    "imageCredit": "LX-Designs (Alex Wong) · CC BY-SA 2.0",
+    "imageKind": "fan-cosplay",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Nezuko_Kamado_and_Zenitsu_Agatsuma_from_Demon_Slayer_Kimetsu_no_Yaiba_at_FanimeCon_2023_(53056018850).jpg",
+    "poster": "/media/anime-zenitsu-cosplay-960.webp",
     "franchise": "Demon Slayer: Kimetsu no Yaiba",
     "mediaKind": "trailer",
     "mediaUrl": "https://www.youtube.com/watch?v=rq1tllAUS1I",
@@ -585,8 +651,16 @@
       {
         "label": "Aniplex USA official YouTube upload",
         "url": "https://www.youtube.com/watch?v=rq1tllAUS1I"
+      },
+      {
+        "label": "Licensed context photo and reuse terms",
+        "url": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Nezuko_Kamado_and_Zenitsu_Agatsuma_from_Demon_Slayer_Kimetsu_no_Yaiba_at_FanimeCon_2023_(53056018850).jpg"
       }
-    ]
+    ],
+    "officialThumbnailUrl": "https://i.ytimg.com/vi/rq1tllAUS1I/hqdefault.jpg",
+    "imageContext": "Zenitsu and Nezuko fan cosplay for video or story context; not an official video frame.",
+    "imageVerifiedAt": "2026-09-27",
+    "imagePermission": "LX-Designs (Alex Wong) · CC BY-SA 2.0; locally resized and converted to AVIF/WebP. Character and franchise rights remain with their owners."
   },
   {
     "id": "anime-trailer-attack-on-titan",
@@ -604,23 +678,32 @@
     "date": "2020-09-22",
     "status": "released",
     "verifiedAt": "2026-09-26",
-    "image": "https://i.ytimg.com/vi/MUCN-JwUvbY/hqdefault.jpg",
-    "imageAlt": "Official Attack on Titan Final Season | OFFICIAL TRAILER thumbnail",
-    "imageCredit": "Crunchyroll",
-    "imageKind": "official-trailer-thumbnail",
-    "imageSourceUrl": "https://www.youtube.com/watch?v=MUCN-JwUvbY",
+    "image": "/media/anime-aot-context-960.webp",
+    "imageAlt": "Eren Yeager fan cosplay from Attack on Titan; context image, not an official video frame",
+    "imageCredit": "GabboT (Tony Shek) · CC BY-SA 2.0",
+    "imageKind": "fan-cosplay",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Eren_Yeager.jpg",
     "mediaKind": "trailer",
     "mediaUrl": "https://www.youtube.com/watch?v=MUCN-JwUvbY",
     "embedUrl": "https://www.youtube-nocookie.com/embed/MUCN-JwUvbY",
-    "poster": "https://i.ytimg.com/vi/MUCN-JwUvbY/hqdefault.jpg",
+    "poster": "/media/anime-aot-context-960.webp",
     "mediaPermission": "Official channel YouTube oEmbed player and thumbnail; online only, no local copy or republication license claimed.",
     "transcript": "See the official YouTube player for captions and transcript where supplied by the publisher.",
     "sources": [
       {
         "label": "Crunchyroll official video",
         "url": "https://www.youtube.com/watch?v=MUCN-JwUvbY"
+      },
+      {
+        "label": "Licensed context photo and reuse terms",
+        "url": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Eren_Yeager.jpg"
       }
-    ]
+    ],
+    "officialThumbnailUrl": "https://i.ytimg.com/vi/MUCN-JwUvbY/hqdefault.jpg",
+    "imageContext": "Eren Yeager fan cosplay from Attack on Titan for video or story context; not an official video frame.",
+    "imageVerifiedAt": "2026-09-27",
+    "imagePermission": "GabboT (Tony Shek) · CC BY-SA 2.0; locally resized and converted to AVIF/WebP. Character and franchise rights remain with their owners.",
+    "imageFocus": "center 16%"
   },
   {
     "id": "anime-trailer-jujutsu-kaisen",
@@ -637,23 +720,32 @@
     "featured": true,
     "status": "released",
     "verifiedAt": "2026-09-26",
-    "image": "https://i.ytimg.com/vi/ztO4Bk0ALGI/hqdefault.jpg",
-    "imageAlt": "Official JUJUTSU KAISEN Sendai Colony | Official Trailer | Crunchyroll thumbnail",
-    "imageCredit": "Crunchyroll",
-    "imageKind": "official-trailer-thumbnail",
-    "imageSourceUrl": "https://www.youtube.com/watch?v=ztO4Bk0ALGI",
+    "image": "/media/anime-jjk-context-960.webp",
+    "imageAlt": "Satoru Gojo fan cosplay from Jujutsu Kaisen; context image, not an official video frame",
+    "imageCredit": "Solomon203 · CC BY-SA 4.0",
+    "imageKind": "fan-cosplay",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Satoru_Goj%C5%8D_cosplay.jpg",
     "mediaKind": "trailer",
     "mediaUrl": "https://www.youtube.com/watch?v=ztO4Bk0ALGI",
     "embedUrl": "https://www.youtube-nocookie.com/embed/ztO4Bk0ALGI",
-    "poster": "https://i.ytimg.com/vi/ztO4Bk0ALGI/hqdefault.jpg",
+    "poster": "/media/anime-jjk-context-960.webp",
     "mediaPermission": "Official channel YouTube oEmbed player and thumbnail; online only, no local copy or republication license claimed.",
     "transcript": "See the official YouTube player for captions and transcript where supplied by the publisher.",
     "sources": [
       {
         "label": "Crunchyroll official video",
         "url": "https://www.youtube.com/watch?v=ztO4Bk0ALGI"
+      },
+      {
+        "label": "Licensed context photo and reuse terms",
+        "url": "https://commons.wikimedia.org/wiki/File:Satoru_Goj%C5%8D_cosplay.jpg"
       }
-    ]
+    ],
+    "officialThumbnailUrl": "https://i.ytimg.com/vi/ztO4Bk0ALGI/hqdefault.jpg",
+    "imageContext": "Satoru Gojo fan cosplay from Jujutsu Kaisen for video or story context; not an official video frame.",
+    "imageVerifiedAt": "2026-09-27",
+    "imagePermission": "Solomon203 · CC BY-SA 4.0; locally resized and converted to AVIF/WebP. Character and franchise rights remain with their owners.",
+    "imageFocus": "center 12%"
   },
   {
     "id": "anime-trailer-my-hero-academia",
@@ -670,23 +762,31 @@
     "featured": true,
     "status": "released",
     "verifiedAt": "2026-09-26",
-    "image": "https://i.ytimg.com/vi/zz37nGym3OQ/hqdefault.jpg",
-    "imageAlt": "Official My Hero Academia FINAL SEASON | Official Trailer | Crunchyroll thumbnail",
-    "imageCredit": "Crunchyroll",
-    "imageKind": "official-trailer-thumbnail",
-    "imageSourceUrl": "https://www.youtube.com/watch?v=zz37nGym3OQ",
+    "image": "/media/anime-mha-context-960.webp",
+    "imageAlt": "My Hero Academia fan cosplay at Japan Expo; context image, not an official video frame",
+    "imageCredit": "Kiri Karma · CC BY-SA 2.0",
+    "imageKind": "fan-cosplay",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Rumi_Usagiyama,_Keigo_Takami_and_Yu_Takeyama_from_My_Hero_Academia_at_Japan_Expo_2023,_Day_2_(53176984562).jpg",
     "mediaKind": "trailer",
     "mediaUrl": "https://www.youtube.com/watch?v=zz37nGym3OQ",
     "embedUrl": "https://www.youtube-nocookie.com/embed/zz37nGym3OQ",
-    "poster": "https://i.ytimg.com/vi/zz37nGym3OQ/hqdefault.jpg",
+    "poster": "/media/anime-mha-context-960.webp",
     "mediaPermission": "Official channel YouTube oEmbed player and thumbnail; online only, no local copy or republication license claimed.",
     "transcript": "See the official YouTube player for captions and transcript where supplied by the publisher.",
     "sources": [
       {
         "label": "Crunchyroll official video",
         "url": "https://www.youtube.com/watch?v=zz37nGym3OQ"
+      },
+      {
+        "label": "Licensed context photo and reuse terms",
+        "url": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Rumi_Usagiyama,_Keigo_Takami_and_Yu_Takeyama_from_My_Hero_Academia_at_Japan_Expo_2023,_Day_2_(53176984562).jpg"
       }
-    ]
+    ],
+    "officialThumbnailUrl": "https://i.ytimg.com/vi/zz37nGym3OQ/hqdefault.jpg",
+    "imageContext": "My Hero Academia fan cosplay at Japan Expo for video or story context; not an official video frame.",
+    "imageVerifiedAt": "2026-09-27",
+    "imagePermission": "Kiri Karma · CC BY-SA 2.0; locally resized and converted to AVIF/WebP. Character and franchise rights remain with their owners."
   },
   {
     "id": "anime-trailer-naruto",
@@ -703,23 +803,32 @@
     "featured": true,
     "status": "released",
     "verifiedAt": "2026-09-26",
-    "image": "https://i.ytimg.com/vi/yeUpnIKt6k4/hqdefault.jpg",
-    "imageAlt": "Official Official English Trailer | Naruto, Set 1 | VIZ thumbnail",
-    "imageCredit": "vizmedia",
-    "imageKind": "official-trailer-thumbnail",
-    "imageSourceUrl": "https://www.youtube.com/watch?v=yeUpnIKt6k4",
+    "image": "/media/anime-naruto-context-960.webp",
+    "imageAlt": "Naruto Uzumaki fan cosplay at Japan Expo; context image, not an official video frame",
+    "imageCredit": "Miguel Discart · CC BY-SA 2.0",
+    "imageKind": "fan-cosplay",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Naruto_Uzumaki_cosplay_at_Japan_Expo_2016.jpg",
     "mediaKind": "trailer",
     "mediaUrl": "https://www.youtube.com/watch?v=yeUpnIKt6k4",
     "embedUrl": "https://www.youtube-nocookie.com/embed/yeUpnIKt6k4",
-    "poster": "https://i.ytimg.com/vi/yeUpnIKt6k4/hqdefault.jpg",
+    "poster": "/media/anime-naruto-context-960.webp",
     "mediaPermission": "Official channel YouTube oEmbed player and thumbnail; online only, no local copy or republication license claimed.",
     "transcript": "See the official YouTube player for captions and transcript where supplied by the publisher.",
     "sources": [
       {
         "label": "vizmedia official video",
         "url": "https://www.youtube.com/watch?v=yeUpnIKt6k4"
+      },
+      {
+        "label": "Licensed context photo and reuse terms",
+        "url": "https://commons.wikimedia.org/wiki/File:Naruto_Uzumaki_cosplay_at_Japan_Expo_2016.jpg"
       }
-    ]
+    ],
+    "officialThumbnailUrl": "https://i.ytimg.com/vi/yeUpnIKt6k4/hqdefault.jpg",
+    "imageContext": "Naruto Uzumaki fan cosplay at Japan Expo for video or story context; not an official video frame.",
+    "imageVerifiedAt": "2026-09-27",
+    "imagePermission": "Miguel Discart · CC BY-SA 2.0; locally resized and converted to AVIF/WebP. Character and franchise rights remain with their owners.",
+    "imageFocus": "center 9%"
   },
   {
     "id": "anime-trailer-naruto-shippuden",
@@ -736,22 +845,31 @@
     "featured": true,
     "status": "released",
     "verifiedAt": "2026-09-27",
-    "image": "https://i.ytimg.com/vi/22R0j8UKRzY/hqdefault.jpg",
-    "imageAlt": "Naruto Uzumaki and the Naruto Shippuden title in VIZ Media's official Set 1 trailer thumbnail",
-    "imageCredit": "vizmedia",
-    "imageKind": "official-trailer-thumbnail",
-    "imageSourceUrl": "https://www.youtube.com/watch?v=22R0j8UKRzY",
+    "image": "/media/anime-naruto-context-960.webp",
+    "imageAlt": "Naruto Uzumaki fan cosplay at Japan Expo; context image, not an official video frame",
+    "imageCredit": "Miguel Discart · CC BY-SA 2.0",
+    "imageKind": "fan-cosplay",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Naruto_Uzumaki_cosplay_at_Japan_Expo_2016.jpg",
     "mediaKind": "trailer",
     "mediaUrl": "https://www.youtube.com/watch?v=22R0j8UKRzY",
     "embedUrl": "https://www.youtube-nocookie.com/embed/22R0j8UKRzY",
-    "poster": "https://i.ytimg.com/vi/22R0j8UKRzY/hqdefault.jpg",
+    "poster": "/media/anime-naruto-context-960.webp",
     "mediaPermission": "Official channel YouTube oEmbed player and thumbnail; online only, no local copy or republication license claimed.",
     "transcript": "Use captions or the transcript in the official YouTube player when VIZ supplies them.",
     "sources": [
       {
         "label": "VIZ Media official Naruto Shippuden Set 1 trailer",
         "url": "https://www.youtube.com/watch?v=22R0j8UKRzY"
+      },
+      {
+        "label": "Licensed context photo and reuse terms",
+        "url": "https://commons.wikimedia.org/wiki/File:Naruto_Uzumaki_cosplay_at_Japan_Expo_2016.jpg"
       }
-    ]
+    ],
+    "officialThumbnailUrl": "https://i.ytimg.com/vi/22R0j8UKRzY/hqdefault.jpg",
+    "imageContext": "Naruto Uzumaki fan cosplay at Japan Expo for video or story context; not an official video frame.",
+    "imageVerifiedAt": "2026-09-27",
+    "imagePermission": "Miguel Discart · CC BY-SA 2.0; locally resized and converted to AVIF/WebP. Character and franchise rights remain with their owners.",
+    "imageFocus": "center 9%"
   }
 ]

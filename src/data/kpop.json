@@ -355,7 +355,7 @@
     "mediaKind": "trailer",
     "featured": false,
     "verifiedAt": "2026-09-26",
-    "image": "https://i.ytimg.com/vi/c6ASQOwKkhk/hqdefault.jpg",
+    "image": "/media/bts-jin-dispatch-2019-960.webp",
     "mediaUrl": "https://www.youtube.com/watch?v=c6ASQOwKkhk",
     "sources": [
       {
@@ -365,17 +365,25 @@
       {
         "label": "BIGHIT MUSIC release page",
         "url": "https://bts.ibighit.com/eng/discography/jin/detail/astronaut/"
+      },
+      {
+        "label": "Licensed context photo and reuse terms",
+        "url": "https://commons.wikimedia.org/wiki/File:Jin_for_Dispatch_%22Boy_With_Luv%22_MV_behind_the_scene_shooting%2C_15_March_2019_05.jpg"
       }
     ],
     "mediaNote": "Official source link. An authorized embed could not be independently confirmed; no music or video was copied.",
-    "imageAlt": "Official 진 (Jin) 'The Astronaut' Official MV thumbnail",
-    "imageCredit": "HYBE LABELS",
-    "imageKind": "official-trailer-thumbnail",
-    "imageSourceUrl": "https://www.youtube.com/watch?v=c6ASQOwKkhk",
+    "imageAlt": "Jin of BTS photographed in 2019; context image, not an official video frame",
+    "imageCredit": "Dispatch · CC BY 3.0",
+    "imageKind": "performer-photo",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Jin_for_Dispatch_%22Boy_With_Luv%22_MV_behind_the_scene_shooting%2C_15_March_2019_05.jpg",
     "mediaPermission": "YouTube oEmbed supplied an official channel player and thumbnail; media loads online and is not downloaded.",
     "mediaPermissionNote": "Official online embed; no local copy or republication license claimed.",
-    "poster": "https://i.ytimg.com/vi/c6ASQOwKkhk/hqdefault.jpg",
-    "embedUrl": "https://www.youtube-nocookie.com/embed/c6ASQOwKkhk"
+    "poster": "/media/bts-jin-dispatch-2019-960.webp",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/c6ASQOwKkhk",
+    "officialThumbnailUrl": "https://i.ytimg.com/vi/c6ASQOwKkhk/hqdefault.jpg",
+    "imageContext": "Jin of BTS photographed in 2019 for video or story context; not an official video frame.",
+    "imageVerifiedAt": "2026-09-27",
+    "imagePermission": "Dispatch · CC BY 3.0; locally resized and converted to AVIF/WebP. Character and franchise rights remain with their owners."
   },
   {
     "id": "kpop-release-astronaut",
@@ -392,19 +400,27 @@
     "status": "released",
     "featured": false,
     "verifiedAt": "2026-09-26",
-    "image": "https://i.ytimg.com/vi/c6ASQOwKkhk/hqdefault.jpg",
+    "image": "/media/bts-jin-dispatch-2019-960.webp",
     "sources": [
       {
         "label": "BIGHIT MUSIC — dated release notice",
         "url": "https://weverse.io/bts/notice/9372"
+      },
+      {
+        "label": "Licensed context photo and reuse terms",
+        "url": "https://commons.wikimedia.org/wiki/File:Jin_for_Dispatch_%22Boy_With_Luv%22_MV_behind_the_scene_shooting%2C_15_March_2019_05.jpg"
       }
     ],
-    "imageAlt": "Official 진 (Jin) 'The Astronaut' Official MV thumbnail",
-    "imageCredit": "HYBE LABELS",
-    "imageKind": "official-trailer-thumbnail",
-    "imageSourceUrl": "https://www.youtube.com/watch?v=c6ASQOwKkhk",
+    "imageAlt": "Jin of BTS photographed in 2019; context image, not an official video frame",
+    "imageCredit": "Dispatch · CC BY 3.0",
+    "imageKind": "performer-photo",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Jin_for_Dispatch_%22Boy_With_Luv%22_MV_behind_the_scene_shooting%2C_15_March_2019_05.jpg",
     "mediaPermission": "YouTube oEmbed supplied an official channel player and thumbnail; media loads online and is not downloaded.",
-    "mediaPermissionNote": "Official online embed; no local copy or republication license claimed."
+    "mediaPermissionNote": "Official online embed; no local copy or republication license claimed.",
+    "officialThumbnailUrl": "https://i.ytimg.com/vi/c6ASQOwKkhk/hqdefault.jpg",
+    "imageContext": "Jin of BTS photographed in 2019 for video or story context; not an official video frame.",
+    "imageVerifiedAt": "2026-09-27",
+    "imagePermission": "Dispatch · CC BY 3.0; locally resized and converted to AVIF/WebP. Character and franchise rights remain with their owners."
   },
   {
     "id": "kpop-gallery-real-world",

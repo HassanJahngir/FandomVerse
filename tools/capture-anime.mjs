@@ -9,12 +9,13 @@ const browser = await chromium.launch({
 try {
   for (const [name, width, height, route] of [
     ["anime-desktop", 1440, 900, "world/anime"],
+    ["gaming-tablet", 834, 1112, "world/gaming"],
     ["anime-mobile", 390, 844, "world/anime"],
     ["anime-profile", 960, 900, "item/anime-profile-nezuko"],
   ]) {
     const page = await browser.newPage({ viewport: { width, height }, deviceScaleFactor: 1 });
     await page.goto(`http://127.0.0.1:4173/#/${route}`);
-    await page.locator(".anime-heading, .detail-image").first().waitFor();
+    await page.locator(".image-heading").first().waitFor();
     await page.evaluate(async () => {
       for (let y = 0; y < document.documentElement.scrollHeight; y += Math.max(500, innerHeight * 0.8)) {
         scrollTo(0, y);

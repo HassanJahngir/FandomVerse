@@ -154,7 +154,7 @@ try {
   await page.getByRole("button", { name: "Export formatted list" }).click();
   await route(
     "item/anime-gallery-culture",
-    "Gallery: official Demon Slayer previews and credited fan culture",
+    "Gallery: credited fan cosplay across five anime series",
   );
   await page.locator(".gallery-thumb").first().click();
   await caption("Keyboard-accessible lightbox with attribution", 1600);

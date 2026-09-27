@@ -299,12 +299,16 @@
     ],
     "featured": false,
     "verifiedAt": "2026-09-26",
-    "image": "https://i.ytimg.com/vi/3uaMeEcwvvU/hqdefault.jpg",
-    "imageAlt": "Official Wanted! manga trailer thumbnail",
+    "image": "/media/manga-profile-luffy-960.webp",
+    "imageAlt": "Monkey D. Luffy fan cosplay from One Piece; context image, not an official video frame",
     "sources": [
       {
         "label": "VIZ official YouTube upload",
         "url": "https://www.youtube.com/watch?v=3uaMeEcwvvU"
+      },
+      {
+        "label": "Licensed context photo and reuse terms",
+        "url": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Monkey_D._Luffy.jpg"
       }
     ],
     "date": "2024-10-14",
@@ -314,12 +318,16 @@
     "mediaUrl": "https://www.youtube.com/watch?v=3uaMeEcwvvU",
     "mediaPermission": "Official YouTube player is embeddable according to YouTube oEmbed; media remains on YouTube and is not downloaded.",
     "transcript": "Description: VIZ presents Wanted!, a collection of Eiichiro Oda’s early one-shot manga. The collection includes Romance Dawn, an early story connected to the development of One Piece. This is a context summary, not a verbatim transcript.",
-    "poster": "https://i.ytimg.com/vi/3uaMeEcwvvU/hqdefault.jpg",
-    "imageCredit": "VIZ Media",
-    "imageKind": "official-trailer-thumbnail",
-    "imageSourceUrl": "https://www.youtube.com/watch?v=3uaMeEcwvvU",
+    "poster": "/media/manga-profile-luffy-960.webp",
+    "imageCredit": "Castorice · CC BY-SA 4.0",
+    "imageKind": "fan-cosplay",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Monkey_D._Luffy.jpg",
     "embedUrl": "https://www.youtube-nocookie.com/embed/3uaMeEcwvvU",
-    "mediaPermissionNote": "Official YouTube player and thumbnail supplied through YouTube oEmbed; loads online. The video and image are not bundled or licensed for download by this project."
+    "mediaPermissionNote": "Official YouTube player and thumbnail supplied through YouTube oEmbed; loads online. The video and image are not bundled or licensed for download by this project.",
+    "officialThumbnailUrl": "https://i.ytimg.com/vi/3uaMeEcwvvU/hqdefault.jpg",
+    "imageContext": "Monkey D. Luffy fan cosplay from One Piece for video or story context; not an official video frame.",
+    "imageVerifiedAt": "2026-09-27",
+    "imagePermission": "Castorice · CC BY-SA 4.0; locally resized and converted to AVIF/WebP. Character and franchise rights remain with their owners."
   },
   {
     "id": "manga-article-strawhats",

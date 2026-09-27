@@ -286,22 +286,30 @@
     ],
     "featured": false,
     "verifiedAt": "2026-09-26",
-    "image": "https://i.ytimg.com/vi/XvQNlGKNC6o/hqdefault.jpg",
-    "imageAlt": "Official Super Mario Bros. Wonder – Launch Trailer – Nintendo Switch thumbnail",
+    "image": "/media/gaming-mario-cosplay-960.webp",
+    "imageAlt": "Mario fan cosplay; context image, not an official video frame",
     "sources": [
       {
         "label": "Nintendo official game page",
         "url": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/"
+      },
+      {
+        "label": "Licensed context photo and reuse terms",
+        "url": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Mario_at_Brussels_Comic_Con_2019_(40335217333).jpg"
       }
     ],
     "date": "2023-10-20",
     "status": "released",
     "franchise": "Super Mario",
-    "imageCredit": "Nintendo of America",
-    "imageKind": "official-trailer-thumbnail",
-    "imageSourceUrl": "https://www.youtube.com/watch?v=XvQNlGKNC6o",
+    "imageCredit": "Miguel Discart · CC BY-SA 2.0",
+    "imageKind": "fan-cosplay",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Mario_at_Brussels_Comic_Con_2019_(40335217333).jpg",
     "mediaPermission": "YouTube oEmbed supplied an official channel player and thumbnail; media loads online and is not downloaded.",
-    "mediaPermissionNote": "Official online embed; no local copy or republication license claimed."
+    "mediaPermissionNote": "Official online embed; no local copy or republication license claimed.",
+    "officialThumbnailUrl": "https://i.ytimg.com/vi/XvQNlGKNC6o/hqdefault.jpg",
+    "imageContext": "Mario fan cosplay for video or story context; not an official video frame.",
+    "imageVerifiedAt": "2026-09-27",
+    "imagePermission": "Miguel Discart · CC BY-SA 2.0; locally resized and converted to AVIF/WebP. Character and franchise rights remain with their owners."
   },
   {
     "id": "gaming-trailer-wonder",
@@ -316,8 +324,8 @@
     ],
     "featured": false,
     "verifiedAt": "2026-09-26",
-    "image": "https://i.ytimg.com/vi/XvQNlGKNC6o/hqdefault.jpg",
-    "imageAlt": "Official Super Mario Bros. Wonder – Launch Trailer – Nintendo Switch thumbnail",
+    "image": "/media/gaming-mario-cosplay-960.webp",
+    "imageAlt": "Mario fan cosplay; context image, not an official video frame",
     "sources": [
       {
         "label": "Nintendo of America official launch trailer",
@@ -326,6 +334,10 @@
       {
         "label": "Nintendo official game page",
         "url": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/"
+      },
+      {
+        "label": "Licensed context photo and reuse terms",
+        "url": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Mario_at_Brussels_Comic_Con_2019_(40335217333).jpg"
       }
     ],
     "status": "released",
@@ -334,12 +346,16 @@
     "franchise": "Super Mario",
     "mediaPermission": "YouTube oEmbed supplied an official channel player and thumbnail; media loads online and is not downloaded.",
     "transcript": "Description: Mario and friends explore the Flower Kingdom. Wonder Flowers change the environment, while badges and power-ups change how characters move. Nintendo’s source page supplies accompanying text descriptions.",
-    "imageCredit": "Nintendo of America",
-    "imageKind": "official-trailer-thumbnail",
-    "imageSourceUrl": "https://www.youtube.com/watch?v=XvQNlGKNC6o",
+    "imageCredit": "Miguel Discart · CC BY-SA 2.0",
+    "imageKind": "fan-cosplay",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Mario_at_Brussels_Comic_Con_2019_(40335217333).jpg",
     "mediaPermissionNote": "Official online embed; no local copy or republication license claimed.",
-    "poster": "https://i.ytimg.com/vi/XvQNlGKNC6o/hqdefault.jpg",
-    "embedUrl": "https://www.youtube-nocookie.com/embed/XvQNlGKNC6o"
+    "poster": "/media/gaming-mario-cosplay-960.webp",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/XvQNlGKNC6o",
+    "officialThumbnailUrl": "https://i.ytimg.com/vi/XvQNlGKNC6o/hqdefault.jpg",
+    "imageContext": "Mario fan cosplay for video or story context; not an official video frame.",
+    "imageVerifiedAt": "2026-09-27",
+    "imagePermission": "Miguel Discart · CC BY-SA 2.0; locally resized and converted to AVIF/WebP. Character and franchise rights remain with their owners."
   },
   {
     "id": "gaming-article-wonder-design",
@@ -354,8 +370,8 @@
     ],
     "featured": true,
     "verifiedAt": "2026-09-26",
-    "image": "https://i.ytimg.com/vi/XvQNlGKNC6o/hqdefault.jpg",
-    "imageAlt": "Official Super Mario Bros. Wonder – Launch Trailer – Nintendo Switch thumbnail",
+    "image": "/media/gaming-mario-cosplay-960.webp",
+    "imageAlt": "Mario fan cosplay; context image, not an official video frame",
     "sources": [
       {
         "label": "Nintendo official game page",
@@ -364,6 +380,10 @@
       {
         "label": "Nintendo: Ask the Developer, Vol. 11, Part 1",
         "url": "https://www.nintendo.com/us/whatsnew/ask-the-developer-vol-11-super-mario-bros-wonder-part-1/"
+      },
+      {
+        "label": "Licensed context photo and reuse terms",
+        "url": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Mario_at_Brussels_Comic_Con_2019_(40335217333).jpg"
       }
     ],
     "date": "2026-09-26",
@@ -375,12 +395,15 @@
       "Local multiplayer offers another angle on that invitation. Up to four players can share courses on one system, and the official description includes helping one another. A cooperative feature changes the social question from who performed best to how a group can keep moving. That does not mean every session will feel the same: a player might enjoy experimentation, a friend might focus on completion, and another might simply want to see what happens next.",
       "Nintendo’s developer interview labels transformation as a central topic. Reading the interview alongside the game page is a useful way to separate the creators’ stated aims from our own interpretations. My interpretation is that surprise works best when it gives curiosity somewhere to go. For a practical exercise, sketch an ordinary menu, add one delightful change, then check whether every action is still clear. Wonder is a reminder that expressive design and understandable interaction can support each other. The original Nintendo Switch edition was released in 2023, so this article is a retrospective design discussion rather than a claim about a newly announced game."
     ],
-    "imageCredit": "Nintendo of America",
-    "imageKind": "official-trailer-thumbnail",
-    "imageSourceUrl": "https://www.youtube.com/watch?v=XvQNlGKNC6o",
+    "imageCredit": "Miguel Discart · CC BY-SA 2.0",
+    "imageKind": "fan-cosplay",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Mario_at_Brussels_Comic_Con_2019_(40335217333).jpg",
     "mediaPermission": "YouTube oEmbed supplied an official channel player and thumbnail; media loads online and is not downloaded.",
     "mediaPermissionNote": "Official online embed; no local copy or republication license claimed.",
-    "imageContext": "Official trailer still for the game discussed; article is original commentary, not part of the video."
+    "imageContext": "Mario fan cosplay for video or story context; not an official video frame.",
+    "officialThumbnailUrl": "https://i.ytimg.com/vi/XvQNlGKNC6o/hqdefault.jpg",
+    "imageVerifiedAt": "2026-09-27",
+    "imagePermission": "Miguel Discart · CC BY-SA 2.0; locally resized and converted to AVIF/WebP. Character and franchise rights remain with their owners."
   },
   {
     "id": "gaming-gallery-culture",
