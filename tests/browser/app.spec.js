@@ -177,6 +177,12 @@ test("scripted chatbot provides grounded answers, fallback, working links", asyn
   await expect(page.locator(".chat-message").last()).toContainText(
     "verified answer",
   );
+  await page.getByLabel("Ask Orbit a question").fill("Tell me about the team");
+  await page.getByRole("button", { name: "Send question" }).click();
+  const teamReply = page.locator(".chat-message").last();
+  await expect(teamReply).toContainText("Shayan, Shahnoor, and Gufran");
+  await expect(teamReply).not.toContainText("map");
+  await expect(teamReply.getByRole("link", { name: "Meet the team" })).toHaveAttribute("href", "#/about");
 });
 test("gallery keyboard controls, Escape and focus restore", async ({
   page,

@@ -359,13 +359,26 @@
     {
       "keywords": [
         "team",
+        "warriors xtreme",
+        "who made this"
+      ],
+      "answer": "Warriors Xtreme built FandomVerse for Web Innovation Unleashed. The team members are Hassan Jahangir, Hassan Khan, Hassan Afridi, Shayan, Shahnoor, and Gufran.",
+      "links": [
+        {
+          "label": "Meet the team",
+          "href": "#/about"
+        }
+      ]
+    },
+    {
+      "keywords": [
         "contact",
         "email"
       ],
-      "answer": "Warriors Xtreme created this independent competition project. The team members listed on About are Hassan Jahangir, Hassan Khan, Hassan Afridi, Shayan, Shahnoor, and Gufran. Contact uses hassanssk21@gmail.com and a DHA Karachi map.",
+      "answer": "You can reach Warriors Xtreme at hassanssk21@gmail.com. The Contact page also has the public project location and map.",
       "links": [
         {
-          "label": "Contact",
+          "label": "Contact the team",
           "href": "#/contact"
         }
       ]

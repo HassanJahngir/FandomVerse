@@ -75,7 +75,7 @@ export function answerQuestion(question) {
     links: [link(specific)],
   };
   const faq = bot.faqs.find((entry) => entry.keywords.some((word) => query.includes(word)));
-  if (faq && /\b(buy|checkout|payment|purchase|bookmark|notes|export|login|signup|password|search|filter|sort|credits|license|attribution|offline|internet|captions|transcript|geolocation|contact|orbit)\b/.test(query))
+  if (faq && /\b(buy|checkout|payment|purchase|bookmark|notes|export|login|signup|password|search|filter|sort|credits|license|attribution|offline|internet|captions|transcript|geolocation|contact|email|team|warriors xtreme|who made this|map|orbit)\b/.test(query))
     return { text: faq.answer, links: faq.links };
   const category = bot.recommendations.find((rule) => rule.keywords.some((word) => query.includes(word)))?.category;
   const intent = bot.intents.find((rule) => rule.keywords.some((word) => query.includes(word)));

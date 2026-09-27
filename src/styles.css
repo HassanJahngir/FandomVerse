@@ -1062,14 +1062,14 @@ em {
   gap: 8px;
   align-items: center;
   flex-wrap: wrap;
-  font-size: 8px;
+  font-size: 9px;
   letter-spacing: 0.7px;
   text-transform: uppercase;
   margin-bottom: 12px;
-  color: #b8b1c5;
+  color: #d1cbd8;
 }
 .card-meta > span:first-child {
-  color: var(--world);
+  color: color-mix(in srgb, var(--world) 72%, white);
 }
 .card-meta > span + span:before {
   content: "·";
@@ -1078,7 +1078,7 @@ em {
 }
 .status {
   text-transform: uppercase;
-  font-size: 8px;
+  font-size: 9px;
 }
 .card-body h3 {
   font-size: 19px;
@@ -1089,9 +1089,9 @@ em {
   color: var(--world);
 }
 .card-body > p {
-  font-size: 11px;
-  line-height: 1.75;
-  color: #b1aabf;
+  font-size: 13px;
+  line-height: 1.6;
+  color: #e0dbe5;
   margin-bottom: 15px;
   display: -webkit-box;
   -webkit-line-clamp: 3;
@@ -1103,8 +1103,8 @@ em {
   justify-content: space-between;
   align-items: center;
   margin-top: auto;
-  font-size: 9px;
-  color: #a9a1b8;
+  font-size: 11px;
+  color: #d1cad9;
   gap: 10px;
 }
 .save-button {
@@ -3081,18 +3081,18 @@ select {
     font-size: 17px;
   }
   .card-body > p {
-    font-size: 11px;
+    font-size: 12px;
   }
   .card-meta {
-    font-size: 7px;
+    font-size: 8px;
     gap: 5px;
-    letter-spacing: 0.2px;
+    letter-spacing: 0.35px;
   }
   .card-meta > span + span:before {
     margin-right: 5px;
   }
   .card-bottom {
-    font-size: 8px;
+    font-size: 10px;
   }
   .type-art {
     padding: 15px;
