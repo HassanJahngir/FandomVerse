@@ -58,7 +58,7 @@ Node.js 20.19+ or 22.12+ and npm are required. Run `npm install`, then `npm run 
 
 ## Assumptions, limits, and responsibility
 
-The site is an independent educational prototype. Cart, login/signup, and visitor count are explicitly demonstrations. Team identity and DHA Karachi map location were supplied by the participant and are configured. Franchise art and product photography are not redistributed without permission. Cards use subject-specific visuals where permitted and a designed rights fallback otherwise; unrelated event photos are not reused as subject images. Audio is provided where a reusable publisher trailer allowed an excerpt; other categories link to official media. A local build cannot prove 24/7 hosted availability or production concurrency. The participant should review, personalize, and be able to explain the work before submission.
+The site is an independent educational prototype deployed at https://fandomverse-iota.vercel.app. Cart, login/signup, and visitor count are explicitly demonstrations. Team identity and DHA Karachi map location were supplied by the participant and are configured. Franchise art and product photography are not redistributed without permission. Cards use subject-specific visuals where permitted and a designed rights fallback otherwise; unrelated event photos are not reused as subject images. Audio is provided where a reusable publisher trailer allowed an excerpt; other categories link to official media. A live smoke test does not prove 24/7 hosted availability or production concurrency. The participant should review, personalize, and be able to explain the work before submission.
 
 ## AI acknowledgement
 

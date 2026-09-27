@@ -5,6 +5,6 @@
 3. Recheck the five official retailer prices and any future event/release announcement immediately before judging. The content was checked on 26 September 2026 and can change.
 4. Review `docs/MEDIA-CREDITS.md`: 56 locally converted, credited photos/logos and official remote trailer previews are documented. Every non-merchandise card has a subject-matched image; context photos are explicitly labelled. The five exact product photos stay on official retailer pages because permission to embed or republish them was not established.
 5. Read `docs/CODE-GUIDE.md`, make your own meaningful design/editorial edits, and practise `docs/WALKTHROUGH.md`. Confirm that the AI acknowledgement matches the tools you actually used.
-6. Decide whether to deploy to a static host. The local build cannot establish public uptime or capacity. If hosting, test its direct routes, external embeds, map, and mobile behavior again.
+6. The site is deployed at https://fandomverse-iota.vercel.app and its GitHub repository is connected to Vercel. The public homepage, Anime route, and Contact map label passed a mobile browser smoke test. Recheck official external embeds and products before judging; a single smoke test cannot establish continuous uptime or capacity.
 
 `submission/FandomVerse-demo.mp4` is an actual recorded 47.6-second browser demonstration; it is already supplied separately from the source ZIP. `submission/FandomVerse-deploy.zip` contains the ready-built static site with `index.html` at its root.

@@ -2,6 +2,8 @@
 
 An independent, source-led fan discovery site for **Web Innovation Unleashed**. Seven portals lead to Anime, Gaming, Movies, TV Shows, K-Pop, Comics, and Manga. It is a responsive React single-page application; facts come from local JSON, while bookmarks and private notes use browser storage.
 
+Live site: [fandomverse-iota.vercel.app](https://fandomverse-iota.vercel.app). Source: [HassanJahngir/FandomVerse](https://github.com/HassanJahngir/FandomVerse).
+
 ## Install and run
 
 Use Node.js 20.19+ or 22.12+ and npm. From this folder:
@@ -14,7 +16,7 @@ For the submission build, run `npm run build` and `npm run preview`; the preview
 
 ## Deploy the finished build
 
-The GitHub repository is configured for Vercel's Vite build. Connect the repository in Vercel or run `vercel --prod` from the project folder with an authenticated Vercel CLI. For a manual static upload, run `npm run build` and `npm run package:deploy`; the ZIP has `index.html` at its root. The app uses hash routes (`/#/world/anime`), so direct links and browser back/forward work without server rewrites. The site needs internet for official YouTube players, source links, and the Google Map. No environment variables or server process are required. After hosting, open the public site on mobile and test an official video, search, and the Contact map.
+The GitHub repository is connected to the Vercel project `fandomverse`; pushes to `main` trigger deployments. You can also run `vercel deploy --prod` from this folder with an authenticated Vercel CLI. `npm run verify:live` checks the public homepage, Anime route, Contact location, mobile overflow, and page errors in Chrome. For a manual static upload, run `npm run build` and `npm run package:deploy`; the ZIP has `index.html` at its root. The app uses hash routes (`/#/world/anime`), so direct links and browser back/forward work without server rewrites. The site needs internet for official YouTube players, source links, and the Google Map. No environment variables or server process are required.
 
 ## Personalize before submitting
 

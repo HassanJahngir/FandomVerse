@@ -1,0 +1,9 @@
+dist/
+docs/
+submission/
+tests/
+tmp/
+tools/
+README.md
+ReadMe.rtf
+playwright.config.js

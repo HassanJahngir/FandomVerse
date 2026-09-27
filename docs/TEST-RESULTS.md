@@ -1,6 +1,6 @@
 # Verification results - 26 September 2026
 
-The following results were measured against the local production preview in Chrome.
+The following checks used the local production preview in Chrome, followed by a live Vercel smoke test.
 
 | Check | Observed result |
 |---|---|
@@ -10,6 +10,7 @@ The following results were measured against the local production preview in Chro
 | Image loading | A browser scroll-through of all seven category hubs checked 103 cards. The only five cards without a republished image are the exact merchandise products whose retailer-photo reuse rights were not established. All other card images loaded. |
 | Visual review | Network-enabled Chrome screenshots in `docs/screenshots/` show desktop, tablet, and mobile layouts, official Anime previews from five franchises, Gaming pages, and a profile. Card focal points were adjusted to keep faces visible. No horizontal overflow or page errors were observed. |
 | Demonstration video | `submission/FandomVerse-demo.mp4` is an actual H.264 MP4 browser capture at 1280 x 720, 5 fps, 47.6 seconds, 238 frames. |
+| Live deployment | Vercel production build passed. `https://fandomverse-iota.vercel.app/` and its JavaScript asset returned HTTP 200. A 390 px Chrome check loaded Home, direct Anime and Contact hash routes, displayed “DHA Karachi,” found no horizontal overflow, and reported no page errors. |
 
 Lighthouse reports are saved at `docs/audits/lighthouse-mobile.{json,html}` and `docs/audits/lighthouse-desktop.{json,html}`. The latest isolated network-enabled production-preview scores were **mobile 74 performance / 100 accessibility / 100 best practices / 100 SEO; desktop 100 / 100 / 100 / 100**. The mobile audit uses simulated slow CPU and network conditions. It measured 2.9 s largest contentful paint and 890 ms total blocking time. Mobile performance varied across local runs, so this measured score is a snapshot rather than a guarantee. The saved reports contain the evidence.
 

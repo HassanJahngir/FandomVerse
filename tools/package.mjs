@@ -31,6 +31,7 @@ for (const name of [
 }
 for (const name of [
   "index.html",
+  ".vercelignore",
   "package.json",
   "package-lock.json",
   "vite.config.js",

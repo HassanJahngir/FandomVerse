@@ -20,7 +20,7 @@ Source: *FandomVerse — Web Innovation Unleashed*, SRS v1.0, all 17 PDF pages r
 | 13 | Bookmarks localStorage, notes sessionStorage, removal, export | **Done.** Cross-type bookmarks, session-only notes, formatted export; automated tests. |
 | 13 | About/team, Contact with Google Map and GPS | **Done.** Warriors Xtreme, four member names, public email, and DHA Karachi map location were supplied by the participant and configured. User-triggered geolocation handles denial/unavailable states. |
 | 14 | Breadcrumbs, live clock, simulated counter, transitions, demo login/signup | **Done.** Counter labelled simulated; account screens authenticate nobody and store no password. |
-| 14–15 | Accessible, efficient, compatible experience; Lighthouse checks | **Partial.** Production build, Chrome browser checks, reduced motion, screenshots, and Lighthouse performed. No deployment means 24/7 availability/capacity cannot be verified; see actual mobile performance in `TEST-RESULTS.md`. |
+| 14–15 | Accessible, efficient, compatible experience; Lighthouse checks | **Partial.** Production build, Chrome browser checks, reduced motion, screenshots, and Lighthouse performed. The Vercel site passed a live mobile route smoke test; continuous uptime/capacity cannot be verified from one check. See actual mobile performance in `TEST-RESULTS.md`. |
 | 14 | Acknowledge AI; participant understands and meaningfully modifies work | **Partial.** AI is acknowledged and a code guide/judge Q&A is provided. Participant must review and personalize the submission. |
 | 17 | Report with problem, design, diagrams, test data/results and mandatory installation; no code | **Done.** `PROJECT-REPORT.md`. |
 | 17 | Source ZIP and genuine `ReadMe.doc` assumptions file | **Partial.** Source ZIP prepared; genuine Word 97–2003 conversion is unavailable because installed Word's COM SaveAs stalled. A real `ReadMe.rtf` with assumptions is included, without misleading `.doc` renaming. Convert it in Word before final submission. |
@@ -33,6 +33,6 @@ Source: *FandomVerse — Web Innovation Unleashed*, SRS v1.0, all 17 PDF pages r
 - Pages 13 and 16 mention third-party chatbot platforms as examples. The SRS's no-backend/scripted constraint and user's explicit instruction govern this build.
 - Page 9 permits popularity **or** featured sorting. Featured editorial flags avoid fabricated popularity numbers.
 - Page 12's T-shirt is an example; the catalog includes a real licensed Naruto shirt among other verified products.
-- Page 17 makes hosting optional. A local preview is supplied; uptime and production capacity require a real deployment to test.
+- Page 17 makes hosting optional. The project is deployed to Vercel, though continuous uptime and production capacity remain unmeasured.
 
 The user's additional constraints—real profiles/events/products, dated source verification, lawful media reuse, accurate cart currency, reduced motion, and candid gaps—are addressed in `PROJECT-REPORT.md`, `MEDIA-CREDITS.md`, and `TEST-RESULTS.md`.

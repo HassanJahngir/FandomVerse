@@ -8,6 +8,7 @@
     "preview": "vite preview",
     "test": "node --test tests/core.test.mjs",
     "test:browser": "playwright test",
+    "verify:live": "node tools/verify-live.mjs",
     "audit": "node tools/lighthouse.mjs",
     "package": "node tools/package.mjs",
     "package:deploy": "node tools/package-deploy.mjs"
