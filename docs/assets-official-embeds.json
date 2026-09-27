@@ -1,0 +1,72 @@
+[
+  {
+    "category": "anime",
+    "trailerId": "anime-trailer-infinitycastle",
+    "articleId": "anime-article-demonslayer-start",
+    "thumbnailUrl": "https://i.ytimg.com/vi/9kb7vK11_Rw/hqdefault.jpg",
+    "officialUrl": "https://www.youtube.com/watch?v=9kb7vK11_Rw",
+    "creator": "Aniplex USA",
+    "permissionBasis": "YouTube oEmbed returned an embeddable official player and thumbnail URL; image remains hosted by YouTube, not downloaded or relicensed",
+    "verifiedAt": "2026-09-26"
+  },
+  {
+    "category": "movies",
+    "trailerId": "movies-trailer-force-awakens",
+    "articleId": "movies-article-star-wars-character-choices",
+    "thumbnailUrl": "https://i.ytimg.com/vi/sGbxmsDFVnE/hqdefault.jpg",
+    "officialUrl": "https://www.youtube.com/watch?v=sGbxmsDFVnE",
+    "creator": "Star Wars",
+    "permissionBasis": "YouTube oEmbed returned an embeddable official player and thumbnail URL; image remains hosted by YouTube, not downloaded or relicensed",
+    "verifiedAt": "2026-09-26"
+  },
+  {
+    "category": "tv",
+    "trailerId": "tv-trailer-doctor-who-2025",
+    "articleId": "tv-article-doctor-who-companions",
+    "thumbnailUrl": "https://i.ytimg.com/vi/MPxtqx55PA0/hqdefault.jpg",
+    "officialUrl": "https://www.youtube.com/watch?v=MPxtqx55PA0",
+    "creator": "Doctor Who",
+    "permissionBasis": "YouTube oEmbed returned an embeddable official player and thumbnail URL; image remains hosted by YouTube, not downloaded or relicensed",
+    "verifiedAt": "2026-09-26"
+  },
+  {
+    "category": "manga",
+    "trailerId": "manga-trailer-wanted",
+    "articleId": null,
+    "thumbnailUrl": "https://i.ytimg.com/vi/3uaMeEcwvvU/hqdefault.jpg",
+    "officialUrl": "https://www.youtube.com/watch?v=3uaMeEcwvvU",
+    "creator": "VIZ Media",
+    "permissionBasis": "YouTube oEmbed returned an embeddable official player and thumbnail URL; image remains hosted by YouTube, not downloaded or relicensed",
+    "verifiedAt": "2026-09-26"
+  },
+  {
+    "category": "anime",
+    "trailerId": "anime-trailer-original-2019",
+    "articleId": null,
+    "thumbnailUrl": "https://i.ytimg.com/vi/VQGCKyvzIM4/hqdefault.jpg",
+    "officialUrl": "https://www.youtube.com/watch?v=VQGCKyvzIM4",
+    "creator": "Aniplex USA",
+    "permissionBasis": "YouTube oEmbed returned an embeddable official player and thumbnail URL; image remains hosted by YouTube, not downloaded or relicensed",
+    "verifiedAt": "2026-09-26"
+  },
+  {
+    "category": "anime",
+    "trailerId": "anime-trailer-swordsmith-village",
+    "articleId": null,
+    "thumbnailUrl": "https://i.ytimg.com/vi/a9tq0aS5Zu8/hqdefault.jpg",
+    "officialUrl": "https://www.youtube.com/watch?v=a9tq0aS5Zu8",
+    "creator": "Aniplex USA",
+    "permissionBasis": "YouTube oEmbed returned an embeddable official player and thumbnail URL; image remains hosted by YouTube, not downloaded or relicensed",
+    "verifiedAt": "2026-09-26"
+  },
+  {
+    "category": "anime",
+    "trailerId": "anime-trailer-hashira-training",
+    "articleId": null,
+    "thumbnailUrl": "https://i.ytimg.com/vi/rq1tllAUS1I/hqdefault.jpg",
+    "officialUrl": "https://www.youtube.com/watch?v=rq1tllAUS1I",
+    "creator": "Aniplex USA",
+    "permissionBasis": "YouTube oEmbed returned an embeddable official player and thumbnail URL; image remains hosted by YouTube, not downloaded or relicensed",
+    "verifiedAt": "2026-09-26"
+  }
+]

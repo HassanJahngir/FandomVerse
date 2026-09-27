@@ -1,0 +1,9 @@
+[
+  {"id":"anime","name":"Anime","eyebrow":"Beyond the ordinary","description":"Extraordinary journeys. Unforgettable characters. Find your next obsession.","color":"#bd9aff","symbol":"ア","word":"IMAGINE"},
+  {"id":"gaming","name":"Gaming","eyebrow":"Press start","description":"New worlds are waiting. Meet the icons and explore the stories behind the play.","color":"#9ee7c1","symbol":"✚","word":"PLAY"},
+  {"id":"movies","name":"Movies","eyebrow":"Escape into the frame","description":"Big-screen adventures and the craft that makes them stay with us.","color":"#f4bc87","symbol":"◈","word":"ESCAPE"},
+  {"id":"tv","name":"TV Shows","eyebrow":"One more episode","description":"Go deeper into the worlds and characters you keep coming back to.","color":"#8cbcff","symbol":"▣","word":"DISCOVER"},
+  {"id":"kpop","name":"K-Pop","eyebrow":"Find your rhythm","description":"The artists, stages and creative worlds behind a global sound.","color":"#f5a2ca","symbol":"♫","word":"FEEL"},
+  {"id":"comics","name":"Comics","eyebrow":"Between the panels","description":"Explore bold ideas and legendary characters, one panel at a time.","color":"#f2d57e","symbol":"✧","word":"BELIEVE"},
+  {"id":"manga","name":"Manga","eyebrow":"Every page a portal","description":"Remarkable stories, expressive art and journeys that begin with a page.","color":"#eaa995","symbol":"本","word":"WANDER"}
+]

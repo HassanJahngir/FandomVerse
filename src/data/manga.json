@@ -1,0 +1,414 @@
+[
+  {
+    "id": "manga-profile-luffy",
+    "category": "manga",
+    "type": "profile",
+    "title": "Monkey D. Luffy",
+    "description": "Luffy captains the Straw Hat Pirates and pursues the title of Pirate King. Inspired by Shanks, he prizes freedom, adventure, and his crewmates.",
+    "tags": [
+      "One Piece",
+      "Adventure",
+      "Straw Hat Pirates"
+    ],
+    "featured": true,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/manga-profile-luffy-960.webp",
+    "imageAlt": "Monkey D. Luffy fan cosplay",
+    "sources": [
+      {
+        "label": "ONE PIECE official Monkey D. Luffy profile (Japanese)",
+        "url": "https://one-piece.com/character/luffy/index.html"
+      }
+    ],
+    "biography": "Luffy captains the Straw Hat Pirates and pursues the title of Pirate King. Inspired by Shanks, he prizes freedom, adventure, and his crewmates.",
+    "traits": [
+      "Captain",
+      "Straw Hat Pirates",
+      "Dream: Pirate King"
+    ],
+    "franchise": "One Piece",
+    "mediaPermission": "CC BY-SA 4.0 photograph by Castorice; character and franchise rights remain with their owners. Fan cosplay, not official character artwork.",
+    "imageCredit": "Castorice · CC BY-SA 4.0",
+    "imageKind": "fan-cosplay",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Monkey_D._Luffy.jpg"
+  },
+  {
+    "id": "manga-profile-zoro",
+    "category": "manga",
+    "type": "profile",
+    "title": "Roronoa Zoro",
+    "description": "The Straw Hats’ swordsman practices a distinctive three-sword style. His ambition to become the greatest swordsman honors a promise to his childhood friend Kuina.",
+    "tags": [
+      "One Piece",
+      "Adventure",
+      "Straw Hat Pirates"
+    ],
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/manga-profile-zoro-960.webp",
+    "imageAlt": "Roronoa Zoro fan cosplay",
+    "sources": [
+      {
+        "label": "ONE PIECE official Roronoa Zoro profile (Japanese)",
+        "url": "https://one-piece.com/character/zoro/index.html"
+      }
+    ],
+    "biography": "The Straw Hats’ swordsman practices a distinctive three-sword style. His ambition to become the greatest swordsman honors a promise to his childhood friend Kuina.",
+    "traits": [
+      "Swordsman",
+      "Three-sword style",
+      "Poor sense of direction"
+    ],
+    "franchise": "One Piece",
+    "mediaPermission": "CC BY-SA 2.0 photograph by Gaudencio Garcinuño; fan cosplay, not official character artwork.",
+    "imageCredit": "Gaudencio Garcinuño · CC BY-SA 2.0",
+    "imageKind": "fan-cosplay",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Cosplay_Roronoa_Zoro_-_One_Piece.jpg"
+  },
+  {
+    "id": "manga-profile-nami",
+    "category": "manga",
+    "type": "profile",
+    "title": "Nami",
+    "description": "The Straw Hats’ navigator reads difficult weather and currents. Skilled at making charts since childhood, she dreams of mapping the whole world.",
+    "tags": [
+      "One Piece",
+      "Adventure",
+      "Straw Hat Pirates"
+    ],
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/manga-profile-nami-960.webp",
+    "imageAlt": "Nami fan cosplay",
+    "sources": [
+      {
+        "label": "ONE PIECE official Nami profile (Japanese)",
+        "url": "https://one-piece.com/character/nami/index.html"
+      }
+    ],
+    "biography": "The Straw Hats’ navigator reads difficult weather and currents. Skilled at making charts since childhood, she dreams of mapping the whole world.",
+    "traits": [
+      "Navigator",
+      "Cartography",
+      "Weather knowledge"
+    ],
+    "franchise": "One Piece",
+    "mediaPermission": "CC BY-SA 4.0 photograph by Jhulis; character and franchise rights remain with their owners. Fan cosplay, not official character artwork.",
+    "imageCredit": "Jhulis · CC BY-SA 4.0",
+    "imageKind": "fan-cosplay",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Nami_Cosplay_de_One_Piece.jpg",
+    "imageFocus": "center 18%"
+  },
+  {
+    "id": "manga-profile-usopp",
+    "category": "manga",
+    "type": "profile",
+    "title": "Usopp",
+    "description": "The crew’s sharpshooter combines marksmanship with invention and tall tales. His long-term aspiration is to become a brave warrior of the sea.",
+    "tags": [
+      "One Piece",
+      "Adventure",
+      "Straw Hat Pirates"
+    ],
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/manga-profile-usopp-960.webp",
+    "imageAlt": "Usopp fan cosplay",
+    "sources": [
+      {
+        "label": "ONE PIECE official Usopp profile (Japanese)",
+        "url": "https://one-piece.com/character/usopp/index.html"
+      }
+    ],
+    "biography": "The crew’s sharpshooter combines marksmanship with invention and tall tales. His long-term aspiration is to become a brave warrior of the sea.",
+    "traits": [
+      "Sharpshooter",
+      "Inventor",
+      "Syrup Village"
+    ],
+    "franchise": "One Piece",
+    "mediaPermission": "CC BY-SA 2.0 photograph by Tabercil; character and franchise rights remain with their owners. Fan cosplay, not official character artwork.",
+    "imageCredit": "Tabercil · CC BY-SA 2.0",
+    "imageKind": "fan-cosplay",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Anime_North_2013_-_Usopp_Cosplayer.jpg"
+  },
+  {
+    "id": "manga-profile-sanji",
+    "category": "manga",
+    "type": "profile",
+    "title": "Sanji",
+    "description": "The Straw Hats’ cook learned from Zeff at the floating restaurant Baratie. He fights with kicks and searches for the legendary All Blue.",
+    "tags": [
+      "One Piece",
+      "Adventure",
+      "Straw Hat Pirates"
+    ],
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/manga-profile-sanji-960.webp",
+    "imageAlt": "Fan cosplaying as Sanji standing on one leg",
+    "sources": [
+      {
+        "label": "ONE PIECE official Sanji profile (Japanese)",
+        "url": "https://one-piece.com/character/sanji/index.html"
+      }
+    ],
+    "biography": "The Straw Hats’ cook learned from Zeff at the floating restaurant Baratie. He fights with kicks and searches for the legendary All Blue.",
+    "traits": [
+      "Cook",
+      "Kick-based fighting",
+      "Dream: All Blue"
+    ],
+    "franchise": "One Piece",
+    "mediaPermission": "CC BY 2.0 photo by FAT8893 x OTAKU PETROLHEADS LIFE; fan cosplay, not official art.",
+    "imageCredit": "FAT8893 x OTAKU PETROLHEADS LIFE · CC BY 2.0",
+    "imageKind": "fan-cosplay",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Cosplayer_of_Vinsmoke_Sanji_standing_on_one_leg_(15537757258).jpg",
+    "imageFocus": "center 18%"
+  },
+  {
+    "id": "manga-event-publishing2025",
+    "category": "manga",
+    "type": "event",
+    "title": "Breaking Into Manga Publishing — Anime Expo 2025",
+    "description": "A discussion of careers in manga publishing, including marketing, translation, and editing, hosted by Kodansha’s Ivan Salazar.",
+    "tags": [
+      "Panel",
+      "Publishing",
+      "Anime Expo"
+    ],
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/anime-event-ax2025-960.webp",
+    "imageAlt": "GeeXPlus panel photographed at Anime Expo 2025",
+    "sources": [
+      {
+        "label": "Anime Expo: archived 2025 schedule",
+        "url": "https://www.anime-expo.org/ax/schedule-2025/"
+      }
+    ],
+    "date": "2025-07-03",
+    "location": "Room 408AB, Los Angeles Convention Center, Los Angeles, USA",
+    "status": "past",
+    "imageCredit": "Reppop · CC0 1.0",
+    "imageKind": "event-photo",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:GeeXPlus_Anime_Expo_panel_(2)%2C_2025.jpg",
+    "imageContext": "Photograph from Anime Expo 2025, the host convention; it does not show this specific manga panel.",
+    "mediaPermission": "Context visual from anime-event-ax2025; see its credited source. Not an official image of this event."
+  },
+  {
+    "id": "manga-event-kinoshita2025",
+    "category": "manga",
+    "type": "event",
+    "title": "Behind the Manga with Itaru Kinoshita",
+    "description": "Dinosaur Sanctuary’s creator joined paleontologist Shin-ichi Fujiwara for a discussion and drawing demonstration moderated by Deb Aoki.",
+    "tags": [
+      "Panel",
+      "Dinosaur Sanctuary",
+      "Art"
+    ],
+    "featured": true,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/anime-event-ax2025-960.webp",
+    "imageAlt": "GeeXPlus panel photographed at Anime Expo 2025",
+    "sources": [
+      {
+        "label": "Anime Expo: archived 2025 schedule",
+        "url": "https://www.anime-expo.org/ax/schedule-2025/"
+      }
+    ],
+    "date": "2025-07-04",
+    "location": "Room 402AB, Los Angeles Convention Center, Los Angeles, USA",
+    "status": "past",
+    "imageCredit": "Reppop · CC0 1.0",
+    "imageKind": "event-photo",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:GeeXPlus_Anime_Expo_panel_(2)%2C_2025.jpg",
+    "imageContext": "Photograph from Anime Expo 2025, the host convention; it does not show this specific manga panel.",
+    "mediaPermission": "Context visual from anime-event-ax2025; see its credited source. Not an official image of this event."
+  },
+  {
+    "id": "manga-event-squareenix2025",
+    "category": "manga",
+    "type": "event",
+    "title": "Square Enix Manga & Books New Licensing Announcements",
+    "description": "The publisher presented licensing news and editorial discussion at Anime Expo. This archived entry is not a statement about today’s release schedule.",
+    "tags": [
+      "Panel",
+      "Publishing",
+      "Square Enix"
+    ],
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/anime-event-ax2025-960.webp",
+    "imageAlt": "GeeXPlus panel photographed at Anime Expo 2025",
+    "sources": [
+      {
+        "label": "Anime Expo: archived 2025 schedule",
+        "url": "https://www.anime-expo.org/ax/schedule-2025/"
+      }
+    ],
+    "date": "2025-07-05",
+    "location": "Room 404AB, Los Angeles Convention Center, Los Angeles, USA",
+    "status": "past",
+    "imageCredit": "Reppop · CC0 1.0",
+    "imageKind": "event-photo",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:GeeXPlus_Anime_Expo_panel_(2)%2C_2025.jpg",
+    "imageContext": "Photograph from Anime Expo 2025, the host convention; it does not show this specific manga panel.",
+    "mediaPermission": "Context visual from anime-event-ax2025; see its credited source. Not an official image of this event."
+  },
+  {
+    "id": "manga-release-onepiece108",
+    "category": "manga",
+    "type": "release",
+    "title": "One Piece, Volume 108 — VIZ English edition",
+    "description": "The English digital volume from VIZ was released on March 4, 2025. Edition and language matter when comparing publication dates.",
+    "tags": [
+      "One Piece",
+      "VIZ",
+      "English edition"
+    ],
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/manga-profile-luffy-960.webp",
+    "imageAlt": "Monkey D. Luffy fan cosplay",
+    "sources": [
+      {
+        "label": "VIZ product and release record",
+        "url": "https://www.viz.com/manga-books/manga/one-piece-volume-108-0/product/8230/digital"
+      }
+    ],
+    "date": "2025-03-04",
+    "status": "released",
+    "franchise": "One Piece",
+    "imageCredit": "Castorice · CC BY-SA 4.0",
+    "imageKind": "fan-cosplay",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Monkey_D._Luffy.jpg",
+    "imageContext": "Related character or artist visual; it does not depict the release artwork itself.",
+    "mediaPermission": "Context visual from manga-profile-luffy; see its credited source. Not an official image of this release."
+  },
+  {
+    "id": "manga-trailer-wanted",
+    "category": "manga",
+    "type": "trailer",
+    "title": "Wanted! Eiichiro Oda Before One Piece — official manga trailer",
+    "description": "VIZ introduces a collection of Oda’s early short stories, including Romance Dawn and Monsters. Official promotional media; internet required.",
+    "tags": [
+      "One Piece",
+      "VIZ",
+      "Manga trailer"
+    ],
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "https://i.ytimg.com/vi/3uaMeEcwvvU/hqdefault.jpg",
+    "imageAlt": "Official Wanted! manga trailer thumbnail",
+    "sources": [
+      {
+        "label": "VIZ official YouTube upload",
+        "url": "https://www.youtube.com/watch?v=3uaMeEcwvvU"
+      }
+    ],
+    "date": "2024-10-14",
+    "status": "released",
+    "franchise": "One Piece",
+    "mediaKind": "trailer",
+    "mediaUrl": "https://www.youtube.com/watch?v=3uaMeEcwvvU",
+    "mediaPermission": "Official YouTube player is embeddable according to YouTube oEmbed; media remains on YouTube and is not downloaded.",
+    "transcript": "Description: VIZ presents Wanted!, a collection of Eiichiro Oda’s early one-shot manga. The collection includes Romance Dawn, an early story connected to the development of One Piece. This is a context summary, not a verbatim transcript.",
+    "poster": "https://i.ytimg.com/vi/3uaMeEcwvvU/hqdefault.jpg",
+    "imageCredit": "VIZ Media",
+    "imageKind": "official-trailer-thumbnail",
+    "imageSourceUrl": "https://www.youtube.com/watch?v=3uaMeEcwvvU",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/3uaMeEcwvvU",
+    "mediaPermissionNote": "Official YouTube player and thumbnail supplied through YouTube oEmbed; loads online. The video and image are not bundled or licensed for download by this project."
+  },
+  {
+    "id": "manga-article-strawhats",
+    "category": "manga",
+    "type": "article",
+    "title": "A crew made of different dreams",
+    "description": "An original, spoiler-light guide to reading the Straw Hat Pirates as a group of complementary ambitions, rather than a list of combat abilities.",
+    "tags": [
+      "One Piece",
+      "Reading guide",
+      "Commentary"
+    ],
+    "featured": true,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/manga-profile-luffy-960.webp",
+    "imageAlt": "Monkey D. Luffy fan cosplay",
+    "sources": [
+      {
+        "label": "ONE PIECE official story overview (Japanese)",
+        "url": "https://one-piece.com/about/index.html"
+      },
+      {
+        "label": "ONE PIECE official Monkey D. Luffy profile (Japanese)",
+        "url": "https://one-piece.com/character/luffy/index.html"
+      },
+      {
+        "label": "ONE PIECE official Roronoa Zoro profile (Japanese)",
+        "url": "https://one-piece.com/character/zoro/index.html"
+      },
+      {
+        "label": "ONE PIECE official Nami profile (Japanese)",
+        "url": "https://one-piece.com/character/nami/index.html"
+      },
+      {
+        "label": "ONE PIECE official Usopp profile (Japanese)",
+        "url": "https://one-piece.com/character/usopp/index.html"
+      },
+      {
+        "label": "ONE PIECE official Sanji profile (Japanese)",
+        "url": "https://one-piece.com/character/sanji/index.html"
+      }
+    ],
+    "date": "2026-09-26",
+    "franchise": "One Piece",
+    "body": [
+      "One Piece begins with a large promise: an ocean of adventure and the pursuit of an extraordinary treasure. What makes that premise approachable is the smaller scale of a crew. A reader can follow a handful of people with different jobs, ambitions, and ways of responding to trouble. This guide offers one way of thinking about those relationships. It is original commentary grounded in the franchise’s official character profiles, not an official explanation of how every reader should interpret the manga.",
+      "Luffy’s ambition to become Pirate King gives the journey its direction, but a direction is not the same thing as every skill needed to travel. Nami’s navigation turns the sea into a problem that must be understood. Sanji’s cooking makes the practical needs of a group visible. These roles invite a useful question while reading: what does the adventure require besides someone strong enough to win a fight? Paying attention to everyday expertise can change which moments stand out on the page.",
+      "Zoro and Usopp add a different pair of ambitions. Zoro seeks exceptional mastery of swordsmanship, while Usopp wants to become a brave warrior of the sea. Those goals are not identical measures of success. One encourages us to think about discipline and a promise; the other makes room to consider the distance between fear and action. Their official profiles supply the factual starting points. How those aspirations affect a reader is open to discussion, and disagreement can be part of the pleasure.",
+      "For a first reading, try a simple three-column notebook: role, dream, and contribution. Leave the last column open until a scene gives you an example. This helps avoid turning a character into a fixed ranking before you have watched their choices unfold. You can also track when an apparently ordinary ability becomes important. A map, a meal, or an improvised tool may be worth as much attention as a spectacular attack when you are thinking about how a group survives together.",
+      "Finally, respect the difference between versions and publication contexts. Manga volumes, an anime adaptation, and a live-action series may introduce an audience to the same names through different pacing and presentation. FandomVerse groups these profiles under the manga category because the discussion centers on One Piece as a manga franchise. Use the linked official resources to explore further, but assume that a current character page may contain later-story information. The most rewarding fan conversation often starts by agreeing how far everyone has read, then making space for the dreams that brought each person aboard."
+    ],
+    "imageCredit": "Castorice · CC BY-SA 4.0",
+    "imageKind": "fan-cosplay",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Monkey_D._Luffy.jpg",
+    "imageContext": "Related character or artist visual; it does not depict the linked media itself.",
+    "mediaPermission": "Context visual from manga-profile-luffy; see its credited source. Not an official image of this article."
+  },
+  {
+    "id": "manga-gallery-culture",
+    "category": "manga",
+    "type": "gallery",
+    "title": "Ken Akamatsu at Japan Expo",
+    "description": "Manga creator Ken Akamatsu at Japan Expo in 2015. This gallery documents a real creator appearance, not artwork from One Piece.",
+    "tags": [
+      "Photography",
+      "Archive",
+      "Community"
+    ],
+    "date": "2015-07-05",
+    "featured": true,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/ken-akamatsu-japan-expo-960.webp",
+    "imageAlt": "​日本漫畫家赤松健出席Japan Expo 2015，背景是赤松健漫畫《悠久持有者》單行本第1集封面圖。",
+    "sources": [
+      {
+        "label": "Original photograph and reuse license",
+        "url": "https://commons.wikimedia.org/wiki/File:Ken_Akamatsu_at_Japan_Expo_20150705.jpg"
+      }
+    ],
+    "gallery": [
+      {
+        "src": "/media/ken-akamatsu-japan-expo-960.webp",
+        "alt": "​日本漫畫家赤松健出席Japan Expo 2015，背景是赤松健漫畫《悠久持有者》單行本第1集封面圖。",
+        "credit": "Wokenlex",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ken_Akamatsu_at_Japan_Expo_20150705.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "changes": "Resized and converted to AVIF/WebP. Interface may crop preview; lightbox preserves the image."
+      }
+    ]
+  }
+]

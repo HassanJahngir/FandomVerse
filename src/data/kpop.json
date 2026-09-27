@@ -1,0 +1,456 @@
+[
+  {
+    "id": "kpop-rm",
+    "type": "profile",
+    "category": "kpop",
+    "title": "RM",
+    "description": "BTS member and the solo artist behind Indigo.",
+    "tags": [
+      "BTS",
+      "Solo music",
+      "Artist"
+    ],
+    "featured": true,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/bts-rm-bbmas-2019-960.webp",
+    "imageAlt": "RM at the 2019 Billboard Music Awards",
+    "franchise": "BTS",
+    "biography": "RM is a member of BTS, the South Korean group that debuted in June 2013. His solo catalogue includes Indigo, whose official album page presents the songs Wild Flower and Still Life alongside interviews with participating artists. This profile focuses on his published work rather than speculation about his private personality.",
+    "traits": [
+      "BTS member",
+      "Solo album: Indigo",
+      "Songs: Wild Flower; Still Life"
+    ],
+    "sources": [
+      {
+        "label": "BIGHIT MUSIC — BTS profile",
+        "url": "https://bts.ibighit.com/eng/profile/"
+      },
+      {
+        "label": "BIGHIT MUSIC — Indigo",
+        "url": "https://bts.ibighit.com/eng/discography/rm/detail/indigo/"
+      },
+      {
+        "label": "Licensed portrait — Newsen (CC BY 3.0)",
+        "url": "https://commons.wikimedia.org/wiki/File:190501_BTS_RM_at_the_2019_BBMAs_(cropped).png"
+      }
+    ]
+  },
+  {
+    "id": "kpop-jin",
+    "type": "profile",
+    "category": "kpop",
+    "title": "Jin",
+    "description": "BTS artist whose first official solo single was The Astronaut.",
+    "tags": [
+      "BTS",
+      "Solo music",
+      "Artist"
+    ],
+    "featured": true,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/bts-jin-dispatch-2019-960.webp",
+    "imageAlt": "Jin in a 2019 Dispatch photo session",
+    "franchise": "BTS",
+    "biography": "Jin is one of the seven members of BTS. BIGHIT MUSIC announced his first official solo single, The Astronaut, for October 28, 2022. The label described the release as a gift to fans. Its official project page gathers concept photographs, a music video teaser, the music video and a lyric video, showing how one song can develop into a wider visual release.",
+    "traits": [
+      "BTS member",
+      "Solo single: The Astronaut",
+      "First official solo single released in 2022"
+    ],
+    "sources": [
+      {
+        "label": "BIGHIT MUSIC — BTS profile",
+        "url": "https://bts.ibighit.com/eng/profile/"
+      },
+      {
+        "label": "Official release notice — The Astronaut",
+        "url": "https://weverse.io/bts/notice/9372"
+      },
+      {
+        "label": "BIGHIT MUSIC — The Astronaut",
+        "url": "https://bts.ibighit.com/eng/discography/jin/detail/astronaut/"
+      },
+      {
+        "label": "Licensed portrait — Dispatch (CC BY 3.0)",
+        "url": "https://commons.wikimedia.org/wiki/File:Jin_for_Dispatch_%22Boy_With_Luv%22_MV_behind_the_scene_shooting,_15_March_2019_05.jpg"
+      }
+    ]
+  },
+  {
+    "id": "kpop-suga",
+    "type": "profile",
+    "category": "kpop",
+    "title": "SUGA / Agust D",
+    "description": "BTS member, songwriter and producer; Agust D is his solo moniker.",
+    "tags": [
+      "BTS",
+      "Hip-hop",
+      "Solo music"
+    ],
+    "featured": true,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/bts-suga-gda-2019-960.webp",
+    "imageAlt": "SUGA at the 33rd Golden Disc Awards in 2019",
+    "franchise": "BTS",
+    "biography": "SUGA is a member of BTS who also releases music as Agust D. His album D-DAY concludes a trilogy following the mixtapes Agust D and D-2. The official album introduction credits him with songwriting across all ten tracks and involvement in the overall production. Its lead track Haegeum incorporates the sound of the traditional Korean string instrument of the same name.",
+    "traits": [
+      "BTS member",
+      "Solo moniker: Agust D",
+      "Songwriting and production",
+      "Album: D-DAY"
+    ],
+    "sources": [
+      {
+        "label": "BIGHIT MUSIC — BTS profile",
+        "url": "https://bts.ibighit.com/eng/profile/"
+      },
+      {
+        "label": "BIGHIT MUSIC — D-DAY",
+        "url": "https://bts.ibighit.com/eng/discography/suga/detail/d-day/"
+      },
+      {
+        "label": "Licensed portrait — Newsen (CC BY 3.0)",
+        "url": "https://commons.wikimedia.org/wiki/File:Suga_on_the_33rd_Golden_Disc_Awards_red_carpet,_5_January_2019.jpg"
+      }
+    ]
+  },
+  {
+    "id": "kpop-jhope",
+    "type": "profile",
+    "category": "kpop",
+    "title": "j-hope",
+    "description": "BTS artist whose Jack In The Box explores a distinct solo musical direction.",
+    "tags": [
+      "BTS",
+      "Solo music",
+      "Artist"
+    ],
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/bts-jhope-gda-2019-960.webp",
+    "imageAlt": "j-hope at the 33rd Golden Disc Awards in 2019",
+    "franchise": "BTS",
+    "biography": "j-hope is a member of BTS and a solo recording artist. His ten-track album Jack In The Box places MORE and Arson at the centre of its narrative. BIGHIT MUSIC describes the project as an expression of his musical identity and desire to grow beyond an established frame. The accompanying official videos offer two entry points into the album's ideas.",
+    "traits": [
+      "BTS member",
+      "Album: Jack In The Box",
+      "Main tracks: MORE; Arson"
+    ],
+    "sources": [
+      {
+        "label": "BIGHIT MUSIC — BTS profile",
+        "url": "https://bts.ibighit.com/eng/profile/"
+      },
+      {
+        "label": "BIGHIT MUSIC — Jack In The Box",
+        "url": "https://bts.ibighit.com/eng/discography/j-hope/detail/jack-in-the-box/index.html"
+      },
+      {
+        "label": "Licensed portrait — Newsen (CC BY 3.0)",
+        "url": "https://commons.wikimedia.org/wiki/File:J-Hope_on_the_33rd_Golden_Disc_Awards_red_carpet,_5_January_2019_02.jpg"
+      }
+    ]
+  },
+  {
+    "id": "kpop-jimin",
+    "type": "profile",
+    "category": "kpop",
+    "title": "Jimin",
+    "description": "BTS artist and the voice of the solo album FACE.",
+    "tags": [
+      "BTS",
+      "Synth pop",
+      "Solo music"
+    ],
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/bts-white-house-2022-960.webp",
+    "imageAlt": "Jimin appears with all seven BTS members at the White House, May 2022",
+    "franchise": "BTS",
+    "biography": "Jimin is a member of BTS. His first solo album FACE features his voice throughout, with Like Crazy as the main track and Set Me Free Pt.2 as a pre-release song. The official album introduction identifies pop, hip-hop and R&B among the project's styles, and specifically describes Like Crazy as synth pop. These musical attributes describe the work without making unsupported claims about his personal life.",
+    "traits": [
+      "BTS member",
+      "First solo album: FACE",
+      "Main track: Like Crazy",
+      "Pop, hip-hop and R&B"
+    ],
+    "sources": [
+      {
+        "label": "BIGHIT MUSIC — BTS profile",
+        "url": "https://bts.ibighit.com/eng/profile/"
+      },
+      {
+        "label": "BIGHIT MUSIC — FACE",
+        "url": "https://bts.ibighit.com/eng/discography/jimin/detail/face/"
+      },
+      {
+        "label": "White House BTS group photograph, public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:BTS_at_the_White_House_on_May_31,_2022.jpg"
+      }
+    ]
+  },
+  {
+    "id": "kpop-event-busan-2022",
+    "type": "event",
+    "category": "kpop",
+    "title": "BTS Yet To Come in Busan",
+    "description": "Historical concert supporting Busan's World Expo 2030 bid, held at Busan Asiad Main Stadium. This event has ended.",
+    "tags": [
+      "BTS",
+      "Concert",
+      "Archive"
+    ],
+    "date": "2022-10-15",
+    "location": "Busan Asiad Main Stadium, Busan, South Korea",
+    "status": "past",
+    "featured": true,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/bts-white-house-2022-960.webp",
+    "sources": [
+      {
+        "label": "Weverse — official concert notice",
+        "url": "https://weverse.io/bts/notice/9298"
+      }
+    ],
+    "imageAlt": "The seven members of BTS at the White House in 2022",
+    "imageCredit": "BTS at the White House",
+    "imageKind": "related-photo",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:BTS_at_the_White_House_on_May_31%2C_2022.jpg",
+    "imageContext": "Related franchise visual; it does not depict this event itself.",
+    "mediaPermission": "Context visual from kpop-gallery-real-world; see its credited source. Not an official image of this event."
+  },
+  {
+    "id": "kpop-event-festa-2023",
+    "type": "event",
+    "category": "kpop",
+    "title": "BTS 10th Anniversary FESTA at Yeouido",
+    "description": "The 2023 anniversary gathering at Yeouido Hangang Park celebrated ten years since BTS's debut with exhibitions and fan activities. Historical listing; no tickets are offered.",
+    "tags": [
+      "BTS",
+      "Festival",
+      "Archive"
+    ],
+    "date": "2023-06-17",
+    "location": "Yeouido Hangang Park, Seoul, South Korea",
+    "status": "past",
+    "featured": true,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/bts-white-house-2022-960.webp",
+    "sources": [
+      {
+        "label": "Weverse — official event programme",
+        "url": "https://weverse.io/bts/notice/13965?hl=en"
+      },
+      {
+        "label": "Seoul Metropolitan Government — 2023 BTS FESTA",
+        "url": "https://english.seoul.go.kr/see-you-in-seoul-be-a-traveler-in-seoul-seoul-to-rejuvenate-tourism-through-2023-bts-festa/"
+      }
+    ],
+    "imageAlt": "The seven members of BTS at the White House in 2022",
+    "imageCredit": "BTS at the White House",
+    "imageKind": "related-photo",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:BTS_at_the_White_House_on_May_31%2C_2022.jpg",
+    "imageContext": "Related franchise visual; it does not depict this event itself.",
+    "mediaPermission": "Context visual from kpop-gallery-real-world; see its credited source. Not an official image of this event."
+  },
+  {
+    "id": "kpop-event-proof-2022",
+    "type": "event",
+    "category": "kpop",
+    "title": "2022 BTS Exhibition: Proof in Busan",
+    "description": "A historical exhibition about BTS's journey, part of the official Yet To Come THE CITY programme. Ran October 5–November 8, 2022.",
+    "tags": [
+      "BTS",
+      "Exhibition",
+      "Archive"
+    ],
+    "date": "2022-10-05",
+    "endDate": "2022-11-08",
+    "location": "LCT, 1st floor, Busan, South Korea",
+    "status": "past",
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/bts-white-house-2022-960.webp",
+    "sources": [
+      {
+        "label": "Weverse — THE CITY in Busan programme",
+        "url": "https://weverse.io/bts/notice/9079"
+      }
+    ],
+    "imageAlt": "The seven members of BTS at the White House in 2022",
+    "imageCredit": "BTS at the White House",
+    "imageKind": "related-photo",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:BTS_at_the_White_House_on_May_31%2C_2022.jpg",
+    "imageContext": "Related franchise visual; it does not depict this event itself.",
+    "mediaPermission": "Context visual from kpop-gallery-real-world; see its credited source. Not an official image of this event."
+  },
+  {
+    "id": "kpop-article-seven-voices",
+    "type": "article",
+    "category": "kpop",
+    "title": "One group, different creative doors",
+    "description": "A listening guide to five BTS members' solo projects, and why a fandom archive needs both music and context.",
+    "tags": [
+      "BTS",
+      "Listening guide",
+      "Commentary"
+    ],
+    "date": "2026-09-26",
+    "featured": true,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/bts-white-house-2022-960.webp",
+    "imageAlt": "The seven members of BTS at the White House in 2022",
+    "body": [
+      "A group profile can introduce a fandom, but a solo project offers another way into it. BTS's official profile names seven members: RM, Jin, SUGA, j-hope, Jimin, V and Jung Kook. FandomVerse begins with five individual artist pages, treating the people behind K-Pop as artists rather than fictional characters. The selections below are an archive-based listening guide. They are not a ranking, a claim about current charts, or a set of new-release announcements.",
+      "Start with the way a release is presented. RM's official Indigo page places music videos alongside interviews with participating artists. That layout invites listeners to think about a record as a meeting of voices and creative choices. Jin's The Astronaut page takes a different route: concept photographs, a teaser, the main video and a lyric video create several ways to approach a single song. The original release notice dates that first official solo single to October 28, 2022. Keeping the date visible helps a new fan discover it without mistaking an old announcement for breaking news.",
+      "SUGA's D-DAY gives an especially clear example of continuity. Released under the Agust D name, it completes a trilogy after two earlier mixtapes. The official description connects the main track Haegeum to the sound of a Korean string instrument and credits SUGA's work in writing and production. A useful first listening question is therefore how a named sound supports a larger project. This is an invitation to pay attention, not a claim that there is only one correct interpretation.",
+      "j-hope's Jack In The Box frames MORE and Arson as complementary parts of an album about artistic direction. Jimin's FACE provides another contrast: the official introduction describes Like Crazy as synth pop while identifying a broader mix of pop, hip-hop and R&B across the record. Try listening to one main track from each project, then write a short note about arrangement, pace or vocal texture. A personal response does not need to pretend to be a universal verdict.",
+      "Fandom also lives beyond a playlist. The archived Busan concert, Proof exhibition and anniversary FESTA show how performances, exhibitions and gatherings can provide different forms of participation. Their dates and locations belong in an archive, not an active ticket list. Save the records that interest you, follow the official sources for the music, and use a session note to capture your own observations. That combination keeps discovery enjoyable while giving facts, interpretation and personal taste their own space."
+    ],
+    "sources": [
+      {
+        "label": "BIGHIT MUSIC — BTS profile",
+        "url": "https://bts.ibighit.com/eng/profile/"
+      },
+      {
+        "label": "BIGHIT MUSIC — Indigo",
+        "url": "https://bts.ibighit.com/eng/discography/rm/detail/indigo/"
+      },
+      {
+        "label": "Official notice — The Astronaut",
+        "url": "https://weverse.io/bts/notice/9372"
+      },
+      {
+        "label": "BIGHIT MUSIC — D-DAY",
+        "url": "https://bts.ibighit.com/eng/discography/suga/detail/d-day/"
+      },
+      {
+        "label": "BIGHIT MUSIC — Jack In The Box",
+        "url": "https://bts.ibighit.com/eng/discography/j-hope/detail/jack-in-the-box/index.html"
+      },
+      {
+        "label": "BIGHIT MUSIC — FACE",
+        "url": "https://bts.ibighit.com/eng/discography/jimin/detail/face/"
+      },
+      {
+        "label": "Official event archive",
+        "url": "https://weverse.io/bts/notice/9079"
+      }
+    ]
+  },
+  {
+    "id": "kpop-trailer-astronaut",
+    "type": "trailer",
+    "category": "kpop",
+    "title": "Jin — The Astronaut: official music video",
+    "description": "The official music video supplied through HYBE LABELS’ embeddable YouTube player. The video remains with the rights holder, loads only when opened, and requires internet.",
+    "tags": [
+      "BTS",
+      "Teaser",
+      "Music video"
+    ],
+    "date": "2022-10-28",
+    "status": "released",
+    "mediaKind": "trailer",
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "https://i.ytimg.com/vi/c6ASQOwKkhk/hqdefault.jpg",
+    "mediaUrl": "https://www.youtube.com/watch?v=c6ASQOwKkhk",
+    "sources": [
+      {
+        "label": "HYBE LABELS official music video",
+        "url": "https://www.youtube.com/watch?v=c6ASQOwKkhk"
+      },
+      {
+        "label": "BIGHIT MUSIC release page",
+        "url": "https://bts.ibighit.com/eng/discography/jin/detail/astronaut/"
+      }
+    ],
+    "mediaNote": "Official source link. An authorized embed could not be independently confirmed; no music or video was copied.",
+    "imageAlt": "Official 진 (Jin) 'The Astronaut' Official MV thumbnail",
+    "imageCredit": "HYBE LABELS",
+    "imageKind": "official-trailer-thumbnail",
+    "imageSourceUrl": "https://www.youtube.com/watch?v=c6ASQOwKkhk",
+    "mediaPermission": "YouTube oEmbed supplied an official channel player and thumbnail; media loads online and is not downloaded.",
+    "mediaPermissionNote": "Official online embed; no local copy or republication license claimed.",
+    "poster": "https://i.ytimg.com/vi/c6ASQOwKkhk/hqdefault.jpg",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/c6ASQOwKkhk"
+  },
+  {
+    "id": "kpop-release-astronaut",
+    "type": "release",
+    "category": "kpop",
+    "title": "The Astronaut — Jin",
+    "description": "Jin's first official solo single. Released October 28, 2022; retained as an explicitly historical release record.",
+    "tags": [
+      "BTS",
+      "Single",
+      "Archive"
+    ],
+    "date": "2022-10-28",
+    "status": "released",
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "https://i.ytimg.com/vi/c6ASQOwKkhk/hqdefault.jpg",
+    "sources": [
+      {
+        "label": "BIGHIT MUSIC — dated release notice",
+        "url": "https://weverse.io/bts/notice/9372"
+      }
+    ],
+    "imageAlt": "Official 진 (Jin) 'The Astronaut' Official MV thumbnail",
+    "imageCredit": "HYBE LABELS",
+    "imageKind": "official-trailer-thumbnail",
+    "imageSourceUrl": "https://www.youtube.com/watch?v=c6ASQOwKkhk",
+    "mediaPermission": "YouTube oEmbed supplied an official channel player and thumbnail; media loads online and is not downloaded.",
+    "mediaPermissionNote": "Official online embed; no local copy or republication license claimed."
+  },
+  {
+    "id": "kpop-gallery-real-world",
+    "category": "kpop",
+    "type": "gallery",
+    "title": "BTS at the White House",
+    "description": "Two public-domain United States government photographs documenting BTS’s May 2022 White House visit.",
+    "tags": [
+      "Photography",
+      "Archive",
+      "Community"
+    ],
+    "date": "2022-05-31",
+    "featured": true,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/bts-white-house-2022-960.webp",
+    "imageAlt": "The seven members of BTS at the White House in 2022",
+    "sources": [
+      {
+        "label": "Photograph, The White House (Public domain)",
+        "url": "https://commons.wikimedia.org/wiki/File:BTS_at_the_White_House_on_May_31%2C_2022.jpg"
+      },
+      {
+        "label": "Photograph, The White House (Public domain)",
+        "url": "https://commons.wikimedia.org/wiki/File:BTS_at_the_White_House_on_May_31%2C_2022_03.jpg"
+      }
+    ],
+    "gallery": [
+      {
+        "src": "/media/bts-white-house-2022-960.webp",
+        "alt": "The seven members of BTS at the White House in 2022",
+        "credit": "The White House",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Copyright_rules_by_territory/United_States#Works_of_the_federal_government",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:BTS_at_the_White_House_on_May_31%2C_2022.jpg",
+        "changes": "Resized and converted to WebP and AVIF; preview may crop. Original work credited and not endorsed."
+      },
+      {
+        "src": "/media/bts-white-house-2022-group-960.webp",
+        "alt": "BTS at the White House, May 31, 2022",
+        "credit": "The White House",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Copyright_rules_by_territory/United_States#Works_of_the_federal_government",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:BTS_at_the_White_House_on_May_31%2C_2022_03.jpg",
+        "changes": "Resized and converted to WebP and AVIF; preview may crop. Original work credited and not endorsed."
+      }
+    ]
+  }
+]

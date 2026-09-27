@@ -1,0 +1,404 @@
+[
+  {
+    "id": "comics-profile-superman",
+    "category": "comics",
+    "type": "profile",
+    "title": "Superman",
+    "description": "Born Kal-El on Krypton and raised as Clark Kent on Earth, Superman protects people with extraordinary strength, flight and other powers. His civilian life as a reporter and his upbringing among humans are as important to his identity as his alien origin.",
+    "tags": [
+      "DC",
+      "Kryptonian",
+      "Clark Kent"
+    ],
+    "featured": true,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/comics-profile-superman-960.webp",
+    "imageAlt": "Superman fan cosplay",
+    "sources": [
+      {
+        "label": "DC official character guide",
+        "url": "https://www.dc.com/characters/superman"
+      }
+    ],
+    "biography": "Born Kal-El on Krypton and raised as Clark Kent on Earth, Superman protects people with extraordinary strength, flight and other powers. His civilian life as a reporter and his upbringing among humans are as important to his identity as his alien origin.",
+    "franchise": "DC",
+    "traits": [
+      "Kryptonian",
+      "Clark Kent",
+      "Metropolis"
+    ],
+    "mediaPermission": "CC BY-SA 2.0 photograph by Tony Shek; character and franchise rights remain with their owners. Fan cosplay, not official character artwork.",
+    "imageCredit": "Tony Shek · CC BY-SA 2.0",
+    "imageKind": "fan-cosplay",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Superman_Cosplayer.jpg"
+  },
+  {
+    "id": "comics-profile-batman",
+    "category": "comics",
+    "type": "profile",
+    "title": "Batman",
+    "description": "Bruce Wayne turns the loss of his parents into a lifelong mission to protect Gotham City. Batman has no metahuman powers: he combines detective work, physical training and technology. His allies include Alfred Pennyworth and the wider Batman family.",
+    "tags": [
+      "DC",
+      "Detective",
+      "Bruce Wayne"
+    ],
+    "featured": true,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/comics-profile-batman-960.webp",
+    "imageAlt": "Batman fan cosplay",
+    "sources": [
+      {
+        "label": "DC official character guide",
+        "url": "https://www.dc.com/characters/batman"
+      }
+    ],
+    "biography": "Bruce Wayne turns the loss of his parents into a lifelong mission to protect Gotham City. Batman has no metahuman powers: he combines detective work, physical training and technology. His allies include Alfred Pennyworth and the wider Batman family.",
+    "franchise": "DC",
+    "traits": [
+      "Detective",
+      "Bruce Wayne",
+      "Gotham City"
+    ],
+    "mediaPermission": "CC BY-SA 2.0 photograph by Gage Skidmore; character and franchise rights remain with their owners. Fan cosplay, not official character artwork.",
+    "imageCredit": "Gage Skidmore · CC BY-SA 2.0",
+    "imageKind": "fan-cosplay",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Batman_cosplayer_(12163783063).jpg"
+  },
+  {
+    "id": "comics-profile-wonder-woman",
+    "category": "comics",
+    "type": "profile",
+    "title": "Wonder Woman",
+    "description": "Diana is an Amazon hero associated with Themyscira. As Wonder Woman, she brings exceptional strength and combat skill to her work defending others. Her connections to the Amazons and the wider world make her a central figure in DC's heroic community.",
+    "tags": [
+      "DC",
+      "Amazon",
+      "Diana"
+    ],
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/comics-profile-wonder-woman-960.webp",
+    "imageAlt": "Wonder Woman fan cosplay",
+    "sources": [
+      {
+        "label": "DC official character guide",
+        "url": "https://www.dc.com/characters/wonder-woman"
+      }
+    ],
+    "biography": "Diana is an Amazon hero associated with Themyscira. As Wonder Woman, she brings exceptional strength and combat skill to her work defending others. Her connections to the Amazons and the wider world make her a central figure in DC's heroic community.",
+    "franchise": "DC",
+    "traits": [
+      "Amazon",
+      "Diana",
+      "Themyscira"
+    ],
+    "mediaPermission": "CC BY-SA 2.0 photograph by William Tung; fan cosplay, not official character artwork.",
+    "imageCredit": "William Tung · CC BY-SA 2.0",
+    "imageKind": "fan-cosplay",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Wondercon_2016_-_Wonder_Woman_Cosplay_(26054968196).jpg"
+  },
+  {
+    "id": "comics-profile-aquaman",
+    "category": "comics",
+    "type": "profile",
+    "title": "Aquaman",
+    "description": "Arthur Curry is the son of a lighthouse keeper and an Atlantean queen. As Aquaman, he links the surface world with Atlantis. His abilities include underwater breathing, exceptional swimming, great strength and communication with sea life.",
+    "tags": [
+      "DC",
+      "Arthur Curry",
+      "Atlantis"
+    ],
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/comics-profile-aquaman-960.webp",
+    "imageAlt": "Aquaman fan cosplay",
+    "sources": [
+      {
+        "label": "DC official character guide",
+        "url": "https://www.dc.com/characters/aquaman"
+      }
+    ],
+    "biography": "Arthur Curry is the son of a lighthouse keeper and an Atlantean queen. As Aquaman, he links the surface world with Atlantis. His abilities include underwater breathing, exceptional swimming, great strength and communication with sea life.",
+    "franchise": "DC",
+    "traits": [
+      "Arthur Curry",
+      "Atlantis",
+      "Justice League"
+    ],
+    "mediaPermission": "CC BY-SA 2.0 photograph by Gage Skidmore; character and franchise rights remain with their owners. Fan cosplay, not official character artwork.",
+    "imageCredit": "Gage Skidmore · CC BY-SA 2.0",
+    "imageKind": "fan-cosplay",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Aquaman_cosplayers_(37671454274).jpg"
+  },
+  {
+    "id": "comics-profile-harley-quinn",
+    "category": "comics",
+    "type": "profile",
+    "title": "Harley Quinn",
+    "description": "Formerly Dr. Harleen Quinzel, Harley Quinn first becomes entangled with the Joker through her work at Arkham Asylum. She later establishes a life beyond him, including stories with the Gotham City Sirens and Suicide Squad. Her character originated in Batman: The Animated Series before expanding into comics.",
+    "tags": [
+      "DC",
+      "Harleen Quinzel",
+      "Gotham City"
+    ],
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/comics-profile-harley-quinn-960.webp",
+    "imageAlt": "Harley Quinn fan cosplay",
+    "sources": [
+      {
+        "label": "DC official character guide",
+        "url": "https://www.dc.com/characters/harley-quinn"
+      }
+    ],
+    "biography": "Formerly Dr. Harleen Quinzel, Harley Quinn first becomes entangled with the Joker through her work at Arkham Asylum. She later establishes a life beyond him, including stories with the Gotham City Sirens and Suicide Squad. Her character originated in Batman: The Animated Series before expanding into comics.",
+    "franchise": "DC",
+    "traits": [
+      "Harleen Quinzel",
+      "Gotham City",
+      "Suicide Squad"
+    ],
+    "mediaPermission": "CC BY-SA 3.0 photograph by Suso Herero; character and franchise rights remain with their owners. Fan cosplay, not official character artwork.",
+    "imageCredit": "Suso Herero · CC BY-SA 3.0",
+    "imageKind": "fan-cosplay",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Harley_Quinn.jpg"
+  },
+  {
+    "id": "comics-event-comic-con-2025",
+    "category": "comics",
+    "type": "event",
+    "title": "San Diego Comic-Con 2025",
+    "description": "Past event. The main convention ran July 24–27, with Preview Night on July 23. DC's official program included publishing panels and a convention booth.",
+    "tags": [
+      "Event",
+      "Archive"
+    ],
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/comics-event-comic-con-2025-960.webp",
+    "imageAlt": "Comic-Con sign at San Diego Comic-Con 2025",
+    "sources": [
+      {
+        "label": "Official event source",
+        "url": "https://www.sandiego.gov/mayor/mayor-gloria-local-leaders-kick-comic-con-2025"
+      }
+    ],
+    "date": "2025-07-24",
+    "endDate": "2025-07-27",
+    "location": "San Diego Convention Center, San Diego, USA",
+    "status": "past",
+    "imageCredit": "Gage Skidmore · CC BY-SA 4.0",
+    "imageKind": "event-photo",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:San_Diego_Comic_Con_sign_-_54710499331.jpg",
+    "mediaPermission": "CC BY-SA 4.0; see source and media credits. "
+  },
+  {
+    "id": "comics-event-batman-day-2025",
+    "category": "comics",
+    "type": "event",
+    "title": "Batman Day 2025",
+    "description": "Past event. DC's annual celebration of Batman included comic-book activities and special releases. Local participation varied; this record is not a claim that any promotion remains available.",
+    "tags": [
+      "Event",
+      "Archive"
+    ],
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/comics-profile-batman-960.webp",
+    "imageAlt": "Batman fan cosplay",
+    "sources": [
+      {
+        "label": "Official event source",
+        "url": "https://www.dc.com/blog/2025-09-15/batman-day-arrives-saturday-september-20-2025"
+      }
+    ],
+    "date": "2025-09-20",
+    "endDate": "2025-09-20",
+    "location": "Participating shops and venues worldwide",
+    "status": "past",
+    "imageCredit": "Gage Skidmore · CC BY-SA 2.0",
+    "imageKind": "fan-cosplay",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Batman_cosplayer_(12163783063).jpg",
+    "imageContext": "Related character or artist visual; it does not depict this event itself.",
+    "mediaPermission": "Context visual from comics-profile-batman; see its credited source. Not an official image of this event."
+  },
+  {
+    "id": "comics-event-fcbd-2025",
+    "category": "comics",
+    "type": "event",
+    "title": "Free Comic Book Day 2025",
+    "description": "Past event. The organizer announced 46 selected comic-book titles for participating stores to distribute. Individual shops set their own limits and activities.",
+    "tags": [
+      "Event",
+      "Archive"
+    ],
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/comics-event-fcbd-2025-960.webp",
+    "imageAlt": "Free Comic Book Day wordmark",
+    "sources": [
+      {
+        "label": "Official event source",
+        "url": "https://www.freecomicbookday.com/Article/278650"
+      }
+    ],
+    "date": "2025-05-03",
+    "endDate": "2025-05-03",
+    "location": "Participating comic shops worldwide",
+    "status": "past",
+    "imageCredit": "Diamond Comics Distributors · PD textlogo",
+    "imageKind": "event-logo",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Free_Comic_Book_Day_logo.jpg",
+    "mediaPermission": "PD textlogo; see source and media credits. Trademark rights remain with the owner."
+  },
+  {
+    "id": "comics-release-absolute-batman-1",
+    "category": "comics",
+    "type": "release",
+    "title": "Absolute Batman #1 — first printing",
+    "description": "Scott Snyder, Nick Dragotta and Frank Martin's alternate-universe Batman series began with this October 2024 release. The first printing's date is distinct from its October 30 second printing.",
+    "tags": [
+      "DC",
+      "Batman",
+      "Absolute Universe"
+    ],
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/comics-profile-batman-960.webp",
+    "imageAlt": "Batman fan cosplay",
+    "sources": [
+      {
+        "label": "DC first and second printing announcement",
+        "url": "https://www.dc.com/blog/2024/10/03/absolute-batman-1-gets-a-second-printing-with-all-new-cover-art"
+      }
+    ],
+    "date": "2024-10-09",
+    "status": "released",
+    "location": "Participating comic shops and digital comics",
+    "franchise": "DC",
+    "imageCredit": "Gage Skidmore · CC BY-SA 2.0",
+    "imageKind": "fan-cosplay",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Batman_cosplayer_(12163783063).jpg",
+    "imageContext": "Related character or artist visual; it does not depict the release artwork itself.",
+    "mediaPermission": "Context visual from comics-profile-batman; see its credited source. Not an official image of this release."
+  },
+  {
+    "id": "comics-trailer-dc-all-in",
+    "category": "comics",
+    "type": "trailer",
+    "title": "DC All In — comic trailer",
+    "description": "DC's official video collection includes a comic trailer for its All In publishing initiative. Open the publisher's page to watch; no downloaded copy or unverified player is hosted here.",
+    "tags": [
+      "DC",
+      "Comic trailer",
+      "Publishing"
+    ],
+    "featured": true,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/comics-profile-batman-960.webp",
+    "imageAlt": "Batman fan cosplay",
+    "sources": [
+      {
+        "label": "DC official video collection",
+        "url": "https://www.dc.com/videos"
+      }
+    ],
+    "status": "released",
+    "mediaKind": "trailer",
+    "mediaUrl": "https://www.dc.com/videos",
+    "mediaPermission": "Context visual from comics-profile-batman; see its credited source. Not an official image of this trailer.",
+    "imageCredit": "Gage Skidmore · CC BY-SA 2.0",
+    "imageKind": "fan-cosplay",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Batman_cosplayer_(12163783063).jpg",
+    "imageContext": "Related character or artist visual; it does not depict the linked media itself."
+  },
+  {
+    "id": "comics-article-dc-entry-points",
+    "category": "comics",
+    "type": "article",
+    "title": "A doorway into DC, without a homework assignment",
+    "description": "Start with a character, a creative team and a clearly identified edition instead of trying to memorize an entire universe.",
+    "tags": [
+      "DC",
+      "Reading guide",
+      "Editorial"
+    ],
+    "featured": true,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/comics-profile-superman-960.webp",
+    "imageAlt": "Superman fan cosplay",
+    "sources": [
+      {
+        "label": "DC official character guide",
+        "url": "https://www.dc.com/characters/superman"
+      },
+      {
+        "label": "DC official character guide",
+        "url": "https://www.dc.com/characters/batman"
+      },
+      {
+        "label": "DC official character guide",
+        "url": "https://www.dc.com/characters/wonder-woman"
+      },
+      {
+        "label": "DC official character guide",
+        "url": "https://www.dc.com/characters/aquaman"
+      },
+      {
+        "label": "DC official character guide",
+        "url": "https://www.dc.com/characters/harley-quinn"
+      },
+      {
+        "label": "DC Absolute launch information",
+        "url": "https://www.dc.com/blog/2024/08/22/new-absolute-dc-cover-art-and-logos-are-revealed"
+      }
+    ],
+    "body": [
+      "A shared comics universe can look intimidating from the outside. Character names recur across decades, creative teams change, and an issue numbered one may launch an alternate setting rather than erase everything that came before. A practical first step is smaller: choose a character whose central situation interests you, then identify the specific series and edition you intend to read. This guide offers an approach to browsing, not a claim that one sequence is the only correct reading order.",
+      "Batman and Superman make a useful comparison. DC's character pages describe Bruce Wayne's training and technology alongside Clark Kent's Kryptonian origin and extraordinary powers. Those facts suggest different questions for a reader. How does a detective gather information? What responsibilities come with the ability to intervene on an enormous scale? Neither question requires memorizing every crossover. It gives you something concrete to watch for in the panels of one story.",
+      "Wonder Woman and Aquaman bring connections to distinct communities: Themyscira and Atlantis. Their profiles help identify those relationships before a reader encounters a particular writer's interpretation. Harley Quinn provides another reminder that a familiar character can move across media and roles. DC identifies her first appearance as Batman: The Animated Series, while her later stories include the Gotham City Sirens and Suicide Squad. A category on this website is a browsing aid, not a claim that a character belongs to only one medium.",
+      "Publication labels matter when buying or borrowing. The Absolute Universe offers alternate versions of established heroes. DC announced Absolute Batman #1 for October 9, 2024, followed by Absolute Wonder Woman and Absolute Superman. That makes the word Absolute useful information, not decoration that can be ignored when comparing editions. The same care applies to first and later printings, collected volumes and individual issues. A release record should say which item its date describes.",
+      "Try building a short reading list around one question and two character profiles. Follow the official source links, check the title and creative team, and use a personal note to record what surprised you after reading. If a story references an earlier adventure, decide whether that reference is necessary to understand the current scene before opening another tab. Comics can reward deep knowledge, but they can also invite curiosity one page at a time. Clear edition names and a willingness to distinguish fact from interpretation make that first page easier to find."
+    ],
+    "imageCredit": "Tony Shek · CC BY-SA 2.0",
+    "imageKind": "fan-cosplay",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Superman_Cosplayer.jpg",
+    "imageContext": "Related character or artist visual; it does not depict the linked media itself.",
+    "mediaPermission": "Context visual from comics-profile-superman; see its credited source. Not an official image of this article."
+  },
+  {
+    "id": "comics-gallery-real-world",
+    "category": "comics",
+    "type": "gallery",
+    "title": "San Diego Comic-Con, seen by fans",
+    "description": "Photography of a real comic convention setting. This depicts the event, not fictional character art.",
+    "tags": [
+      "Photography",
+      "Archive",
+      "Community"
+    ],
+    "date": "2019-07-21",
+    "featured": true,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/sdcc-2019-960.webp",
+    "imageAlt": "San Diego Comic-Con at the San Diego Convention Center, 2019",
+    "sources": [
+      {
+        "label": "Photograph, Gage Skidmore (CC BY-SA 2.0)",
+        "url": "https://commons.wikimedia.org/wiki/File:San_Diego_Comic_Con_2019_(48344445402).jpg"
+      }
+    ],
+    "gallery": [
+      {
+        "src": "/media/sdcc-2019-960.webp",
+        "alt": "San Diego Comic-Con at the San Diego Convention Center, 2019",
+        "credit": "Gage Skidmore",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:San_Diego_Comic_Con_2019_(48344445402).jpg",
+        "changes": "Resized and converted to WebP and AVIF; preview may crop. Original work credited and not endorsed."
+      }
+    ]
+  }
+]

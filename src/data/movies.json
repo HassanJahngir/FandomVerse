@@ -1,0 +1,533 @@
+[
+  {
+    "id": "movies-profile-luke-skywalker",
+    "category": "movies",
+    "type": "profile",
+    "title": "Luke Skywalker",
+    "description": "Raised on Tatooine, Luke becomes a Jedi and fights alongside Leia Organa and Han Solo against the Galactic Empire. His journey connects a personal search for identity with the wider struggle against the Sith.",
+    "tags": [
+      "Star Wars",
+      "Jedi",
+      "Rebel Alliance"
+    ],
+    "featured": true,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/movies-profile-luke-skywalker-960.webp",
+    "imageAlt": "Luke Skywalker fan cosplay",
+    "sources": [
+      {
+        "label": "Star Wars official character guide",
+        "url": "https://www.starwars.com/databank/luke-skywalker"
+      }
+    ],
+    "biography": "Raised on Tatooine, Luke becomes a Jedi and fights alongside Leia Organa and Han Solo against the Galactic Empire. His journey connects a personal search for identity with the wider struggle against the Sith.",
+    "franchise": "Star Wars",
+    "traits": [
+      "Jedi",
+      "Rebel Alliance",
+      "Human"
+    ],
+    "mediaPermission": "CC BY-SA 2.0 photograph by William Tung; character and franchise rights remain with their owners. Fan cosplay, not official character artwork.",
+    "imageCredit": "William Tung · CC BY-SA 2.0",
+    "imageKind": "fan-cosplay",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:SWCA_-_Luke_Skywalker_(16580421784).jpg",
+    "imageFocus": "center 18%"
+  },
+  {
+    "id": "movies-profile-leia-organa",
+    "category": "movies",
+    "type": "profile",
+    "title": "Leia Organa",
+    "description": "Leia is a leader of the Rebel Alliance and later a general in the Resistance. Her determination to oppose tyranny links the original trilogy to the conflict with the First Order. She is the daughter of Anakin Skywalker and Padmé Amidala and Luke Skywalker's twin.",
+    "tags": [
+      "Star Wars",
+      "Rebel leader",
+      "Resistance general"
+    ],
+    "featured": true,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/movies-profile-leia-organa-960.webp",
+    "imageAlt": "Leia Organa fan cosplay",
+    "sources": [
+      {
+        "label": "Star Wars official character guide",
+        "url": "https://www.starwars.com/databank/leia-organa"
+      }
+    ],
+    "biography": "Leia is a leader of the Rebel Alliance and later a general in the Resistance. Her determination to oppose tyranny links the original trilogy to the conflict with the First Order. She is the daughter of Anakin Skywalker and Padmé Amidala and Luke Skywalker's twin.",
+    "franchise": "Star Wars",
+    "traits": [
+      "Rebel leader",
+      "Resistance general",
+      "Human"
+    ],
+    "mediaPermission": "CC BY-SA 2.0 photograph by Miguel Discart; character and franchise rights remain with their owners. Fan cosplay, not official character artwork.",
+    "imageCredit": "Miguel Discart · CC BY-SA 2.0",
+    "imageKind": "fan-cosplay",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Leia_Organa_Solo_at_Brussels_Comic_Con_2019_(33600504718).jpg",
+    "imageFocus": "center 18%"
+  },
+  {
+    "id": "movies-profile-han-solo",
+    "category": "movies",
+    "type": "profile",
+    "title": "Han Solo",
+    "description": "A smuggler and pilot of the Millennium Falcon, Han becomes an ally of the Rebel Alliance with his co-pilot Chewbacca. His initially practical interests give way to lasting commitments to his friends and their fight against the Empire.",
+    "tags": [
+      "Star Wars",
+      "Pilot",
+      "Millennium Falcon"
+    ],
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/movies-profile-han-solo-960.webp",
+    "imageAlt": "Han Solo fan cosplay",
+    "sources": [
+      {
+        "label": "Star Wars official character guide",
+        "url": "https://www.starwars.com/databank/han-solo"
+      }
+    ],
+    "biography": "A smuggler and pilot of the Millennium Falcon, Han becomes an ally of the Rebel Alliance with his co-pilot Chewbacca. His initially practical interests give way to lasting commitments to his friends and their fight against the Empire.",
+    "franchise": "Star Wars",
+    "traits": [
+      "Pilot",
+      "Millennium Falcon",
+      "Rebel Alliance"
+    ],
+    "mediaPermission": "CC BY-SA 2.0 photograph by William Tung; character and franchise rights remain with their owners. Fan cosplay, not official character artwork.",
+    "imageCredit": "William Tung · CC BY-SA 2.0",
+    "imageKind": "fan-cosplay",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:SDCC_15_-_Han_Solo_(19652877106).jpg"
+  },
+  {
+    "id": "movies-profile-darth-vader",
+    "category": "movies",
+    "type": "profile",
+    "title": "Darth Vader",
+    "description": "Once the Jedi Anakin Skywalker, Darth Vader serves the Emperor as a Sith Lord. His imposing armor and command of the Force make him a central threat to the Rebellion. His relationship with Luke gives the galactic conflict a deeply personal dimension.",
+    "tags": [
+      "Star Wars",
+      "Sith",
+      "Galactic Empire"
+    ],
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/movies-profile-darth-vader-960.webp",
+    "imageAlt": "Darth Vader costume at Star Wars Celebration",
+    "sources": [
+      {
+        "label": "Star Wars official character guide",
+        "url": "https://www.starwars.com/databank/darth-vader"
+      }
+    ],
+    "biography": "Once the Jedi Anakin Skywalker, Darth Vader serves the Emperor as a Sith Lord. His imposing armor and command of the Force make him a central threat to the Rebellion. His relationship with Luke gives the galactic conflict a deeply personal dimension.",
+    "franchise": "Star Wars",
+    "traits": [
+      "Sith",
+      "Galactic Empire",
+      "Former Jedi"
+    ],
+    "mediaPermission": "CC BY 2.0 photograph by Sam Howzit; character and franchise rights remain with their owners. Fan cosplay, not official character artwork.",
+    "imageCredit": "Sam Howzit · CC BY 2.0",
+    "imageKind": "fan-cosplay",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:SWC_6_-_Darth_Vader_Costume_(7865106344).jpg"
+  },
+  {
+    "id": "movies-profile-yoda",
+    "category": "movies",
+    "type": "profile",
+    "title": "Yoda",
+    "description": "Yoda is a Jedi Master whose small stature contrasts with his powerful connection to the Force. He trains Jedi for more than eight centuries and later instructs Luke Skywalker on Dagobah. His story spans the fall of the Republic and the rebellion against the Empire.",
+    "tags": [
+      "Star Wars",
+      "Jedi Master",
+      "Teacher"
+    ],
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/movies-profile-yoda-960.webp",
+    "imageAlt": "Yoda sculpture at Lucasfilm",
+    "sources": [
+      {
+        "label": "Star Wars official character guide",
+        "url": "https://www.starwars.com/databank/yoda"
+      }
+    ],
+    "biography": "Yoda is a Jedi Master whose small stature contrasts with his powerful connection to the Force. He trains Jedi for more than eight centuries and later instructs Luke Skywalker on Dagobah. His story spans the fall of the Republic and the rebellion against the Empire.",
+    "franchise": "Star Wars",
+    "traits": [
+      "Jedi Master",
+      "Teacher",
+      "Dagobah"
+    ],
+    "mediaPermission": "CC BY 2.0 photograph by The Official Star Wars; character and franchise rights remain with their owners. Fan cosplay, not official character artwork.",
+    "imageCredit": "The Official Star Wars · CC BY 2.0",
+    "imageKind": "fan-cosplay",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Yoda_Sculpt.jpg"
+  },
+  {
+    "id": "movies-event-celebration-japan-2025",
+    "category": "movies",
+    "type": "event",
+    "title": "Star Wars Celebration Japan 2025",
+    "description": "Past event. The official Star Wars gathering brought panels, guests and fan activities to Japan. This archive preserves the announced dates; it is not an active ticket offer.",
+    "tags": [
+      "Event",
+      "Archive"
+    ],
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/movies-event-celebration-japan-2025-960.webp",
+    "imageAlt": "Anime Manga Pavilion at Star Wars Celebration Japan 2025",
+    "sources": [
+      {
+        "label": "Official event source",
+        "url": "https://www.starwars.com/news/star-wars-celebration-japan-2025-key-art"
+      }
+    ],
+    "date": "2025-04-18",
+    "endDate": "2025-04-20",
+    "location": "Makuhari Messe, Chiba, Japan",
+    "status": "past",
+    "imageCredit": "さえぼー · CC0 1.0",
+    "imageKind": "event-photo",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Star_Wars_Celebration_2025_Japan-Anime_Manga_Pavilion.jpg",
+    "mediaPermission": "CC0 1.0; see source and media credits. "
+  },
+  {
+    "id": "movies-event-cannes-2025",
+    "category": "movies",
+    "type": "event",
+    "title": "78th Festival de Cannes",
+    "description": "Past event. The 78th Cannes Film Festival ran from May 13 to May 24, 2025. Explore the festival's own archive for its selection and awards.",
+    "tags": [
+      "Event",
+      "Archive"
+    ],
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/movies-event-cannes-2025-960.webp",
+    "imageAlt": "Christopher McQuarrie at the 2025 Cannes Film Festival",
+    "sources": [
+      {
+        "label": "Official event source",
+        "url": "https://www.festival-cannes.com/en/2025/2025-festival-de-cannes-accreditations-are-open-2/"
+      }
+    ],
+    "date": "2025-05-13",
+    "endDate": "2025-05-24",
+    "location": "Cannes, France",
+    "status": "past",
+    "imageCredit": "Gabriel Hutchinson / WikiPortraits · CC BY-SA 4.0",
+    "imageKind": "event-photo",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Christopher_McQuarrie_at_the_2025_Cannes_Film_Festival_03.jpg",
+    "mediaPermission": "CC BY-SA 4.0; see source and media credits. "
+  },
+  {
+    "id": "movies-event-oscars-2025",
+    "category": "movies",
+    "type": "event",
+    "title": "97th Academy Awards",
+    "description": "Past event. The Academy's 2025 ceremony celebrated filmmaking at the Dolby Theatre. The official ceremony archive includes nominees and winners.",
+    "tags": [
+      "Event",
+      "Archive"
+    ],
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/movies-event-oscars-2025-960.webp",
+    "imageAlt": "Guests at the 97th Academy Awards in 2025",
+    "sources": [
+      {
+        "label": "Official event source",
+        "url": "https://www.oscars.org/oscars/ceremonies/2025"
+      }
+    ],
+    "date": "2025-03-02",
+    "endDate": "2025-03-02",
+    "location": "Dolby Theatre at Ovation Hollywood, Los Angeles, USA",
+    "status": "past",
+    "imageCredit": "Mecredis · CC BY-SA 4.0",
+    "imageKind": "event-photo",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Jennifer_Stahl_and_Gabriel_Sherman.jpg",
+    "mediaPermission": "CC BY-SA 4.0; see source and media credits. "
+  },
+  {
+    "id": "movies-release-force-awakens",
+    "category": "movies",
+    "type": "release",
+    "title": "Star Wars: The Force Awakens — theatrical release",
+    "description": "A historical release entry for Episode VII. The date records its US theatrical release, not a forthcoming screening.",
+    "tags": [
+      "Star Wars",
+      "Science fiction",
+      "Film"
+    ],
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "https://i.ytimg.com/vi/sGbxmsDFVnE/hqdefault.jpg",
+    "imageAlt": "Official Star Wars: The Force Awakens trailer thumbnail",
+    "sources": [
+      {
+        "label": "Official film page",
+        "url": "https://www.starwars.com/films/star-wars-episode-vii-the-force-awakens"
+      }
+    ],
+    "date": "2015-12-18",
+    "status": "released",
+    "location": "US cinemas",
+    "franchise": "Star Wars",
+    "imageCredit": "Star Wars",
+    "imageKind": "official-trailer-thumbnail",
+    "imageSourceUrl": "https://www.youtube.com/watch?v=sGbxmsDFVnE",
+    "imageContext": "Related franchise visual; it does not depict the release artwork itself.",
+    "mediaPermission": "Context visual from movies-trailer-force-awakens; see its credited source. Not an official image of this release."
+  },
+  {
+    "id": "movies-trailer-force-awakens",
+    "category": "movies",
+    "type": "trailer",
+    "title": "Star Wars: The Force Awakens — official trailer",
+    "description": "The original 2015 trailer from the verified Star Wars channel. This is an archive trailer for an already released film; internet access is required.",
+    "tags": [
+      "Star Wars",
+      "Science fiction",
+      "Official trailer"
+    ],
+    "featured": true,
+    "verifiedAt": "2026-09-26",
+    "image": "https://i.ytimg.com/vi/sGbxmsDFVnE/hqdefault.jpg",
+    "imageAlt": "Official Star Wars: The Force Awakens trailer thumbnail",
+    "sources": [
+      {
+        "label": "Star Wars official YouTube channel",
+        "url": "https://www.youtube.com/watch?v=sGbxmsDFVnE"
+      }
+    ],
+    "date": "2015-10-19",
+    "releaseDate": "2015-12-18",
+    "status": "released",
+    "mediaKind": "trailer",
+    "mediaUrl": "https://www.youtube.com/watch?v=sGbxmsDFVnE",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/sGbxmsDFVnE",
+    "mediaPermission": "Official YouTube player is embeddable according to YouTube oEmbed; media remains on YouTube and is not downloaded.",
+    "poster": "https://i.ytimg.com/vi/sGbxmsDFVnE/hqdefault.jpg",
+    "imageCredit": "Star Wars",
+    "imageKind": "official-trailer-thumbnail",
+    "imageSourceUrl": "https://www.youtube.com/watch?v=sGbxmsDFVnE",
+    "mediaPermissionNote": "Official YouTube player and thumbnail supplied through YouTube oEmbed; loads online. The video and image are not bundled or licensed for download by this project."
+  },
+  {
+    "id": "movies-article-star-wars-character-choices",
+    "category": "movies",
+    "type": "article",
+    "title": "The galaxy is built from choices",
+    "description": "A spoiler-aware reading of how Luke, Leia, Han, Vader and Yoda give a vast space opera a human scale.",
+    "tags": [
+      "Star Wars",
+      "Character study",
+      "Editorial"
+    ],
+    "featured": true,
+    "verifiedAt": "2026-09-26",
+    "image": "https://i.ytimg.com/vi/sGbxmsDFVnE/hqdefault.jpg",
+    "imageAlt": "Official Star Wars: The Force Awakens trailer thumbnail",
+    "sources": [
+      {
+        "label": "Star Wars official character guide",
+        "url": "https://www.starwars.com/databank/luke-skywalker"
+      },
+      {
+        "label": "Star Wars official character guide",
+        "url": "https://www.starwars.com/databank/leia-organa"
+      },
+      {
+        "label": "Star Wars official character guide",
+        "url": "https://www.starwars.com/databank/han-solo"
+      },
+      {
+        "label": "Star Wars official character guide",
+        "url": "https://www.starwars.com/databank/darth-vader"
+      },
+      {
+        "label": "Star Wars official character guide",
+        "url": "https://www.starwars.com/databank/yoda"
+      },
+      {
+        "label": "Star Wars official trailer",
+        "url": "https://www.youtube.com/watch?v=sGbxmsDFVnE"
+      }
+    ],
+    "body": [
+      "Star Wars is easy to recognize by its ships, planets and lightsabers. Yet the original trilogy also works as a set of connected decisions. Luke leaves the familiar, Leia keeps a rebellion moving, and Han discovers that friendship can ask more of him than a profitable escape. This is an editorial reading of the characters, grounded in the official Databank rather than a claim about what every viewer must take from the films. It contains broad character spoilers.",
+      "Luke's starting point matters. The Databank describes a farmboy from Tatooine who becomes a Jedi. That distance between an ordinary beginning and an extraordinary responsibility gives newcomers a way into the galaxy. His education is not simply an equipment upgrade. A lightsaber can mark a role, but learning when and why to act gives that role meaning. Following Luke through the profiles is a useful way to separate a character's abilities from the choices that define him.",
+      "Leia offers a different entrance. She is already committed to resistance when Luke's adventure begins. Reading her beside him stops the story from becoming only one person's discovery of destiny. Her leadership reminds us that a rebellion is sustained by people who organize, decide and persist. Han, meanwhile, brings the perspective of a working pilot. The Millennium Falcon is famous, but his changing relationship to the people aboard it is the more interesting reason to follow its journeys.",
+      "Vader and Yoda make that pattern more complicated. Vader's history as Anakin links an intimidating public identity to a private past. Yoda's role as a teacher makes experience a resource, while still leaving Luke to make his own decisions. Neither profile should be reduced to a list of powers. The official entries connect them to institutions, relationships and particular places, all of which help explain why their meetings with Luke carry weight.",
+      "For a first visit, open two profiles with contrasting roles, then return to the trailer archive. Notice which images emphasize scale and which moments emphasize faces or relationships. That is a viewing exercise, not a hidden piece of canon. Bookmark the characters you want to compare and keep your interpretation in a personal note. Fandom discussion becomes more rewarding when it makes room for a clearly sourced fact and a clearly identified opinion in the same conversation."
+    ],
+    "imageCredit": "Star Wars",
+    "imageKind": "official-trailer-thumbnail",
+    "imageSourceUrl": "https://www.youtube.com/watch?v=sGbxmsDFVnE"
+  },
+  {
+    "id": "movies-release-avengers-doomsday",
+    "type": "release",
+    "title": "Avengers: Doomsday — theatrical release",
+    "description": "Marvel Studios and Disney list December 18, 2026 for the theatrical release of Avengers: Doomsday. This is a confirmed studio schedule as checked on September 26, 2026; dates can change.",
+    "tags": [
+      "Marvel",
+      "Avengers",
+      "Theatrical"
+    ],
+    "date": "2026-12-18",
+    "location": "Theaters",
+    "status": "upcoming",
+    "featured": true,
+    "verifiedAt": "2026-09-26",
+    "image": "https://i.ytimg.com/vi/iFl4YeX6jmc/hqdefault.jpg",
+    "sources": [
+      {
+        "label": "Disney Movies — Avengers: Doomsday official film page",
+        "url": "https://movies.disney.com/avengers-doomsday"
+      }
+    ],
+    "category": "movies",
+    "imageAlt": "Official Avengers: Doomsday | Official Trailer | In Theaters December 18 thumbnail",
+    "imageCredit": "Marvel Entertainment",
+    "imageKind": "official-trailer-thumbnail",
+    "imageSourceUrl": "https://www.youtube.com/watch?v=iFl4YeX6jmc",
+    "mediaPermission": "YouTube oEmbed supplied an official channel player and thumbnail; media loads online and is not downloaded.",
+    "mediaPermissionNote": "Official online embed; no local copy or republication license claimed."
+  },
+  {
+    "id": "movies-release-star-wars-starfighter",
+    "type": "release",
+    "title": "Star Wars: Starfighter — theatrical release",
+    "description": "Lucasfilm’s official film page gives May 28, 2027 as the theatrical release date for Star Wars: Starfighter. Follow Lucasfilm for later schedule changes.",
+    "tags": [
+      "Star Wars",
+      "Lucasfilm",
+      "Theatrical"
+    ],
+    "date": "2027-05-28",
+    "location": "Theaters",
+    "status": "upcoming",
+    "featured": true,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/movies-release-star-wars-starfighter-960.webp",
+    "sources": [
+      {
+        "label": "StarWars.com — Star Wars: Starfighter",
+        "url": "https://www.starwars.com/films/star-wars-starfighter"
+      }
+    ],
+    "category": "movies",
+    "imageAlt": "Ryan Gosling, lead actor in Star Wars: Starfighter",
+    "imageCredit": "Gage Skidmore · CC BY-SA 3.0",
+    "imageKind": "related-photo",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Ryan_Gosling_by_Gage_Skidmore.jpg",
+    "imageContext": "The photograph shows lead actor Ryan Gosling at an earlier event, not a Starfighter still.",
+    "mediaPermission": "CC BY-SA 3.0 photo; context image, not a production still or event photo. See source and media credits."
+  },
+  {
+    "id": "movies-event-star-wars-experience-2027",
+    "type": "event",
+    "title": "Star Wars: The Experience",
+    "description": "Lucasfilm announced a traveling exhibition beginning at The Franklin Institute on February 13, 2027. The published opening date is a future event as checked on September 26, 2026; confirm plans with the organizer.",
+    "tags": [
+      "Star Wars",
+      "Exhibition",
+      "Upcoming"
+    ],
+    "date": "2027-02-13",
+    "endDate": "2027-09-06",
+    "location": "The Franklin Institute, Philadelphia, Pennsylvania, USA",
+    "status": "upcoming",
+    "featured": true,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/movies-profile-darth-vader-960.webp",
+    "sources": [
+      {
+        "label": "StarWars.com — official exhibition announcement",
+        "url": "https://www.starwars.com/news/star-wars-the-experience"
+      }
+    ],
+    "category": "movies",
+    "imageAlt": "Darth Vader costume at Star Wars Celebration",
+    "imageCredit": "Sam Howzit · CC BY 2.0",
+    "imageKind": "fan-cosplay",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:SWC_6_-_Darth_Vader_Costume_(7865106344).jpg",
+    "imageContext": "Related character or artist visual; it does not depict this event itself.",
+    "mediaPermission": "Context visual from movies-profile-darth-vader; see its credited source. Not an official image of this event."
+  },
+  {
+    "id": "movies-gallery-real-world",
+    "category": "movies",
+    "type": "gallery",
+    "title": "Inside Star Wars Celebration",
+    "description": "Historical photography of the real Star Wars fan gathering in Anaheim, California. No film stills are republished.",
+    "tags": [
+      "Photography",
+      "Archive",
+      "Community"
+    ],
+    "date": "2022-05-26",
+    "featured": true,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/star-wars-celebration-2022-960.webp",
+    "imageAlt": "Fans at Star Wars Celebration in Anaheim, 2022",
+    "sources": [
+      {
+        "label": "Photograph, Bluesnote (CC BY-SA 4.0)",
+        "url": "https://commons.wikimedia.org/wiki/File:Star_Wars_Celebration%2C_Anaheim_2022.jpg"
+      }
+    ],
+    "gallery": [
+      {
+        "src": "/media/star-wars-celebration-2022-960.webp",
+        "alt": "Fans at Star Wars Celebration in Anaheim, 2022",
+        "credit": "Bluesnote",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Star_Wars_Celebration%2C_Anaheim_2022.jpg",
+        "changes": "Resized and converted to WebP and AVIF; preview may crop. Original work credited and not endorsed."
+      }
+    ]
+  },
+  {
+    "id": "movies-trailer-avengers-doomsday",
+    "category": "movies",
+    "type": "trailer",
+    "title": "Avengers: Doomsday — official trailer",
+    "description": "Marvel Entertainment’s official 2026 theatrical trailer for its December 2026 film. The player loads on demand from YouTube; internet is required.",
+    "tags": [
+      "Marvel",
+      "Avengers",
+      "Official trailer"
+    ],
+    "featured": true,
+    "date": "2026-07-20",
+    "releaseDate": "2026-12-18",
+    "status": "upcoming",
+    "mediaKind": "trailer",
+    "verifiedAt": "2026-09-26",
+    "transcript": "Official trailer from Marvel Entertainment. Use YouTube’s closed captions for spoken dialogue; the original source remains available below.",
+    "sources": [
+      {
+        "label": "Marvel Entertainment official YouTube channel",
+        "url": "https://www.youtube.com/watch?v=iFl4YeX6jmc"
+      }
+    ],
+    "image": "https://i.ytimg.com/vi/iFl4YeX6jmc/hqdefault.jpg",
+    "imageAlt": "Official Avengers: Doomsday | Official Trailer | In Theaters December 18 thumbnail",
+    "imageCredit": "Marvel Entertainment",
+    "imageKind": "official-trailer-thumbnail",
+    "imageSourceUrl": "https://www.youtube.com/watch?v=iFl4YeX6jmc",
+    "mediaPermission": "YouTube oEmbed supplied an official channel player and thumbnail; media loads online and is not downloaded.",
+    "mediaPermissionNote": "Official online embed; no local copy or republication license claimed.",
+    "poster": "https://i.ytimg.com/vi/iFl4YeX6jmc/hqdefault.jpg",
+    "mediaUrl": "https://www.youtube.com/watch?v=iFl4YeX6jmc",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/iFl4YeX6jmc"
+  }
+]

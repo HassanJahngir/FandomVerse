@@ -1,0 +1,724 @@
+[
+  {
+    "id": "anime-profile-tanjiro",
+    "category": "anime",
+    "type": "profile",
+    "title": "Tanjiro Kamado",
+    "description": "Tanjiro joins the Demon Slayer Corps to help his sister become human again. His unusually sharp sense of smell aids his swordsmanship.",
+    "tags": [
+      "Demon Slayer",
+      "Action",
+      "Fantasy"
+    ],
+    "featured": true,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/anime-tanjiro-cosplay-960.webp",
+    "imageAlt": "Demon Slayer cosplayers at FanimeCon 2023, with Tanjiro Kamado in the center",
+    "sources": [
+      {
+        "label": "Demon Slayer official character guide",
+        "url": "https://demonslayer-anime.com/hta/character/"
+      },
+      {
+        "label": "Cosplay photo and CC BY-SA 2.0 license",
+        "url": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Tanjiro_Kamado_from_Demon_Slayer_Kimetsu_no_Yaiba_at_FanimeCon_2023_(53056126228).jpg"
+      }
+    ],
+    "biography": "Tanjiro joins the Demon Slayer Corps to help his sister become human again. His unusually sharp sense of smell aids his swordsmanship.",
+    "traits": [
+      "Demon Slayer Corps",
+      "Water Breathing",
+      "Hinokami Kagura"
+    ],
+    "franchise": "Demon Slayer: Kimetsu no Yaiba",
+    "mediaPermission": "Fan cosplay photograph, CC BY-SA 2.0; not official character artwork. Converted and cropped for responsive display.",
+    "imageCredit": "LX-Designs (Alex Wong)",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Tanjiro_Kamado_from_Demon_Slayer_Kimetsu_no_Yaiba_at_FanimeCon_2023_(53056126228).jpg",
+    "imageKind": "fan-cosplay"
+  },
+  {
+    "id": "anime-profile-nezuko",
+    "category": "anime",
+    "type": "profile",
+    "title": "Nezuko Kamado",
+    "description": "Tanjiro’s younger sister becomes a demon, yet resists harming people and protects humans through her own resolve.",
+    "tags": [
+      "Demon Slayer",
+      "Action",
+      "Fantasy"
+    ],
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/anime-nezuko-cosplay-960.webp",
+    "imageAlt": "Fan cosplaying as Nezuko Kamado at Made in Asia 2022",
+    "sources": [
+      {
+        "label": "Demon Slayer official character guide",
+        "url": "https://demonslayer-anime.com/hta/character/"
+      },
+      {
+        "label": "Cosplay photo and CC BY-SA 2.0 license",
+        "url": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Nezuko_Kamado_at_Made_in_Asia_2022_(52129814711).jpg"
+      }
+    ],
+    "biography": "Tanjiro’s younger sister becomes a demon, yet resists harming people and protects humans through her own resolve.",
+    "traits": [
+      "Tanjiro’s sister",
+      "Demon",
+      "Protects humans"
+    ],
+    "franchise": "Demon Slayer: Kimetsu no Yaiba",
+    "mediaPermission": "Fan cosplay photograph, CC BY-SA 2.0; not official character artwork. Converted and cropped for responsive display.",
+    "imageCredit": "Kiri Karma",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Nezuko_Kamado_at_Made_in_Asia_2022_(52129814711).jpg",
+    "imageKind": "fan-cosplay"
+  },
+  {
+    "id": "anime-profile-zenitsu",
+    "category": "anime",
+    "type": "profile",
+    "title": "Zenitsu Agatsuma",
+    "description": "A nervous Corps swordsman, Zenitsu has exceptional hearing and uses Thunder Breathing. His fighting ability emerges when fear overwhelms him.",
+    "tags": [
+      "Demon Slayer",
+      "Action",
+      "Fantasy"
+    ],
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/anime-zenitsu-cosplay-960.webp",
+    "imageAlt": "Fans cosplaying as Nezuko Kamado and Zenitsu Agatsuma at FanimeCon 2023",
+    "sources": [
+      {
+        "label": "Demon Slayer official character guide",
+        "url": "https://demonslayer-anime.com/hta/character/"
+      },
+      {
+        "label": "Cosplay photo and CC BY-SA 2.0 license",
+        "url": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Nezuko_Kamado_and_Zenitsu_Agatsuma_from_Demon_Slayer_Kimetsu_no_Yaiba_at_FanimeCon_2023_(53056018850).jpg"
+      }
+    ],
+    "biography": "A nervous Corps swordsman, Zenitsu has exceptional hearing and uses Thunder Breathing. His fighting ability emerges when fear overwhelms him.",
+    "traits": [
+      "Demon Slayer Corps",
+      "Thunder Breathing",
+      "Acute hearing"
+    ],
+    "franchise": "Demon Slayer: Kimetsu no Yaiba",
+    "mediaPermission": "Fan cosplay photograph, CC BY-SA 2.0; not official character artwork. Converted and cropped for responsive display.",
+    "imageCredit": "LX-Designs (Alex Wong)",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Nezuko_Kamado_and_Zenitsu_Agatsuma_from_Demon_Slayer_Kimetsu_no_Yaiba_at_FanimeCon_2023_(53056018850).jpg",
+    "imageKind": "fan-cosplay"
+  },
+  {
+    "id": "anime-profile-inosuke",
+    "category": "anime",
+    "type": "profile",
+    "title": "Inosuke Hashibira",
+    "description": "Raised in the mountains, Inosuke charges into challenges wearing a boar mask. He fights with Beast Breathing and keen intuition.",
+    "tags": [
+      "Demon Slayer",
+      "Action",
+      "Fantasy"
+    ],
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/anime-inosuke-cosplay-960.webp",
+    "imageAlt": "Fan cosplaying as Inosuke Hashibira at Made in Asia 2022",
+    "sources": [
+      {
+        "label": "Demon Slayer official character guide",
+        "url": "https://demonslayer-anime.com/hta/character/"
+      },
+      {
+        "label": "Cosplay photo and CC BY-SA 2.0 license",
+        "url": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Inosuke_Hashibira_at_Made_in_Asia_2022_(52115543600).jpg"
+      }
+    ],
+    "biography": "Raised in the mountains, Inosuke charges into challenges wearing a boar mask. He fights with Beast Breathing and keen intuition.",
+    "traits": [
+      "Demon Slayer Corps",
+      "Beast Breathing",
+      "Boar mask"
+    ],
+    "franchise": "Demon Slayer: Kimetsu no Yaiba",
+    "mediaPermission": "Fan cosplay photograph, CC BY-SA 2.0; not official character artwork. Converted and cropped for responsive display.",
+    "imageCredit": "Miguel Discart",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Inosuke_Hashibira_at_Made_in_Asia_2022_(52115543600).jpg",
+    "imageKind": "fan-cosplay"
+  },
+  {
+    "id": "anime-profile-giyu",
+    "category": "anime",
+    "type": "profile",
+    "title": "Giyu Tomioka",
+    "description": "The reserved Water Hashira is an elite Corps swordsman who directs Tanjiro toward the Demon Slayer Corps.",
+    "tags": [
+      "Demon Slayer",
+      "Action",
+      "Fantasy"
+    ],
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/anime-giyu-cosplay-960.webp",
+    "imageAlt": "Fans cosplaying as Giyu Tomioka and Shinobu Kocho in 2020",
+    "sources": [
+      {
+        "label": "Demon Slayer official character guide",
+        "url": "https://demonslayer-anime.com/hta/character/"
+      },
+      {
+        "label": "Cosplay photo and CC BY-SA 2.0 license",
+        "url": "https://commons.wikimedia.org/wiki/File:Cosplayers_of_Giy%C5%AB_Tomioka_and_Shinobu_Koch%C5%8D_20200907a.jpg"
+      }
+    ],
+    "biography": "The reserved Water Hashira is an elite Corps swordsman who directs Tanjiro toward the Demon Slayer Corps.",
+    "traits": [
+      "Water Hashira",
+      "Reserved",
+      "Elite swordsman"
+    ],
+    "franchise": "Demon Slayer: Kimetsu no Yaiba",
+    "mediaPermission": "Fan cosplay photograph, CC BY-SA 2.0; not official character artwork. Converted and cropped for responsive display.",
+    "imageCredit": "Kaisars Fang",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Cosplayers_of_Giy%C5%AB_Tomioka_and_Shinobu_Koch%C5%8D_20200907a.jpg",
+    "imageKind": "fan-cosplay"
+  },
+  {
+    "id": "anime-event-ax2025",
+    "category": "anime",
+    "type": "event",
+    "title": "Anime Expo 2025",
+    "description": "The Los Angeles convention brought anime screenings, industry panels, performers, and fan activities together over four days. This is an archived event.",
+    "tags": [
+      "Convention",
+      "Los Angeles"
+    ],
+    "featured": true,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/anime-event-ax2025-960.webp",
+    "imageAlt": "GeeXPlus panel photographed at Anime Expo 2025",
+    "sources": [
+      {
+        "label": "Anime Expo: archived 2025 schedule",
+        "url": "https://www.anime-expo.org/ax/schedule-2025/"
+      },
+      {
+        "label": "Organizer’s return announcement",
+        "url": "https://www.anime-expo.org/2024/07/22/anime-expo-2024-celebrates-33rd-anniversary-with-exclusive-reveals-and-exciting-guests/"
+      }
+    ],
+    "date": "2025-07-03",
+    "endDate": "2025-07-06",
+    "location": "Los Angeles Convention Center, Los Angeles, California, USA",
+    "status": "past",
+    "imageCredit": "Reppop · CC0 1.0",
+    "imageKind": "event-photo",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:GeeXPlus_Anime_Expo_panel_(2)%2C_2025.jpg",
+    "mediaPermission": "CC0 1.0; see source and media credits. "
+  },
+  {
+    "id": "anime-event-animejapan2025",
+    "category": "anime",
+    "type": "event",
+    "title": "AnimeJapan 2025 — public days",
+    "description": "An exhibition and stage program for anime fans at Tokyo Big Sight. The public dates are distinguished from the separate business days.",
+    "tags": [
+      "Convention",
+      "Tokyo"
+    ],
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/anime-event-animejapan2025-960.webp",
+    "imageAlt": "AnimeJapan wordmark",
+    "sources": [
+      {
+        "label": "AnimeJapan official event outline",
+        "url": "https://www.anime-japan.jp/en/about/"
+      }
+    ],
+    "date": "2025-03-22",
+    "endDate": "2025-03-23",
+    "location": "Tokyo Big Sight, East Exhibition Halls 1–8, Tokyo, Japan",
+    "status": "past",
+    "imageCredit": "AnimeJapan · PD textlogo",
+    "imageKind": "event-logo",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Animejapanlogo.png",
+    "mediaPermission": "PD textlogo; see source and media credits. Trademark rights remain with the owner."
+  },
+  {
+    "id": "anime-event-demonslayer-anniversary",
+    "category": "anime",
+    "type": "event",
+    "title": "Demon Slayer 6th Anniversary Celebration",
+    "description": "An Anime Expo program celebrating the series with live music and a special appearance by Tanjiro voice actor Natsuki Hanae.",
+    "tags": [
+      "Demon Slayer",
+      "Panel",
+      "Music"
+    ],
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "https://i.ytimg.com/vi/VQGCKyvzIM4/hqdefault.jpg",
+    "imageAlt": "Official Demon Slayer: Kimetsu no Yaiba — Trailer 1 thumbnail",
+    "sources": [
+      {
+        "label": "Anime Expo: archived 2025 schedule",
+        "url": "https://www.anime-expo.org/ax/schedule-2025/"
+      }
+    ],
+    "date": "2025-07-04",
+    "location": "Peacock Theater, Los Angeles, California, USA",
+    "status": "past",
+    "imageCredit": "Aniplex USA",
+    "imageKind": "official-trailer-thumbnail",
+    "imageSourceUrl": "https://www.youtube.com/watch?v=VQGCKyvzIM4",
+    "imageContext": "Related franchise visual; it does not depict this event itself.",
+    "mediaPermission": "Context visual from anime-trailer-original-2019; see its credited source. Not an official image of this event."
+  },
+  {
+    "id": "anime-release-infinitycastle-us",
+    "category": "anime",
+    "type": "release",
+    "title": "Demon Slayer: Infinity Castle — US and Canada theatrical release",
+    "description": "The first Infinity Castle film reached cinemas in the United States and Canada on this verified historical release date. This entry is not a new announcement.",
+    "tags": [
+      "Demon Slayer",
+      "Film",
+      "US / Canada"
+    ],
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "https://i.ytimg.com/vi/9kb7vK11_Rw/hqdefault.jpg",
+    "imageAlt": "Official Demon Slayer: Infinity Castle trailer thumbnail",
+    "sources": [
+      {
+        "label": "Official release announcement",
+        "url": "https://demonslayer-anime.com/news/?id=68526"
+      }
+    ],
+    "date": "2025-09-12",
+    "status": "released",
+    "location": "United States and Canada",
+    "franchise": "Demon Slayer: Kimetsu no Yaiba",
+    "imageCredit": "Aniplex USA",
+    "imageKind": "official-trailer-thumbnail",
+    "imageSourceUrl": "https://www.youtube.com/watch?v=9kb7vK11_Rw",
+    "imageContext": "Related franchise visual; it does not depict the release artwork itself.",
+    "mediaPermission": "Context visual from anime-trailer-infinitycastle; see its credited source. Not an official image of this release."
+  },
+  {
+    "id": "anime-trailer-infinitycastle",
+    "category": "anime",
+    "type": "trailer",
+    "title": "Demon Slayer: Infinity Castle — official trailer",
+    "description": "Aniplex USA’s official promotional trailer. Requires internet; availability and captions are controlled by YouTube. No video file has been downloaded.",
+    "tags": [
+      "Demon Slayer",
+      "Action",
+      "Film"
+    ],
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "https://i.ytimg.com/vi/9kb7vK11_Rw/hqdefault.jpg",
+    "imageAlt": "Official Demon Slayer: Infinity Castle trailer thumbnail",
+    "sources": [
+      {
+        "label": "Aniplex USA official YouTube upload",
+        "url": "https://www.youtube.com/watch?v=9kb7vK11_Rw"
+      }
+    ],
+    "status": "released",
+    "franchise": "Demon Slayer: Kimetsu no Yaiba",
+    "mediaKind": "trailer",
+    "mediaUrl": "https://www.youtube.com/watch?v=9kb7vK11_Rw",
+    "mediaPermission": "Official YouTube player is embeddable according to YouTube oEmbed; media remains on YouTube and is not downloaded.",
+    "transcript": "Context summary: A promotional introduction to the Infinity Castle film and its conflict between the Demon Slayer Corps and demons. This is a descriptive summary, not a verbatim transcript.",
+    "poster": "https://i.ytimg.com/vi/9kb7vK11_Rw/hqdefault.jpg",
+    "imageCredit": "Aniplex USA",
+    "imageKind": "official-trailer-thumbnail",
+    "imageSourceUrl": "https://www.youtube.com/watch?v=9kb7vK11_Rw",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/9kb7vK11_Rw",
+    "mediaPermissionNote": "Official YouTube player and thumbnail supplied through YouTube oEmbed; loads online. The video and image are not bundled or licensed for download by this project."
+  },
+  {
+    "id": "anime-article-demonslayer-start",
+    "category": "anime",
+    "type": "article",
+    "title": "Demon Slayer: start with the bond, then follow the blades",
+    "description": "A spoiler-light reading of the series’ emotional starting point, and a practical way to explore its characters without losing the story beneath the spectacle.",
+    "tags": [
+      "Demon Slayer",
+      "Reading guide",
+      "Commentary"
+    ],
+    "featured": true,
+    "verifiedAt": "2026-09-26",
+    "image": "https://i.ytimg.com/vi/9kb7vK11_Rw/hqdefault.jpg",
+    "imageAlt": "Official Demon Slayer: Infinity Castle trailer thumbnail",
+    "sources": [
+      {
+        "label": "Official first episode story",
+        "url": "https://demonslayer-anime.com/risshihen/story/?story=1"
+      },
+      {
+        "label": "Official anime story archive",
+        "url": "https://demonslayer-anime.com/risshihen/story/"
+      },
+      {
+        "label": "Official Infinity Castle release notice",
+        "url": "https://demonslayer-anime.com/news/?id=68526"
+      },
+      {
+        "label": "Cosplay photo and CC BY-SA 2.0 license",
+        "url": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Tanjiro_Kamado%2C_Nezuko_Kamado_and_Zenitsu_Agatsuma_from_Demon_Slayer_Kimetsu_no_Yaiba_at_FanimeCon_2023_(53055055252).jpg"
+      },
+      {
+        "label": "Aniplex USA official trailer",
+        "url": "https://www.youtube.com/watch?v=9kb7vK11_Rw"
+      }
+    ],
+    "date": "2026-09-26",
+    "franchise": "Demon Slayer: Kimetsu no Yaiba",
+    "body": [
+      "Demon Slayer is easy to encounter as a collection of striking sword techniques and dramatic confrontations. A more rewarding first step is to notice the relationship that gives those battles a purpose. Tanjiro’s concern for Nezuko gives a newcomer something human to hold onto before the world expands into ranks, specialized skills, and opposing factions. This is FandomVerse commentary about how to approach the story, rather than a claim that every viewer will respond in the same way.",
+      "Start at the beginning of the television story and allow its introductions to do their work. The official episode archive is useful because it places individual installments in sequence. Its later first-season entries also make room for recovery and training between missions. That rhythm invites a useful viewing question: what does a character do when there is no immediate opponent to defeat? Rest, practice, and relationships can tell us as much about a hero as the most spectacular battle.",
+      "Keep a small character notebook if names or ranks begin to pile up. Record one motivation, one connection, and one question for each person rather than trying to memorize an entire fictional encyclopedia. FandomVerse’s profiles are deliberately compact starting points. For deeper reading, use the official source links, but remember that character pages may describe events beyond the episodes you have seen. Avoiding that accidental spoiler is often more valuable than knowing every technique in advance.",
+      "When you watch an official trailer, treat it as advertising with its own editing choices. A trailer can establish mood and introduce a release, but it is not a substitute for the order or context of the complete story. The first Infinity Castle film’s United States and Canada theatrical date, September 12, 2025, is preserved here as release history. A historical date should not turn into a promise that a particular cinema or streaming service offers the film today.",
+      "For a conversation with another fan, try discussing a decision before debating a power ranking. Which choice makes you understand a character more clearly? Where does the story ask you to hold sympathy and danger in mind at the same time? Those questions work even if you are at different stages of the series, provided you agree on a spoiler boundary first. The purpose of this guide is to make room for that thoughtful exchange while leaving the surprises of the original work intact."
+    ],
+    "imageCredit": "Aniplex USA",
+    "imageSourceUrl": "https://www.youtube.com/watch?v=9kb7vK11_Rw",
+    "mediaPermission": "Fan cosplay photograph, CC BY-SA 2.0; not official character artwork. Converted and cropped for responsive display.",
+    "imageKind": "official-trailer-thumbnail"
+  },
+  {
+    "id": "anime-gallery-culture",
+    "category": "anime",
+    "type": "gallery",
+    "title": "Official Demon Slayer previews and fan culture",
+    "description": "Official Aniplex USA anime trailer previews followed by separately credited fan cosplay and Anime Expo photography. The anime previews load from YouTube.",
+    "tags": [
+      "Photography",
+      "Archive",
+      "Community"
+    ],
+    "featured": true,
+    "verifiedAt": "2026-09-26",
+    "image": "https://i.ytimg.com/vi/9kb7vK11_Rw/hqdefault.jpg",
+    "imageAlt": "Official Demon Slayer: Infinity Castle trailer thumbnail",
+    "sources": [
+      {
+        "label": "Aniplex USA official trailer and preview",
+        "url": "https://www.youtube.com/watch?v=9kb7vK11_Rw"
+      },
+      {
+        "label": "Demon Slayer fan cosplay photo and CC BY-SA 2.0 license",
+        "url": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Tanjiro_Kamado%2C_Nezuko_Kamado_and_Zenitsu_Agatsuma_from_Demon_Slayer_Kimetsu_no_Yaiba_at_FanimeCon_2023_(53055055252).jpg"
+      },
+      {
+        "label": "Original photograph and reuse license",
+        "url": "https://commons.wikimedia.org/wiki/File:Anime_Expo_2015_panorama_(19875315555).jpg"
+      },
+      {
+        "label": "Demon Slayer: Kimetsu no Yaiba — Trailer 1 official upload",
+        "url": "https://www.youtube.com/watch?v=VQGCKyvzIM4"
+      },
+      {
+        "label": "Demon Slayer: Swordsmith Village Arc — official trailer official upload",
+        "url": "https://www.youtube.com/watch?v=a9tq0aS5Zu8"
+      },
+      {
+        "label": "Demon Slayer: Hashira Training Arc — official trailer official upload",
+        "url": "https://www.youtube.com/watch?v=rq1tllAUS1I"
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://i.ytimg.com/vi/9kb7vK11_Rw/hqdefault.jpg",
+        "alt": "Official Demon Slayer: Infinity Castle trailer thumbnail",
+        "credit": "Aniplex USA via YouTube oEmbed",
+        "sourceUrl": "https://www.youtube.com/watch?v=9kb7vK11_Rw",
+        "license": "Official remote preview; not licensed for local download",
+        "changes": "No local copy or conversion; displayed from YouTube's thumbnail URL"
+      },
+      {
+        "src": "https://i.ytimg.com/vi/VQGCKyvzIM4/hqdefault.jpg",
+        "alt": "Official Demon Slayer: Kimetsu no Yaiba — Trailer 1 thumbnail",
+        "credit": "Aniplex USA via YouTube oEmbed",
+        "sourceUrl": "https://www.youtube.com/watch?v=VQGCKyvzIM4",
+        "license": "Official remote preview; not licensed for local download",
+        "changes": "No local copy or conversion; displayed from YouTube's thumbnail URL"
+      },
+      {
+        "src": "https://i.ytimg.com/vi/a9tq0aS5Zu8/hqdefault.jpg",
+        "alt": "Official Demon Slayer: Swordsmith Village Arc — official trailer thumbnail",
+        "credit": "Aniplex USA via YouTube oEmbed",
+        "sourceUrl": "https://www.youtube.com/watch?v=a9tq0aS5Zu8",
+        "license": "Official remote preview; not licensed for local download",
+        "changes": "No local copy or conversion; displayed from YouTube's thumbnail URL"
+      },
+      {
+        "src": "https://i.ytimg.com/vi/rq1tllAUS1I/hqdefault.jpg",
+        "alt": "Official Demon Slayer: Hashira Training Arc — official trailer thumbnail",
+        "credit": "Aniplex USA via YouTube oEmbed",
+        "sourceUrl": "https://www.youtube.com/watch?v=rq1tllAUS1I",
+        "license": "Official remote preview; not licensed for local download",
+        "changes": "No local copy or conversion; displayed from YouTube's thumbnail URL"
+      },
+      {
+        "src": "/media/anime-demon-slayer-group-cosplay-960.webp",
+        "alt": "Fans cosplaying as Tanjiro, Nezuko, and Zenitsu at FanimeCon 2023",
+        "credit": "LX-Designs (Alex Wong)",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Tanjiro_Kamado%2C_Nezuko_Kamado_and_Zenitsu_Agatsuma_from_Demon_Slayer_Kimetsu_no_Yaiba_at_FanimeCon_2023_(53055055252).jpg",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "changes": "Resized and converted from JPEG to WebP and AVIF; the interface may crop previews. No endorsement implied."
+      },
+      {
+        "src": "/media/anime-expo-panorama-960.webp",
+        "alt": "People at Anime Expo 2015.",
+        "credit": "Erik Peterson from USA",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anime_Expo_2015_panorama_(19875315555).jpg",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "changes": "Resized and converted to AVIF/WebP. Interface may crop preview; lightbox preserves the image."
+      }
+    ],
+    "imageCredit": "Aniplex USA",
+    "imageKind": "official-trailer-thumbnail",
+    "imageSourceUrl": "https://www.youtube.com/watch?v=9kb7vK11_Rw"
+  },
+  {
+    "id": "anime-trailer-original-2019",
+    "category": "anime",
+    "type": "trailer",
+    "title": "Demon Slayer: Kimetsu no Yaiba — Trailer 1",
+    "description": "Aniplex USA's official trailer for the original Demon Slayer anime. Watch on the publisher's player for the video and its publication details.",
+    "tags": [
+      "Demon Slayer",
+      "Series",
+      "Original trailer"
+    ],
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "https://i.ytimg.com/vi/VQGCKyvzIM4/hqdefault.jpg",
+    "imageAlt": "Official Demon Slayer: Kimetsu no Yaiba — Trailer 1 thumbnail",
+    "imageCredit": "Aniplex USA",
+    "imageKind": "official-trailer-thumbnail",
+    "imageSourceUrl": "https://www.youtube.com/watch?v=VQGCKyvzIM4",
+    "poster": "https://i.ytimg.com/vi/VQGCKyvzIM4/hqdefault.jpg",
+    "franchise": "Demon Slayer: Kimetsu no Yaiba",
+    "mediaKind": "trailer",
+    "mediaUrl": "https://www.youtube.com/watch?v=VQGCKyvzIM4",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/VQGCKyvzIM4",
+    "mediaPermission": "Official YouTube player is embeddable according to YouTube oEmbed; media remains on YouTube and is not downloaded.",
+    "mediaPermissionNote": "Official YouTube thumbnail and player, verified by oEmbed on 2026-09-26. Requires internet; no local video or image copy.",
+    "transcript": "Accessible description: An official promotional trailer for Demon Slayer: Kimetsu no Yaiba — Trailer 1. For captions and full audiovisual context, use the publisher's player.",
+    "sources": [
+      {
+        "label": "Aniplex USA official YouTube upload",
+        "url": "https://www.youtube.com/watch?v=VQGCKyvzIM4"
+      }
+    ]
+  },
+  {
+    "id": "anime-trailer-swordsmith-village",
+    "category": "anime",
+    "type": "trailer",
+    "title": "Demon Slayer: Swordsmith Village Arc — official trailer",
+    "description": "Aniplex USA's official preview for the Swordsmith Village Arc. The video is streamed by YouTube; no copy is bundled here.",
+    "tags": [
+      "Demon Slayer",
+      "Series",
+      "Swordsmith Village"
+    ],
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "https://i.ytimg.com/vi/a9tq0aS5Zu8/hqdefault.jpg",
+    "imageAlt": "Official Demon Slayer: Swordsmith Village Arc — official trailer thumbnail",
+    "imageCredit": "Aniplex USA",
+    "imageKind": "official-trailer-thumbnail",
+    "imageSourceUrl": "https://www.youtube.com/watch?v=a9tq0aS5Zu8",
+    "poster": "https://i.ytimg.com/vi/a9tq0aS5Zu8/hqdefault.jpg",
+    "franchise": "Demon Slayer: Kimetsu no Yaiba",
+    "mediaKind": "trailer",
+    "mediaUrl": "https://www.youtube.com/watch?v=a9tq0aS5Zu8",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/a9tq0aS5Zu8",
+    "mediaPermission": "Official YouTube player is embeddable according to YouTube oEmbed; media remains on YouTube and is not downloaded.",
+    "mediaPermissionNote": "Official YouTube thumbnail and player, verified by oEmbed on 2026-09-26. Requires internet; no local video or image copy.",
+    "transcript": "Accessible description: An official promotional trailer for Demon Slayer: Swordsmith Village Arc — official trailer. For captions and full audiovisual context, use the publisher's player.",
+    "sources": [
+      {
+        "label": "Aniplex USA official YouTube upload",
+        "url": "https://www.youtube.com/watch?v=a9tq0aS5Zu8"
+      }
+    ]
+  },
+  {
+    "id": "anime-trailer-hashira-training",
+    "category": "anime",
+    "type": "trailer",
+    "title": "Demon Slayer: Hashira Training Arc — official trailer",
+    "description": "Aniplex USA's official preview for the Hashira Training Arc. Open the sourced player for the full trailer and availability details.",
+    "tags": [
+      "Demon Slayer",
+      "Series",
+      "Hashira Training"
+    ],
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "https://i.ytimg.com/vi/rq1tllAUS1I/hqdefault.jpg",
+    "imageAlt": "Official Demon Slayer: Hashira Training Arc — official trailer thumbnail",
+    "imageCredit": "Aniplex USA",
+    "imageKind": "official-trailer-thumbnail",
+    "imageSourceUrl": "https://www.youtube.com/watch?v=rq1tllAUS1I",
+    "poster": "https://i.ytimg.com/vi/rq1tllAUS1I/hqdefault.jpg",
+    "franchise": "Demon Slayer: Kimetsu no Yaiba",
+    "mediaKind": "trailer",
+    "mediaUrl": "https://www.youtube.com/watch?v=rq1tllAUS1I",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/rq1tllAUS1I",
+    "mediaPermission": "Official YouTube player is embeddable according to YouTube oEmbed; media remains on YouTube and is not downloaded.",
+    "mediaPermissionNote": "Official YouTube thumbnail and player, verified by oEmbed on 2026-09-26. Requires internet; no local video or image copy.",
+    "transcript": "Accessible description: An official promotional trailer for Demon Slayer: Hashira Training Arc — official trailer. For captions and full audiovisual context, use the publisher's player.",
+    "sources": [
+      {
+        "label": "Aniplex USA official YouTube upload",
+        "url": "https://www.youtube.com/watch?v=rq1tllAUS1I"
+      }
+    ]
+  },
+  {
+    "id": "anime-trailer-attack-on-titan",
+    "category": "anime",
+    "type": "trailer",
+    "title": "Attack on Titan Final Season — official trailer",
+    "description": "Crunchyroll’s official 2020 trailer for the final season of Attack on Titan. The series has already aired; this is an archive preview.",
+    "tags": [
+      "Attack on Titan",
+      "Crunchyroll",
+      "Archive"
+    ],
+    "franchise": "Attack on Titan",
+    "featured": true,
+    "date": "2020-09-22",
+    "status": "released",
+    "verifiedAt": "2026-09-26",
+    "image": "https://i.ytimg.com/vi/MUCN-JwUvbY/hqdefault.jpg",
+    "imageAlt": "Official Attack on Titan Final Season | OFFICIAL TRAILER thumbnail",
+    "imageCredit": "Crunchyroll",
+    "imageKind": "official-trailer-thumbnail",
+    "imageSourceUrl": "https://www.youtube.com/watch?v=MUCN-JwUvbY",
+    "mediaKind": "trailer",
+    "mediaUrl": "https://www.youtube.com/watch?v=MUCN-JwUvbY",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/MUCN-JwUvbY",
+    "poster": "https://i.ytimg.com/vi/MUCN-JwUvbY/hqdefault.jpg",
+    "mediaPermission": "Official channel YouTube oEmbed player and thumbnail; online only, no local copy or republication license claimed.",
+    "transcript": "See the official YouTube player for captions and transcript where supplied by the publisher.",
+    "sources": [
+      {
+        "label": "Crunchyroll official video",
+        "url": "https://www.youtube.com/watch?v=MUCN-JwUvbY"
+      }
+    ]
+  },
+  {
+    "id": "anime-trailer-jujutsu-kaisen",
+    "category": "anime",
+    "type": "trailer",
+    "title": "JUJUTSU KAISEN Sendai Colony — official trailer",
+    "description": "Crunchyroll’s official 2026 preview of the Sendai Colony story. Opens an authorized online player only when requested.",
+    "tags": [
+      "JUJUTSU KAISEN",
+      "Crunchyroll",
+      "2026"
+    ],
+    "franchise": "JUJUTSU KAISEN",
+    "featured": true,
+    "status": "released",
+    "verifiedAt": "2026-09-26",
+    "image": "https://i.ytimg.com/vi/ztO4Bk0ALGI/hqdefault.jpg",
+    "imageAlt": "Official JUJUTSU KAISEN Sendai Colony | Official Trailer | Crunchyroll thumbnail",
+    "imageCredit": "Crunchyroll",
+    "imageKind": "official-trailer-thumbnail",
+    "imageSourceUrl": "https://www.youtube.com/watch?v=ztO4Bk0ALGI",
+    "mediaKind": "trailer",
+    "mediaUrl": "https://www.youtube.com/watch?v=ztO4Bk0ALGI",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/ztO4Bk0ALGI",
+    "poster": "https://i.ytimg.com/vi/ztO4Bk0ALGI/hqdefault.jpg",
+    "mediaPermission": "Official channel YouTube oEmbed player and thumbnail; online only, no local copy or republication license claimed.",
+    "transcript": "See the official YouTube player for captions and transcript where supplied by the publisher.",
+    "sources": [
+      {
+        "label": "Crunchyroll official video",
+        "url": "https://www.youtube.com/watch?v=ztO4Bk0ALGI"
+      }
+    ]
+  },
+  {
+    "id": "anime-trailer-my-hero-academia",
+    "category": "anime",
+    "type": "trailer",
+    "title": "My Hero Academia FINAL SEASON — official trailer",
+    "description": "Crunchyroll’s official preview of the final season of My Hero Academia, published in 2025. It is an archive trailer, not a current premiere notice.",
+    "tags": [
+      "My Hero Academia",
+      "Crunchyroll",
+      "Archive"
+    ],
+    "franchise": "My Hero Academia",
+    "featured": true,
+    "status": "released",
+    "verifiedAt": "2026-09-26",
+    "image": "https://i.ytimg.com/vi/zz37nGym3OQ/hqdefault.jpg",
+    "imageAlt": "Official My Hero Academia FINAL SEASON | Official Trailer | Crunchyroll thumbnail",
+    "imageCredit": "Crunchyroll",
+    "imageKind": "official-trailer-thumbnail",
+    "imageSourceUrl": "https://www.youtube.com/watch?v=zz37nGym3OQ",
+    "mediaKind": "trailer",
+    "mediaUrl": "https://www.youtube.com/watch?v=zz37nGym3OQ",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/zz37nGym3OQ",
+    "poster": "https://i.ytimg.com/vi/zz37nGym3OQ/hqdefault.jpg",
+    "mediaPermission": "Official channel YouTube oEmbed player and thumbnail; online only, no local copy or republication license claimed.",
+    "transcript": "See the official YouTube player for captions and transcript where supplied by the publisher.",
+    "sources": [
+      {
+        "label": "Crunchyroll official video",
+        "url": "https://www.youtube.com/watch?v=zz37nGym3OQ"
+      }
+    ]
+  },
+  {
+    "id": "anime-trailer-naruto",
+    "category": "anime",
+    "type": "trailer",
+    "title": "Naruto — official English trailer",
+    "description": "VIZ Media’s official English trailer for Naruto, Set 1. An archive preview of the published ninja series, not a new 2026 announcement.",
+    "tags": [
+      "Naruto",
+      "VIZ Media",
+      "Archive"
+    ],
+    "franchise": "Naruto",
+    "featured": true,
+    "status": "released",
+    "verifiedAt": "2026-09-26",
+    "image": "https://i.ytimg.com/vi/yeUpnIKt6k4/hqdefault.jpg",
+    "imageAlt": "Official Official English Trailer | Naruto, Set 1 | VIZ thumbnail",
+    "imageCredit": "vizmedia",
+    "imageKind": "official-trailer-thumbnail",
+    "imageSourceUrl": "https://www.youtube.com/watch?v=yeUpnIKt6k4",
+    "mediaKind": "trailer",
+    "mediaUrl": "https://www.youtube.com/watch?v=yeUpnIKt6k4",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/yeUpnIKt6k4",
+    "poster": "https://i.ytimg.com/vi/yeUpnIKt6k4/hqdefault.jpg",
+    "mediaPermission": "Official channel YouTube oEmbed player and thumbnail; online only, no local copy or republication license claimed.",
+    "transcript": "See the official YouTube player for captions and transcript where supplied by the publisher.",
+    "sources": [
+      {
+        "label": "vizmedia official video",
+        "url": "https://www.youtube.com/watch?v=yeUpnIKt6k4"
+      }
+    ]
+  }
+]

@@ -1,0 +1,486 @@
+[
+  {
+    "id": "gaming-profile-mario",
+    "category": "gaming",
+    "type": "profile",
+    "title": "Mario",
+    "description": "A plumber and Mushroom Kingdom hero, Mario takes on Bowser with skilled jumping and power-ups. He is Luigi’s brother and Peach’s friend.",
+    "tags": [
+      "Super Mario",
+      "Platformer"
+    ],
+    "featured": true,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/gaming-mario-cosplay-960.webp",
+    "imageAlt": "Fan cosplaying as Mario at Brussels Comic Con 2019",
+    "sources": [
+      {
+        "label": "Nintendo: Mushroom Kingdom characters",
+        "url": "https://mario.nintendo.com/characters/"
+      },
+      {
+        "label": "Cosplay photo and CC BY-SA 2.0 license",
+        "url": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Mario_at_Brussels_Comic_Con_2019_(40335217333).jpg"
+      }
+    ],
+    "biography": "A plumber and Mushroom Kingdom hero, Mario takes on Bowser with skilled jumping and power-ups. He is Luigi’s brother and Peach’s friend.",
+    "traits": [
+      "Plumber",
+      "Skilled jumper",
+      "Luigi’s brother"
+    ],
+    "franchise": "Super Mario",
+    "mediaPermission": "Fan cosplay photograph, CC BY-SA 2.0; not official Nintendo character art. Converted and cropped for responsive display.",
+    "imageCredit": "Miguel Discart",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Mario_at_Brussels_Comic_Con_2019_(40335217333).jpg",
+    "imageFocus": "center 20%",
+    "imageKind": "fan-cosplay"
+  },
+  {
+    "id": "gaming-profile-luigi",
+    "category": "gaming",
+    "type": "profile",
+    "title": "Luigi",
+    "description": "Mario’s green-clad brother is kind and sometimes uneasy around ghosts. Nintendo describes his abilities as a match for Mario’s, with a higher jump.",
+    "tags": [
+      "Super Mario",
+      "Platformer"
+    ],
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/gaming-luigi-cosplay-960.webp",
+    "imageAlt": "Fan cosplaying as Luigi at Yume ACG Fest 2024",
+    "sources": [
+      {
+        "label": "Nintendo: Mushroom Kingdom characters",
+        "url": "https://mario.nintendo.com/characters/"
+      },
+      {
+        "label": "Cosplay photo and CC BY-SA 4.0 license",
+        "url": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Luigi_at_Yume_ACG_Fest_2024.jpg"
+      }
+    ],
+    "biography": "Mario’s green-clad brother is kind and sometimes uneasy around ghosts. Nintendo describes his abilities as a match for Mario’s, with a higher jump.",
+    "traits": [
+      "Mario’s brother",
+      "High jumper",
+      "Green outfit"
+    ],
+    "franchise": "Super Mario",
+    "mediaPermission": "Fan cosplay photograph, CC BY-SA 4.0; not official Nintendo character art. Converted and cropped for responsive display.",
+    "imageCredit": "Chongkian",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Luigi_at_Yume_ACG_Fest_2024.jpg",
+    "imageFocus": "center 18%",
+    "imageKind": "fan-cosplay"
+  },
+  {
+    "id": "gaming-profile-peach",
+    "category": "gaming",
+    "type": "profile",
+    "title": "Princess Peach",
+    "description": "The Mushroom Kingdom’s princess values kindness and enjoys sports and baking. She and Mario help one another on their adventures.",
+    "tags": [
+      "Super Mario",
+      "Platformer"
+    ],
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/gaming-peach-cosplay-960.webp",
+    "imageAlt": "Fan cosplaying as Princess Peach at Asia Comic Expo 2023",
+    "sources": [
+      {
+        "label": "Nintendo: Mushroom Kingdom characters",
+        "url": "https://mario.nintendo.com/characters/"
+      },
+      {
+        "label": "Cosplay photo and CC BY-SA 4.0 license",
+        "url": "https://commons.wikimedia.org/wiki/File:Princess_peach_cosplay_at_Asia_Comic_Expo_001_2.jpg"
+      }
+    ],
+    "biography": "The Mushroom Kingdom’s princess values kindness and enjoys sports and baking. She and Mario help one another on their adventures.",
+    "traits": [
+      "Mushroom Kingdom",
+      "Princess",
+      "Sports fan"
+    ],
+    "franchise": "Super Mario",
+    "mediaPermission": "Fan cosplay photograph, CC BY-SA 4.0; not official Nintendo character art. Converted and cropped for responsive display.",
+    "imageCredit": "Mrb Rafi",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Princess_peach_cosplay_at_Asia_Comic_Expo_001_2.jpg",
+    "imageFocus": "center 20%",
+    "imageKind": "fan-cosplay"
+  },
+  {
+    "id": "gaming-profile-bowser",
+    "category": "gaming",
+    "type": "profile",
+    "title": "Bowser",
+    "description": "The Koopa king repeatedly threatens the Mushroom Kingdom. His strength, fire breath, and army make him Mario’s recurring adversary.",
+    "tags": [
+      "Super Mario",
+      "Platformer"
+    ],
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/gaming-bowser-cosplay-960.webp",
+    "imageAlt": "Fan wearing a Bowser costume at Otakon 2006",
+    "sources": [
+      {
+        "label": "Nintendo: Mushroom Kingdom characters",
+        "url": "https://mario.nintendo.com/characters/"
+      },
+      {
+        "label": "Cosplay photo and CC BY-SA 2.0 license",
+        "url": "https://commons.wikimedia.org/wiki/File:Bowser_costume.jpg"
+      }
+    ],
+    "biography": "The Koopa king repeatedly threatens the Mushroom Kingdom. His strength, fire breath, and army make him Mario’s recurring adversary.",
+    "traits": [
+      "King of the Koopas",
+      "Fire breath",
+      "Mario’s rival"
+    ],
+    "franchise": "Super Mario",
+    "mediaPermission": "Fan cosplay photograph, CC BY-SA 2.0; not official Nintendo character art. Converted and cropped for responsive display.",
+    "imageCredit": "Phil! Gold",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Bowser_costume.jpg",
+    "imageFocus": "center 20%",
+    "imageKind": "fan-cosplay"
+  },
+  {
+    "id": "gaming-profile-yoshi",
+    "category": "gaming",
+    "type": "profile",
+    "title": "Yoshi",
+    "description": "Mario’s dinosaur companion comes from Yoshi’s Island. Yoshi uses a long tongue to swallow fruit or enemies and produce throwable eggs.",
+    "tags": [
+      "Super Mario",
+      "Platformer"
+    ],
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/gaming-yoshi-cosplay-960.webp",
+    "imageAlt": "Fan cosplaying as Yoshi at San Diego Comic-Con 2014",
+    "sources": [
+      {
+        "label": "Nintendo: Mushroom Kingdom characters",
+        "url": "https://mario.nintendo.com/characters/"
+      },
+      {
+        "label": "Cosplay photo and CC BY-SA 2.0 license",
+        "url": "https://commons.wikimedia.org/wiki/File:San_Diego_Comic-Con_2014_-_Yoshi_(14769237294).jpg"
+      }
+    ],
+    "biography": "Mario’s dinosaur companion comes from Yoshi’s Island. Yoshi uses a long tongue to swallow fruit or enemies and produce throwable eggs.",
+    "traits": [
+      "Yoshi’s Island",
+      "Long tongue",
+      "Egg throwing"
+    ],
+    "franchise": "Super Mario",
+    "mediaPermission": "Fan cosplay photograph, CC BY-SA 2.0; not official Nintendo character art. Converted and cropped for responsive display.",
+    "imageCredit": "William Tung",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:San_Diego_Comic-Con_2014_-_Yoshi_(14769237294).jpg",
+    "imageFocus": "center 35%",
+    "imageKind": "fan-cosplay"
+  },
+  {
+    "id": "gaming-event-nintendolive2023",
+    "category": "gaming",
+    "type": "event",
+    "title": "Nintendo Live 2023 Seattle",
+    "description": "A Nintendo fan gathering with games, stage performances, tournaments, and themed activities. Its registration window has closed.",
+    "tags": [
+      "Nintendo",
+      "Convention",
+      "Seattle"
+    ],
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/gaming-mario-cosplay-960.webp",
+    "imageAlt": "Fan cosplaying as Mario at Brussels Comic Con 2019",
+    "sources": [
+      {
+        "label": "Nintendo official event announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/register-now-for-a-chance-to-attend-nintendo-live-2023/"
+      }
+    ],
+    "date": "2023-09-01",
+    "endDate": "2023-09-04",
+    "location": "Seattle Convention Center, Arch at 705 Pike, Seattle, Washington, USA",
+    "status": "past",
+    "imageCredit": "Miguel Discart",
+    "imageKind": "related-photo",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Mario_at_Brussels_Comic_Con_2019_(40335217333).jpg",
+    "imageContext": "Related character or artist visual; it does not depict this event itself.",
+    "mediaPermission": "Context visual from gaming-profile-mario; see its credited source. Not an official image of this event."
+  },
+  {
+    "id": "gaming-event-gamescom2025",
+    "category": "gaming",
+    "type": "event",
+    "title": "gamescom 2025",
+    "description": "The annual gaming exhibition ran at Koelnmesse with exhibitors and a program also available through the organizer’s online platform.",
+    "tags": [
+      "Convention",
+      "Cologne"
+    ],
+    "featured": true,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/gaming-event-gamescom2025-960.webp",
+    "imageAlt": "Visitors at gamescom 2025 in Cologne",
+    "sources": [
+      {
+        "label": "gamescom organizer announcement dated August 12, 2025",
+        "url": "https://www.gamescom.global/de/more-diverse-than-ever-gamescom-2025-with-more-than-1500-exhibitors"
+      }
+    ],
+    "date": "2025-08-20",
+    "endDate": "2025-08-24",
+    "location": "Koelnmesse, Cologne, Germany",
+    "status": "past",
+    "imageCredit": "RAWdz Ivan · CC BY 4.0",
+    "imageKind": "event-photo",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Visitors_at_Gamescom_2025_in_Cologne%2C_Germany.jpg",
+    "mediaPermission": "CC BY 4.0; see source and media credits. "
+  },
+  {
+    "id": "gaming-event-gameawards2024",
+    "category": "gaming",
+    "type": "event",
+    "title": "The Game Awards 2024",
+    "description": "An awards ceremony and games showcase streamed by its organizer from Los Angeles. The official archived broadcast documents the event.",
+    "tags": [
+      "Awards",
+      "Los Angeles",
+      "Livestream"
+    ],
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/gaming-event-gameawards2024-960.webp",
+    "imageAlt": "A Nintendo handheld being used at The Game Awards 2024",
+    "sources": [
+      {
+        "label": "The Game Awards official archived broadcast",
+        "url": "https://www.youtube.com/watch?v=LfnUQ-qKsdQ"
+      }
+    ],
+    "date": "2024-12-12",
+    "location": "Peacock Theater, Los Angeles, California, USA",
+    "status": "past",
+    "imageCredit": "TzarN64 · CC BY-SA 4.0",
+    "imageKind": "event-photo",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Recording_with_a_New_Nintendo_2DS_XL_at_The_Game_Awards_2024.jpg",
+    "mediaPermission": "CC BY-SA 4.0; see source and media credits. "
+  },
+  {
+    "id": "gaming-release-wonder",
+    "category": "gaming",
+    "type": "release",
+    "title": "Super Mario Bros. Wonder — Nintendo Switch release",
+    "description": "The original Nintendo Switch version launched on October 20, 2023. This entry refers to that edition, not a later upgrade or bundle.",
+    "tags": [
+      "Super Mario",
+      "Platformer",
+      "Nintendo Switch"
+    ],
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "https://i.ytimg.com/vi/XvQNlGKNC6o/hqdefault.jpg",
+    "imageAlt": "Official Super Mario Bros. Wonder – Launch Trailer – Nintendo Switch thumbnail",
+    "sources": [
+      {
+        "label": "Nintendo official game page",
+        "url": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/"
+      }
+    ],
+    "date": "2023-10-20",
+    "status": "released",
+    "franchise": "Super Mario",
+    "imageCredit": "Nintendo of America",
+    "imageKind": "official-trailer-thumbnail",
+    "imageSourceUrl": "https://www.youtube.com/watch?v=XvQNlGKNC6o",
+    "mediaPermission": "YouTube oEmbed supplied an official channel player and thumbnail; media loads online and is not downloaded.",
+    "mediaPermissionNote": "Official online embed; no local copy or republication license claimed."
+  },
+  {
+    "id": "gaming-trailer-wonder",
+    "category": "gaming",
+    "type": "trailer",
+    "title": "Super Mario Bros. Wonder — official launch trailer",
+    "description": "Nintendo of America’s official launch trailer shows the Wonder Flowers, transformations, and playful platforming of the 2023 Nintendo Switch game. The player loads when opened.",
+    "tags": [
+      "Super Mario",
+      "Gameplay",
+      "Nintendo Switch"
+    ],
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "https://i.ytimg.com/vi/XvQNlGKNC6o/hqdefault.jpg",
+    "imageAlt": "Official Super Mario Bros. Wonder – Launch Trailer – Nintendo Switch thumbnail",
+    "sources": [
+      {
+        "label": "Nintendo of America official launch trailer",
+        "url": "https://www.youtube.com/watch?v=XvQNlGKNC6o"
+      },
+      {
+        "label": "Nintendo official game page",
+        "url": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/"
+      }
+    ],
+    "status": "released",
+    "mediaKind": "trailer",
+    "mediaUrl": "https://www.youtube.com/watch?v=XvQNlGKNC6o",
+    "franchise": "Super Mario",
+    "mediaPermission": "YouTube oEmbed supplied an official channel player and thumbnail; media loads online and is not downloaded.",
+    "transcript": "Description: Mario and friends explore the Flower Kingdom. Wonder Flowers change the environment, while badges and power-ups change how characters move. Nintendo’s source page supplies accompanying text descriptions.",
+    "imageCredit": "Nintendo of America",
+    "imageKind": "official-trailer-thumbnail",
+    "imageSourceUrl": "https://www.youtube.com/watch?v=XvQNlGKNC6o",
+    "mediaPermissionNote": "Official online embed; no local copy or republication license claimed.",
+    "poster": "https://i.ytimg.com/vi/XvQNlGKNC6o/hqdefault.jpg",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/XvQNlGKNC6o"
+  },
+  {
+    "id": "gaming-article-wonder-design",
+    "category": "gaming",
+    "type": "article",
+    "title": "What Wonder teaches us about playful design",
+    "description": "An original design commentary on surprise, readable controls, and making room for different kinds of players in Super Mario Bros. Wonder.",
+    "tags": [
+      "Super Mario",
+      "Game design",
+      "Commentary"
+    ],
+    "featured": true,
+    "verifiedAt": "2026-09-26",
+    "image": "https://i.ytimg.com/vi/XvQNlGKNC6o/hqdefault.jpg",
+    "imageAlt": "Official Super Mario Bros. Wonder – Launch Trailer – Nintendo Switch thumbnail",
+    "sources": [
+      {
+        "label": "Nintendo official game page",
+        "url": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/"
+      },
+      {
+        "label": "Nintendo: Ask the Developer, Vol. 11, Part 1",
+        "url": "https://www.nintendo.com/us/whatsnew/ask-the-developer-vol-11-super-mario-bros-wonder-part-1/"
+      }
+    ],
+    "date": "2026-09-26",
+    "franchise": "Super Mario",
+    "body": [
+      "A familiar game can surprise us without discarding everything we know about it. Super Mario Bros. Wonder offers a useful case study: Nintendo describes Wonder Flowers as items that transform the experience, while the underlying invitation remains to move, jump, and explore. The contrast makes an interesting design question. How much can a designer change around the player while leaving enough familiarity for that player to feel capable of continuing?",
+      "One answer is to keep the action legible before asking the player to interpret its novelty. Nintendo’s official page demonstrates transformations, power-ups, and badges in separate explanations. As a reader, that presentation lets me understand one idea at a time. It is a useful principle for a fan website too. A beautiful screen still needs obvious controls, and a surprising transition should not hide the place where someone expected to find a button.",
+      "The game also makes different entry points visible. Nintendo identifies Yoshis and Nabbit as options that do not take damage from enemies, while explaining that those characters do not transform through power-ups. That is a specific tradeoff, not a vague promise of universal ease. It invites players to choose what kind of challenge they want. The same spirit suggests that accessibility settings belong within the normal experience, where people can find them without needing to apologize for using them.",
+      "Local multiplayer offers another angle on that invitation. Up to four players can share courses on one system, and the official description includes helping one another. A cooperative feature changes the social question from who performed best to how a group can keep moving. That does not mean every session will feel the same: a player might enjoy experimentation, a friend might focus on completion, and another might simply want to see what happens next.",
+      "Nintendo’s developer interview labels transformation as a central topic. Reading the interview alongside the game page is a useful way to separate the creators’ stated aims from our own interpretations. My interpretation is that surprise works best when it gives curiosity somewhere to go. For a practical exercise, sketch an ordinary menu, add one delightful change, then check whether every action is still clear. Wonder is a reminder that expressive design and understandable interaction can support each other. The original Nintendo Switch edition was released in 2023, so this article is a retrospective design discussion rather than a claim about a newly announced game."
+    ],
+    "imageCredit": "Nintendo of America",
+    "imageKind": "official-trailer-thumbnail",
+    "imageSourceUrl": "https://www.youtube.com/watch?v=XvQNlGKNC6o",
+    "mediaPermission": "YouTube oEmbed supplied an official channel player and thumbnail; media loads online and is not downloaded.",
+    "mediaPermissionNote": "Official online embed; no local copy or republication license claimed.",
+    "imageContext": "Official trailer still for the game discussed; article is original commentary, not part of the video."
+  },
+  {
+    "id": "gaming-gallery-culture",
+    "category": "gaming",
+    "type": "gallery",
+    "title": "Gamescom: around the ESL stage",
+    "description": "The ESL stage at Gamescom in 2019, photographed by dronepicr. A glimpse of the live events surrounding gaming culture.",
+    "tags": [
+      "Photography",
+      "Archive",
+      "Community"
+    ],
+    "date": "2019-08-20",
+    "featured": true,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/gamescom-esl-stage-960.webp",
+    "imageAlt": "ESL stage Gamescom 2019",
+    "sources": [
+      {
+        "label": "Original photograph and reuse license",
+        "url": "https://commons.wikimedia.org/wiki/File:ESL_stage_Gamescom_2019_(48605708741).jpg"
+      }
+    ],
+    "gallery": [
+      {
+        "src": "/media/gamescom-esl-stage-960.webp",
+        "alt": "ESL stage Gamescom 2019",
+        "credit": "dronepicr",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:ESL_stage_Gamescom_2019_(48605708741).jpg",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "changes": "Resized and converted to AVIF/WebP. Interface may crop preview; lightbox preserves the image."
+      }
+    ]
+  },
+  {
+    "id": "gaming-trailer-tales-zestiria",
+    "category": "gaming",
+    "type": "trailer",
+    "title": "Tales of Zestiria — Anime Expo 2015 trailer",
+    "description": "An archive preview of Bandai Namco’s fantasy role-playing adventure, officially shared under Creative Commons Attribution 3.0. Originally published in July 2015.",
+    "tags": [
+      "Tales of Zestiria",
+      "RPG",
+      "Archive"
+    ],
+    "date": "2015-07-03",
+    "status": "released",
+    "featured": true,
+    "verifiedAt": "2026-09-26",
+    "mediaKind": "trailer",
+    "image": "/media/tales-zestiria-poster-960.webp",
+    "imageAlt": "A frame from the licensed Tales of Zestiria trailer",
+    "poster": "/media/tales-zestiria-poster-960.webp",
+    "videoMp4": "/media/tales-zestiria.mp4",
+    "videoWebm": "/media/tales-zestiria.webm",
+    "mediaUrl": "https://www.youtube.com/watch?v=yyPvXOlauSs",
+    "mediaPermission": "Bandai Namco Entertainment America; CC BY 3.0. License reviewed by Wikimedia Commons on 3 May 2016. Resized and transcoded to MP4/WebM; poster extracted. No endorsement implied.",
+    "sources": [
+      {
+        "label": "Publisher trailer, archived license and review",
+        "url": "https://commons.wikimedia.org/wiki/File:Tales_of_Zestiria_-_Anime_Expo_2015_Trailer.webm"
+      },
+      {
+        "label": "Creative Commons Attribution 3.0 license",
+        "url": "https://creativecommons.org/licenses/by/3.0/"
+      }
+    ],
+    "transcript": "Accessible description: this historical promotional video introduces the fantasy role-playing game Tales of Zestiria, its characters and combat. It includes music, character voices, animated scenes and gameplay. A complete verbatim caption track has not been verified; the official source may provide additional caption options. This description is not a dialogue transcript."
+  },
+  {
+    "id": "gaming-audio-tales-zestiria",
+    "type": "audio",
+    "category": "gaming",
+    "title": "Tales of Zestiria — licensed trailer audio excerpt",
+    "description": "A 30-second sound-only excerpt from Bandai Namco Entertainment America’s CC BY 3.0 Anime Expo 2015 trailer. It preserves the trailer’s music and sound design; listen alongside the complete licensed video.",
+    "tags": [
+      "Tales of Zestiria",
+      "RPG",
+      "Sound design"
+    ],
+    "mediaKind": "trailer",
+    "date": "2015-07-03",
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/tales-zestiria-poster-960.webp",
+    "imageAlt": "A frame from the licensed Tales of Zestiria trailer",
+    "audioUrl": "/media/tales-zestiria-audio.mp3",
+    "mediaUrl": "https://commons.wikimedia.org/wiki/File:Tales_of_Zestiria_-_Anime_Expo_2015_Trailer.webm",
+    "mediaPermission": "30 seconds excerpted from Bandai Namco Entertainment America’s reviewed CC BY 3.0 trailer, converted to MP3. Original creator and license linked below; no endorsement implied.",
+    "transcript": "Accessible audio description: a historical fantasy-game trailer excerpt featuring instrumental music, effects and character voices. A verified verbatim dialogue transcript is unavailable.",
+    "sources": [
+      {
+        "label": "Original publisher trailer and license review",
+        "url": "https://commons.wikimedia.org/wiki/File:Tales_of_Zestiria_-_Anime_Expo_2015_Trailer.webm"
+      },
+      {
+        "label": "Creative Commons Attribution 3.0",
+        "url": "https://creativecommons.org/licenses/by/3.0/"
+      }
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+node_modules/
+dist/
+submission/
+tmp/
+docs/screenshots/
+docs/audits/
+docs/srs-extracted.txt
+.vercel/
+.env
+.env.*
+!.env.example
+playwright-report/
+test-results/
+*.log

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "movies-release-star-wars-starfighter",
+    "file": "Ryan Gosling by Gage Skidmore.jpg",
+    "creator": "Gage Skidmore",
+    "license": "CC BY-SA 3.0",
+    "alt": "Ryan Gosling, lead actor in Star Wars: Starfighter",
+    "context": "The photograph shows lead actor Ryan Gosling at an earlier event, not a Starfighter still.",
+    "files": "movies-release-star-wars-starfighter-{480,960}.{webp,avif}",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ryan_Gosling_by_Gage_Skidmore.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Ryan_Gosling_by_Gage_Skidmore.jpg/960px-Ryan_Gosling_by_Gage_Skidmore.jpg",
+    "permissionBasis": "Creative Commons license on Commons file page",
+    "changes": "Resized and converted to WebP and AVIF",
+    "verifiedAt": "2026-09-26",
+    "downloadBytes": 336351
+  },
+  {
+    "id": "tv-release-ahsoka-season-2",
+    "file": "Rosario Dawson 2025.jpg",
+    "creator": "John E. Manard",
+    "license": "CC BY-SA 4.0",
+    "alt": "Rosario Dawson, who portrays Ahsoka Tano",
+    "context": "The photograph shows Ahsoka performer Rosario Dawson in 2025, not a season 2 still.",
+    "files": "tv-release-ahsoka-season-2-{480,960}.{webp,avif}",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rosario_Dawson_2025.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Rosario_Dawson_2025.jpg/960px-Rosario_Dawson_2025.jpg",
+    "permissionBasis": "Creative Commons license on Commons file page",
+    "changes": "Resized and converted to WebP and AVIF",
+    "verifiedAt": "2026-09-26",
+    "downloadBytes": 201283
+  },
+  {
+    "id": "tv-event-emmys-2024",
+    "file": "Peacock Theater Exterior February 2026.jpg",
+    "creator": "Haruhi8",
+    "license": "CC0 1.0",
+    "alt": "Peacock Theater, venue of the 76th Primetime Emmy Awards",
+    "context": "The photograph shows the event venue in 2026, not the 2024 awards ceremony.",
+    "files": "tv-event-emmys-2024-{480,960}.{webp,avif}",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peacock_Theater_Exterior_February_2026.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Peacock_Theater_Exterior_February_2026.jpg/960px-Peacock_Theater_Exterior_February_2026.jpg",
+    "permissionBasis": "Creative Commons license on Commons file page",
+    "changes": "Resized and converted to WebP and AVIF",
+    "verifiedAt": "2026-09-26",
+    "downloadBytes": 180147
+  },
+  {
+    "id": "tv-event-paleyfest-la-2025",
+    "file": "The Paley Center for Media (48155560156).jpg",
+    "creator": "Ajay Suresh",
+    "license": "CC BY 2.0",
+    "alt": "The Paley Center for Media, organizer of PaleyFest",
+    "context": "The photograph shows the Paley Center in 2019, not a PaleyFest 2025 panel.",
+    "files": "tv-event-paleyfest-la-2025-{480,960}.{webp,avif}",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Paley_Center_for_Media_(48155560156).jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/The_Paley_Center_for_Media_(48155560156).jpg/960px-The_Paley_Center_for_Media_(48155560156).jpg",
+    "permissionBasis": "Creative Commons license on Commons file page",
+    "changes": "Resized and converted to WebP and AVIF",
+    "verifiedAt": "2026-09-26",
+    "downloadBytes": 167680
+  }
+]

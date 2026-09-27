@@ -1,0 +1,441 @@
+[
+  {
+    "id": "tv-profile-tenth-doctor",
+    "category": "tv",
+    "type": "profile",
+    "title": "The Tenth Doctor",
+    "description": "Portrayed by David Tennant, this incarnation of the Doctor is a Time Lord from Gallifrey. He travels in the TARDIS with companions including Rose Tyler and Martha Jones, faces the Master, and encounters River Song for the first time in his personal timeline.",
+    "tags": [
+      "Doctor Who",
+      "Time Lord",
+      "Gallifrey"
+    ],
+    "featured": true,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/tv-profile-tenth-doctor-960.webp",
+    "imageAlt": "David Tennant, who portrays the Tenth Doctor, at Los Angeles Comic Con 2025",
+    "sources": [
+      {
+        "label": "Doctor Who official character guide",
+        "url": "https://www.doctorwho.tv/characters/tenth-doctor"
+      }
+    ],
+    "biography": "Portrayed by David Tennant, this incarnation of the Doctor is a Time Lord from Gallifrey. He travels in the TARDIS with companions including Rose Tyler and Martha Jones, faces the Master, and encounters River Song for the first time in his personal timeline.",
+    "franchise": "Doctor Who",
+    "traits": [
+      "Time Lord",
+      "Gallifrey",
+      "TARDIS traveller"
+    ],
+    "mediaPermission": "CC BY 4.0 performer photograph; shows David Tennant, not an official Doctor Who still.",
+    "imageCredit": "Kevin Paul · CC BY 4.0",
+    "imageKind": "performer-photo",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:David_Tennant_-_Los_Angeles_Comic_Con_2025.jpg",
+    "imageFocus": "center 18%"
+  },
+  {
+    "id": "tv-profile-ruby-sunday",
+    "category": "tv",
+    "type": "profile",
+    "title": "Ruby Sunday",
+    "description": "Ruby is a musician raised by her adoptive mother Carla and grandmother Cherry. After meeting the Doctor during a Christmas encounter with goblins, she joins him in the TARDIS. Her search for her birth mother forms a central part of her story.",
+    "tags": [
+      "Doctor Who",
+      "Companion",
+      "Keyboard player"
+    ],
+    "featured": true,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/tv-profile-ruby-sunday-960.webp",
+    "imageAlt": "Millie Gibson, who portrays Ruby Sunday",
+    "sources": [
+      {
+        "label": "Doctor Who official character guide",
+        "url": "https://www.doctorwho.tv/characters/ruby-sunday"
+      }
+    ],
+    "biography": "Ruby is a musician raised by her adoptive mother Carla and grandmother Cherry. After meeting the Doctor during a Christmas encounter with goblins, she joins him in the TARDIS. Her search for her birth mother forms a central part of her story.",
+    "franchise": "Doctor Who",
+    "traits": [
+      "Companion",
+      "Keyboard player",
+      "Portrayed by Millie Gibson"
+    ],
+    "mediaPermission": "CC BY 3.0 photograph by Doctor Who; character and franchise rights remain with their owners. Image of performer, not an official character still.",
+    "imageCredit": "Doctor Who · CC BY 3.0",
+    "imageKind": "official-artist-photo",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Millie_Gibson.png",
+    "imageFocus": "center 18%"
+  },
+  {
+    "id": "tv-profile-rose-tyler",
+    "category": "tv",
+    "type": "profile",
+    "title": "Rose Tyler",
+    "description": "Rose works in a London department store before an encounter with the Autons brings her into the Doctor's life. She travels with the Ninth and Tenth Doctors and later works to cross the barrier between parallel worlds when the universe is threatened.",
+    "tags": [
+      "Doctor Who",
+      "Companion",
+      "Human"
+    ],
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/tv-profile-rose-tyler-960.webp",
+    "imageAlt": "Billie Piper, who portrays Rose Tyler",
+    "sources": [
+      {
+        "label": "Doctor Who official character guide",
+        "url": "https://www.doctorwho.tv/characters/rose-tyler"
+      }
+    ],
+    "biography": "Rose works in a London department store before an encounter with the Autons brings her into the Doctor's life. She travels with the Ninth and Tenth Doctors and later works to cross the barrier between parallel worlds when the universe is threatened.",
+    "franchise": "Doctor Who",
+    "traits": [
+      "Companion",
+      "Human",
+      "Portrayed by Billie Piper"
+    ],
+    "mediaPermission": "CC BY-SA 2.0 photograph by Miguel Discart; character and franchise rights remain with their owners. Image of performer, not an official character still.",
+    "imageCredit": "Miguel Discart · CC BY-SA 2.0",
+    "imageKind": "performer-photo",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Billie_Piper_at_the_2019_Brussels_Comic_Con_(cropped).jpg"
+  },
+  {
+    "id": "tv-profile-martha-jones",
+    "category": "tv",
+    "type": "profile",
+    "title": "Martha Jones",
+    "description": "Martha is studying medicine when the hospital where she works is transported to the Moon. Her courage earns her an invitation to travel with the Doctor. When the Master captures him, Martha travels across Earth to spread a story of resistance.",
+    "tags": [
+      "Doctor Who",
+      "Medical training",
+      "Companion"
+    ],
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/tv-profile-martha-jones-960.webp",
+    "imageAlt": "Freema Agyeman, who portrays Martha Jones",
+    "sources": [
+      {
+        "label": "Doctor Who official character guide",
+        "url": "https://www.doctorwho.tv/characters/martha-jones"
+      }
+    ],
+    "biography": "Martha is studying medicine when the hospital where she works is transported to the Moon. Her courage earns her an invitation to travel with the Doctor. When the Master captures him, Martha travels across Earth to spread a story of resistance.",
+    "franchise": "Doctor Who",
+    "traits": [
+      "Medical training",
+      "Companion",
+      "Portrayed by Freema Agyeman"
+    ],
+    "mediaPermission": "CC BY 3.0 photograph by DavidDjJohnson; character and franchise rights remain with their owners. Image of performer, not an official character still.",
+    "imageCredit": "DavidDjJohnson · CC BY 3.0",
+    "imageKind": "performer-photo",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Freema_Agyeman_2007.jpg"
+  },
+  {
+    "id": "tv-profile-river-song",
+    "category": "tv",
+    "type": "profile",
+    "title": "River Song",
+    "description": "River Song is an archaeologist whose encounters with the Doctor do not unfold in the same order for both of them. Her identity as Melody Pond, daughter of Amy and Rory, connects her personal history to the Doctor's adventures. Alex Kingston portrays her.",
+    "tags": [
+      "Doctor Who",
+      "Archaeologist",
+      "Time traveller"
+    ],
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/tv-profile-river-song-960.webp",
+    "imageAlt": "Alex Kingston, who portrays River Song",
+    "sources": [
+      {
+        "label": "Doctor Who official character guide",
+        "url": "https://www.doctorwho.tv/characters/river-song"
+      }
+    ],
+    "biography": "River Song is an archaeologist whose encounters with the Doctor do not unfold in the same order for both of them. Her identity as Melody Pond, daughter of Amy and Rory, connects her personal history to the Doctor's adventures. Alex Kingston portrays her.",
+    "franchise": "Doctor Who",
+    "traits": [
+      "Archaeologist",
+      "Time traveller",
+      "Portrayed by Alex Kingston"
+    ],
+    "mediaPermission": "CC BY 2.0 photo by Super Festivals; performer photo, not an official character still.",
+    "imageCredit": "Super Festivals · CC BY 2.0",
+    "imageKind": "performer-photo",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Alex_Kingston_(7702442302).jpg",
+    "imageFocus": "center 18%"
+  },
+  {
+    "id": "tv-event-doctor-who-prom-2024",
+    "category": "tv",
+    "type": "event",
+    "title": "Doctor Who Prom 2024",
+    "description": "Past event. Catherine Tate hosted two performances celebrating Doctor Who's music at the Royal Albert Hall. The original BBC Sounds listening window mentioned in the announcement has expired.",
+    "tags": [
+      "Event",
+      "Archive"
+    ],
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "https://i.ytimg.com/vi/MPxtqx55PA0/hqdefault.jpg",
+    "imageAlt": "Official Doctor Who Season 2 trailer thumbnail",
+    "sources": [
+      {
+        "label": "Official event source",
+        "url": "https://www.doctorwho.tv/news-and-features/catherine-tate-to-host-the-doctor-who-prom"
+      }
+    ],
+    "date": "2024-08-26",
+    "endDate": "2024-08-26",
+    "location": "Royal Albert Hall, London, UK",
+    "status": "past",
+    "imageCredit": "Doctor Who",
+    "imageKind": "official-trailer-thumbnail",
+    "imageSourceUrl": "https://www.youtube.com/watch?v=MPxtqx55PA0",
+    "imageContext": "Related franchise visual; it does not depict this event itself.",
+    "mediaPermission": "Context visual from tv-trailer-doctor-who-2025; see its credited source. Not an official image of this event."
+  },
+  {
+    "id": "tv-event-emmys-2024",
+    "category": "tv",
+    "type": "event",
+    "title": "76th Emmy Awards",
+    "description": "Past event. Eugene Levy and Dan Levy hosted the Television Academy ceremony honoring television work from the 2023–2024 season.",
+    "tags": [
+      "Event",
+      "Archive"
+    ],
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/tv-event-emmys-2024-960.webp",
+    "imageAlt": "Peacock Theater, venue of the 76th Primetime Emmy Awards",
+    "sources": [
+      {
+        "label": "Official event source",
+        "url": "https://www.televisionacademy.com/features/news/awards-news/emmy-presenters-240909"
+      }
+    ],
+    "date": "2024-09-15",
+    "endDate": "2024-09-15",
+    "location": "Peacock Theater at L.A. LIVE, Los Angeles, USA",
+    "status": "past",
+    "imageCredit": "Haruhi8 · CC0 1.0",
+    "imageKind": "related-photo",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Peacock_Theater_Exterior_February_2026.jpg",
+    "imageContext": "The photograph shows the event venue in 2026, not the 2024 awards ceremony.",
+    "mediaPermission": "CC0 1.0 photo; context image, not a production still or event photo. See source and media credits."
+  },
+  {
+    "id": "tv-event-paleyfest-la-2025",
+    "category": "tv",
+    "type": "event",
+    "title": "PaleyFest LA 2025",
+    "description": "Past event. Television casts and creative teams joined audiences for screenings and conversations. Dates use the organizer's retrospective event page, which records March 21–29, rather than the earlier announcement's provisional end date.",
+    "tags": [
+      "Event",
+      "Archive"
+    ],
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/tv-event-paleyfest-la-2025-960.webp",
+    "imageAlt": "The Paley Center for Media, organizer of PaleyFest",
+    "sources": [
+      {
+        "label": "Official event source",
+        "url": "https://www.paleycenter.org/events/paleyfest-la-2025"
+      }
+    ],
+    "date": "2025-03-21",
+    "endDate": "2025-03-29",
+    "location": "Dolby Theatre, Hollywood, Los Angeles, USA",
+    "status": "past",
+    "imageCredit": "Ajay Suresh · CC BY 2.0",
+    "imageKind": "related-photo",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:The_Paley_Center_for_Media_(48155560156).jpg",
+    "imageContext": "The photograph shows the Paley Center in 2019, not a PaleyFest 2025 panel.",
+    "mediaPermission": "CC BY 2.0 photo; context image, not a production still or event photo. See source and media credits."
+  },
+  {
+    "id": "tv-release-doctor-who-2025",
+    "category": "tv",
+    "type": "release",
+    "title": "Doctor Who Season 2 — premiere",
+    "description": "The 2025 season premiered April 12. This archive entry identifies the BBC/Disney+ era's Season 2 and does not imply that it is the second season of the entire franchise.",
+    "tags": [
+      "Doctor Who",
+      "Science fiction",
+      "Series premiere"
+    ],
+    "featured": false,
+    "verifiedAt": "2026-09-26",
+    "image": "https://i.ytimg.com/vi/MPxtqx55PA0/hqdefault.jpg",
+    "imageAlt": "Official Doctor Who Season 2 trailer thumbnail",
+    "sources": [
+      {
+        "label": "Disney+ official press announcement",
+        "url": "https://press.disneyplus.com/news/disney-plus-unveils-otherworldly-new-doctor-who-season-two-trailer"
+      }
+    ],
+    "date": "2025-04-12",
+    "status": "released",
+    "location": "BBC iPlayer / BBC One (UK); Disney+ where available",
+    "franchise": "Doctor Who",
+    "imageCredit": "Doctor Who",
+    "imageKind": "official-trailer-thumbnail",
+    "imageSourceUrl": "https://www.youtube.com/watch?v=MPxtqx55PA0",
+    "imageContext": "Related franchise visual; it does not depict the release artwork itself.",
+    "mediaPermission": "Context visual from tv-trailer-doctor-who-2025; see its credited source. Not an official image of this release."
+  },
+  {
+    "id": "tv-trailer-doctor-who-2025",
+    "category": "tv",
+    "type": "trailer",
+    "title": "Doctor Who Season 2 — official trailer",
+    "description": "The Doctor Who channel's March 2025 trailer introduces the Doctor and Belinda's adventures. Internet access is required; this season has already premiered.",
+    "tags": [
+      "Doctor Who",
+      "Science fiction",
+      "Official trailer"
+    ],
+    "featured": true,
+    "verifiedAt": "2026-09-26",
+    "image": "https://i.ytimg.com/vi/MPxtqx55PA0/hqdefault.jpg",
+    "imageAlt": "Official Doctor Who Season 2 trailer thumbnail",
+    "sources": [
+      {
+        "label": "Doctor Who official YouTube channel",
+        "url": "https://www.youtube.com/watch?v=MPxtqx55PA0"
+      }
+    ],
+    "date": "2025-03-02",
+    "releaseDate": "2025-04-12",
+    "status": "released",
+    "mediaKind": "trailer",
+    "mediaUrl": "https://www.youtube.com/watch?v=MPxtqx55PA0",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/MPxtqx55PA0",
+    "mediaPermission": "Official YouTube player is embeddable according to YouTube oEmbed; media remains on YouTube and is not downloaded.",
+    "poster": "https://i.ytimg.com/vi/MPxtqx55PA0/hqdefault.jpg",
+    "imageCredit": "Doctor Who",
+    "imageKind": "official-trailer-thumbnail",
+    "imageSourceUrl": "https://www.youtube.com/watch?v=MPxtqx55PA0",
+    "mediaPermissionNote": "Official YouTube player and thumbnail supplied through YouTube oEmbed; loads online. The video and image are not bundled or licensed for download by this project."
+  },
+  {
+    "id": "tv-article-doctor-who-companions",
+    "category": "tv",
+    "type": "article",
+    "title": "The companion changes the journey",
+    "description": "Why Doctor Who's human travellers offer several different ways into the same extraordinary universe.",
+    "tags": [
+      "Doctor Who",
+      "Character study",
+      "Editorial"
+    ],
+    "featured": true,
+    "verifiedAt": "2026-09-26",
+    "image": "https://i.ytimg.com/vi/MPxtqx55PA0/hqdefault.jpg",
+    "imageAlt": "Official Doctor Who Season 2 trailer thumbnail",
+    "sources": [
+      {
+        "label": "Doctor Who official character guide",
+        "url": "https://www.doctorwho.tv/characters/tenth-doctor"
+      },
+      {
+        "label": "Doctor Who official character guide",
+        "url": "https://www.doctorwho.tv/characters/ruby-sunday"
+      },
+      {
+        "label": "Doctor Who official character guide",
+        "url": "https://www.doctorwho.tv/characters/rose-tyler"
+      },
+      {
+        "label": "Doctor Who official character guide",
+        "url": "https://www.doctorwho.tv/characters/martha-jones"
+      },
+      {
+        "label": "Doctor Who official character guide",
+        "url": "https://www.doctorwho.tv/characters/river-song"
+      },
+      {
+        "label": "Doctor Who official trailer",
+        "url": "https://www.youtube.com/watch?v=MPxtqx55PA0"
+      }
+    ],
+    "body": [
+      "A machine that can travel through time and space seems to promise an unlimited number of stories. Doctor Who's companions give those stories a point of view. Rose, Martha and Ruby each arrive with a life that exists before the TARDIS. River complicates the order in which a life is revealed. Reading their official profiles together suggests an approachable way to explore a long-running television world: begin with a person whose questions interest you, then follow the adventures around them. This commentary contains broad character spoilers.",
+      "Rose's first encounter with the Doctor interrupts an ordinary working day. That contrast is useful for a new viewer because the extraordinary does not need to begin in an extraordinary setting. Her profile traces a shop assistant into travels with the Doctor and later into efforts to bridge parallel worlds. The appeal of that outline is the changing scale of her agency. The person being introduced to danger can become a person who actively responds to it.",
+      "Martha arrives with medical training and a practical response to crisis. Her hospital's journey to the Moon is spectacular, but the official profile emphasizes her bravery and later her work carrying a story of resistance across Earth. One way to read this is that knowledge and communication deserve space beside gadgets and confrontations. It also makes a useful viewing question: when a scene becomes chaotic, which character notices what another person needs?",
+      "Ruby brings music, an adoptive family and questions about her origins into her travels. Those details give the viewer connections beyond the next alien encounter. River, in contrast, asks us to pay attention to chronology itself. Her encounters with the Doctor unfold in different orders for each of them. A timeline can therefore clarify facts, but it cannot replace the experience of learning something at a particular moment in a story.",
+      "The Tenth Doctor's profile sits alongside these human perspectives rather than cancelling them out. His ability to travel is the premise; the people who travel with him help shape what a journey means. For a manageable starting exercise, choose one companion profile and one official episode link from its source. Record what the character knows at the beginning and what they choose by the end. This is an interpretation exercise rather than an official watch order, and it works without treating decades of television as homework that must be completed first."
+    ],
+    "imageCredit": "Doctor Who",
+    "imageKind": "official-trailer-thumbnail",
+    "imageSourceUrl": "https://www.youtube.com/watch?v=MPxtqx55PA0"
+  },
+  {
+    "id": "tv-release-ahsoka-season-2",
+    "type": "release",
+    "title": "Ahsoka season 2 — Disney+ premiere",
+    "description": "Lucasfilm announced that Ahsoka season 2 will premiere on Disney+ on January 20, 2027. This is a confirmed announcement as checked on September 26, 2026; schedules may change.",
+    "tags": [
+      "Star Wars",
+      "Ahsoka",
+      "Streaming"
+    ],
+    "date": "2027-01-20",
+    "location": "Disney+",
+    "status": "upcoming",
+    "featured": true,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/tv-release-ahsoka-season-2-960.webp",
+    "sources": [
+      {
+        "label": "StarWars.com — Ahsoka season 2 teaser and date",
+        "url": "https://www.starwars.com/news/ahsoka-season-2"
+      }
+    ],
+    "category": "tv",
+    "imageAlt": "Rosario Dawson, who portrays Ahsoka Tano",
+    "imageCredit": "John E. Manard · CC BY-SA 4.0",
+    "imageKind": "related-photo",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Rosario_Dawson_2025.jpg",
+    "imageContext": "The photograph shows Ahsoka performer Rosario Dawson in 2025, not a season 2 still.",
+    "mediaPermission": "CC BY-SA 4.0 photo; context image, not a production still or event photo. See source and media credits."
+  },
+  {
+    "id": "tv-gallery-real-world",
+    "category": "tv",
+    "type": "gallery",
+    "title": "Inside the Doctor Who Experience",
+    "description": "Historical visitor photography from a Doctor Who exhibition, showing a real place where fans explored the programme.",
+    "tags": [
+      "Photography",
+      "Archive",
+      "Community"
+    ],
+    "date": "2016-08-19",
+    "featured": true,
+    "verifiedAt": "2026-09-26",
+    "image": "/media/doctor-who-experience-2016-960.webp",
+    "imageAlt": "Inside the Doctor Who Experience in Cardiff, 2016",
+    "sources": [
+      {
+        "label": "Photograph, Armina (CC BY 2.0)",
+        "url": "https://commons.wikimedia.org/wiki/File:Doctor_Who_Experience_(29349401791).jpg"
+      }
+    ],
+    "gallery": [
+      {
+        "src": "/media/doctor-who-experience-2016-960.webp",
+        "alt": "Inside the Doctor Who Experience in Cardiff, 2016",
+        "credit": "Armina",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Doctor_Who_Experience_(29349401791).jpg",
+        "changes": "Resized and converted to WebP and AVIF; preview may crop. Original work credited and not endorsed."
+      }
+    ]
+  }
+]

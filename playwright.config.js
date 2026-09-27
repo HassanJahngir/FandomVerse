@@ -1,0 +1,2 @@
+import { defineConfig } from '@playwright/test';
+export default defineConfig({testDir:'tests/browser',timeout:30000,fullyParallel:false,workers:1,reporter:[['list'],['json',{outputFile:'docs/browser-results.json'}]],use:{baseURL:'http://127.0.0.1:4173',headless:true,launchOptions:{executablePath:'C:/Program Files/Google/Chrome/Application/chrome.exe'},trace:'retain-on-failure',screenshot:'only-on-failure'},outputDir:'tmp/playwright-results'});

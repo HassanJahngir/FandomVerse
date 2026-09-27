@@ -1,0 +1,614 @@
+{
+  "greeting": "Hey, explorer. I'm Orbit, your local scripted guide. Ask about a character, a world, trailers, events, releases, shopping, or how this site works.",
+  "fallback": "I don’t have a verified answer for that in this collection. Try a character or event name, choose a world, or search the archive. I don’t generate facts or use a live AI service.",
+  "suggestions": [
+    "Recommend anime beyond Demon Slayer",
+    "Show Nintendo trailers",
+    "Who is Luffy?",
+    "What is Ahsoka’s release date?",
+    "Explore K-Pop events",
+    "Show DC profiles",
+    "Find movie trailers",
+    "What releases are listed?",
+    "How do bookmarks work?",
+    "Can I buy merchandise?",
+    "Where are media credits?",
+    "How do I search?",
+    "Tell me about the team"
+  ],
+  "intents": [
+    {
+      "keywords": [
+        "profiles",
+        "characters",
+        "artists",
+        "members"
+      ],
+      "type": "profile",
+      "label": "Browse profiles",
+      "href": "#/profiles",
+      "intro": "Here are real character and artist profiles"
+    },
+    {
+      "keywords": [
+        "trailers",
+        "videos",
+        "watch",
+        "preview"
+      ],
+      "type": "trailer",
+      "label": "Browse trailers",
+      "href": "#/trailers",
+      "intro": "Here are official trailer and video entries"
+    },
+    {
+      "keywords": [
+        "events",
+        "conventions",
+        "festival"
+      ],
+      "type": "event",
+      "label": "Browse events",
+      "href": "#/events",
+      "intro": "Here are dated event records"
+    },
+    {
+      "keywords": [
+        "releases",
+        "release calendar",
+        "premieres"
+      ],
+      "type": "release",
+      "label": "Open release calendar",
+      "href": "#/releases",
+      "intro": "Here are verified release entries"
+    },
+    {
+      "keywords": [
+        "galleries",
+        "photos",
+        "pictures"
+      ],
+      "type": "gallery",
+      "label": "Browse galleries",
+      "href": "#/search?type=gallery",
+      "intro": "Here are credited photo galleries"
+    },
+    {
+      "keywords": [
+        "articles",
+        "stories",
+        "read about"
+      ],
+      "type": "article",
+      "label": "Browse articles",
+      "href": "#/search?type=article",
+      "intro": "Here are original, sourced articles"
+    },
+    {
+      "keywords": [
+        "audio",
+        "listen"
+      ],
+      "type": "audio",
+      "label": "Browse audio",
+      "href": "#/search?type=audio",
+      "intro": "Here are licensed audio entries"
+    },
+    {
+      "keywords": [
+        "products",
+        "merch",
+        "shop"
+      ],
+      "type": "merchandise",
+      "label": "Browse merchandise",
+      "href": "#/merchandise",
+      "intro": "Here are verified merchandise listings"
+    }
+  ],
+  "faqs": [
+    {
+      "keywords": [
+        "bookmark",
+        "save item",
+        "saved collection"
+      ],
+      "answer": "Bookmark buttons save collection IDs in this browser's localStorage. Open Saved to review, remove, or export them.",
+      "links": [
+        {
+          "label": "Open Saved",
+          "href": "#/bookmarks"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "personal notes",
+        "my notes",
+        "notes stored"
+      ],
+      "answer": "Personal notes use sessionStorage. They last for this tab session and are not written into the bundled JSON files.",
+      "links": [
+        {
+          "label": "Open Saved",
+          "href": "#/bookmarks"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "export",
+        "download bookmarks"
+      ],
+      "answer": "Open Saved and choose Export readable list. The text file includes saved entries, sources, and session notes.",
+      "links": [
+        {
+          "label": "Export from Saved",
+          "href": "#/bookmarks"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "buy",
+        "checkout",
+        "payment",
+        "purchase"
+      ],
+      "answer": "The cart is a temporary demonstration. FandomVerse has no checkout, payment, stock guarantee, or order processing. Follow each product's official retailer link to purchase there.",
+      "links": [
+        {
+          "label": "Browse merchandise",
+          "href": "#/merchandise"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "cart total",
+        "subtotal",
+        "quantity"
+      ],
+      "answer": "The demo cart calculates quantities and a USD total from the listed prices. It does not add tax or shipping and resets when the page session ends.",
+      "links": [
+        {
+          "label": "Browse merchandise",
+          "href": "#/merchandise"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "price checked",
+        "price date",
+        "price verified"
+      ],
+      "answer": "Each merchandise page shows its currency, listed variant price, retailer link, and verification date. Retailer prices can change.",
+      "links": [
+        {
+          "label": "Browse merchandise",
+          "href": "#/merchandise"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "login",
+        "signup",
+        "sign up",
+        "password",
+        "account"
+      ],
+      "answer": "Login and signup are interface demonstrations. They do not authenticate visitors or store passwords.",
+      "links": []
+    },
+    {
+      "keywords": [
+        "search",
+        "filter",
+        "sort"
+      ],
+      "answer": "Use Search from the header on every route. Combine a phrase with category and content-type filters. World hubs add sub-tags and alphabetical, newest, or featured sorting.",
+      "links": [
+        {
+          "label": "Search the collection",
+          "href": "#/search"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "seven worlds",
+        "categories",
+        "worlds"
+      ],
+      "answer": "FandomVerse covers Anime, Gaming, Movies, TV Shows, K-Pop, Comics, and Manga. Every world has a hub with profiles, articles, events, and a gallery.",
+      "links": [
+        {
+          "label": "Explore the worlds",
+          "href": "#/explore"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "official site",
+        "affiliated",
+        "independent"
+      ],
+      "answer": "FandomVerse is an independent competition project. It is not affiliated with featured rights holders, artists, or retailers.",
+      "links": [
+        {
+          "label": "About FandomVerse",
+          "href": "#/about"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "media credits",
+        "photo license",
+        "image source",
+        "attribution"
+      ],
+      "answer": "The Credits page explains the media policy, and each sourced image links to its creator and license. Fan cosplay is labeled as fan cosplay rather than official character art.",
+      "links": [
+        {
+          "label": "View credits",
+          "href": "#/credits"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "why no image",
+        "missing image",
+        "artwork rights"
+      ],
+      "answer": "Character, event, and trailer cards use licensed or official subject visuals where verified. Exact product photography remains on the official retailer sites because republication permission has not been established.",
+      "links": [
+        {
+          "label": "View media policy",
+          "href": "#/credits"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "offline",
+        "internet connection"
+      ],
+      "answer": "The site and local licensed media can load from the build. External official trailers, retailers, sources, and Google Maps need an internet connection.",
+      "links": [
+        {
+          "label": "Explore trailers",
+          "href": "#/trailers"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "captions",
+        "transcript",
+        "accessibility"
+      ],
+      "answer": "Media pages include captions or an accessible description where available. Players start only after you open them; controls are keyboard accessible.",
+      "links": [
+        {
+          "label": "Explore trailers",
+          "href": "#/trailers"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "old news",
+        "historical",
+        "past event"
+      ],
+      "answer": "Historical events are labeled past and kept as archive records. Release dates and event details link to sources rather than being guessed.",
+      "links": [
+        {
+          "label": "Event archive",
+          "href": "#/events"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "rumor",
+        "unannounced",
+        "confirmed"
+      ],
+      "answer": "The calendar includes sourced announcements. Unknown dates remain unannounced; the site does not turn rumors into confirmed releases.",
+      "links": [
+        {
+          "label": "Release calendar",
+          "href": "#/releases"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "visitor count",
+        "visitor counter"
+      ],
+      "answer": "The visitor counter is a localStorage demonstration on this browser. It is not a real global audience metric.",
+      "links": [
+        {
+          "label": "About the site",
+          "href": "#/about"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "location permission",
+        "geolocation",
+        "map"
+      ],
+      "answer": "Contact shows the team’s public map location in DHA, Karachi. You can request your own location through the browser; denial and unavailable states are explained without saving your coordinates.",
+      "links": [
+        {
+          "label": "Open Contact",
+          "href": "#/contact"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "team",
+        "contact",
+        "email"
+      ],
+      "answer": "Warriors Xtreme created this independent competition project. The team members listed on About are Hassan Jahangir, Hassan Khan, Hassan Afridi, and Shayan Shahnoor. Contact uses hassanssk21@gmail.com and a DHA Karachi map.",
+      "links": [
+        {
+          "label": "Contact",
+          "href": "#/contact"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "what can orbit",
+        "are you ai",
+        "how do you work",
+        "scripted"
+      ],
+      "answer": "I'm a local scripted assistant. I match your question to sourced collection records and predefined FAQs. I have no live AI, internet lookup, or account access.",
+      "links": [
+        {
+          "label": "Search all worlds",
+          "href": "#/search"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "beyond demon slayer",
+        "other anime",
+        "more anime"
+      ],
+      "answer": "The Anime world also features official Naruto, Attack on Titan, JUJUTSU KAISEN, and My Hero Academia video previews. They are historical or current entries as labeled, not invented artwork.",
+      "links": [
+        {
+          "label": "Open Anime",
+          "href": "#/world/anime"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "who made this",
+        "warriors xtreme",
+        "team members"
+      ],
+      "answer": "Warriors Xtreme is the student team behind this independent competition project. The About page lists Hassan Jahangir, Hassan Khan, Hassan Afridi, and Shayan Shahnoor.",
+      "links": [
+        {
+          "label": "Meet the team",
+          "href": "#/about"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "demon slayer anniversary",
+        "sixth anniversary"
+      ],
+      "answer": "The Demon Slayer sixth-anniversary celebration is a sourced past event. Open its record for the exact date and official announcement.",
+      "links": [
+        {
+          "label": "Demon Slayer anniversary",
+          "href": "#/item/anime-event-demonslayer-anniversary"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "anime expo 2025",
+        "ax2025"
+      ],
+      "answer": "Anime Expo 2025 is recorded as a past Los Angeles event. Its card uses a photograph taken at the 2025 convention.",
+      "links": [
+        {
+          "label": "Anime Expo 2025",
+          "href": "#/item/anime-event-ax2025"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "comic con 2025",
+        "sdcc 2025"
+      ],
+      "answer": "San Diego Comic-Con 2025 is a past event in this archive. The event page includes its source and a licensed photograph from the convention.",
+      "links": [
+        {
+          "label": "San Diego Comic-Con 2025",
+          "href": "#/item/comics-event-comic-con-2025"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "ahsoka release date",
+        "ahsoka season 2"
+      ],
+      "answer": "Lucasfilm announced Ahsoka season 2 for January 20, 2027 on Disney+. The date was verified from StarWars.com on September 26, 2026 and may change.",
+      "links": [
+        {
+          "label": "Ahsoka season 2",
+          "href": "#/item/tv-release-ahsoka-season-2"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "avengers doomsday",
+        "doomsday trailer"
+      ],
+      "answer": "Marvel Entertainment published an official Avengers: Doomsday trailer in July 2026. The trailer player loads from YouTube only when opened, and the release entry links to the confirmed date.",
+      "links": [
+        {
+          "label": "Official trailer",
+          "href": "#/item/movies-trailer-avengers-doomsday"
+        },
+        {
+          "label": "Release",
+          "href": "#/item/movies-release-avengers-doomsday"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "wonder flowers",
+        "super mario wonder"
+      ],
+      "answer": "Nintendo’s Super Mario Bros. Wonder launch trailer shows Wonder Flowers and transformations. The game’s release, article, and official trailer each have their own sourced record.",
+      "links": [
+        {
+          "label": "Watch official trailer",
+          "href": "#/item/gaming-trailer-wonder"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "the astronaut",
+        "jin music video"
+      ],
+      "answer": "Jin’s The Astronaut was released in 2022. Its official HYBE LABELS music video loads through an online player; no song file is hosted here.",
+      "links": [
+        {
+          "label": "Official video",
+          "href": "#/item/kpop-trailer-astronaut"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "photo source",
+        "image permission",
+        "fan cosplay"
+      ],
+      "answer": "Every bundled image has a source, creator, and license in Media Credits. Fan cosplay is labeled so it is not confused with official franchise artwork.",
+      "links": [
+        {
+          "label": "Media Credits",
+          "href": "#/credits"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "notes private",
+        "note privacy"
+      ],
+      "answer": "Notes are kept only in this tab’s sessionStorage. Closing the tab ends the session; no backend receives them.",
+      "links": [
+        {
+          "label": "Saved collection",
+          "href": "#/bookmarks"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "map location",
+        "dha karachi"
+      ],
+      "answer": "The configured public team location is DHA Karachi. The map opens from Contact and needs an internet connection.",
+      "links": [
+        {
+          "label": "Contact and map",
+          "href": "#/contact"
+        }
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "keywords": [
+        "anime",
+        "demon slayer",
+        "tanjiro"
+      ],
+      "category": "anime"
+    },
+    {
+      "keywords": [
+        "gaming",
+        "game",
+        "mario",
+        "nintendo"
+      ],
+      "category": "gaming"
+    },
+    {
+      "keywords": [
+        "movie",
+        "film",
+        "cinema",
+        "star wars"
+      ],
+      "category": "movies"
+    },
+    {
+      "keywords": [
+        "tv",
+        "television",
+        "doctor who",
+        "series"
+      ],
+      "category": "tv"
+    },
+    {
+      "keywords": [
+        "kpop",
+        "k-pop",
+        "bts",
+        "music"
+      ],
+      "category": "kpop"
+    },
+    {
+      "keywords": [
+        "comic",
+        "superhero",
+        "dc"
+      ],
+      "category": "comics"
+    },
+    {
+      "keywords": [
+        "manga",
+        "one piece",
+        "luffy"
+      ],
+      "category": "manga"
+    }
+  ]
+}
