@@ -20,7 +20,7 @@ The GitHub repository is connected to the Vercel project `fandomverse`; pushes t
 
 ## Personalize before submitting
 
-Team name, four members, public email, and DHA Karachi map location are configured in `src/config/team.json` from participant-provided details. Review their spelling and consent before submission. Make your own meaningful edits and practise the judge walkthrough in `docs/CODE-GUIDE.md`.
+Team name, six members, public email, and DHA Karachi map location are configured in `src/config/team.json` from participant-provided details. Review their spelling and consent before submission. Make your own meaningful edits and practise the judge walkthrough in `docs/CODE-GUIDE.md`.
 
 ## How it works
 
@@ -28,6 +28,6 @@ Team name, four members, public email, and DHA Karachi map location are configur
 
 The cart is temporary and has no checkout. Login/signup are labelled demos and do not authenticate or store passwords. Orbit is scripted from local JSON, not live AI. The local visitor count is simulated. No payment, account, database, or backend is included.
 
-Prices and future schedules are snapshots checked on 26 September 2026; recheck them before judging. FandomVerse is an independent fan project, not a retailer or rights-holder partner. The Anime world uses online official previews for Demon Slayer, Naruto, Attack on Titan, JUJUTSU KAISEN, and My Hero Academia. These publisher videos and thumbnails require internet and are not bundled. All 35 profiles now have subject-matched licensed photographs, cosplay, performer portraits, or documented official visuals; cards label fan cosplay and context photos. All event, release, article, and trailer records have relevant visuals. The five exact merchandise photographs remain on official retailer sites because reuse permission could not be verified. Sixteen sourced trailer/video entries include online authorized players or official source links; the locally licensed Tales of Zestiria video plays offline.
+Prices and future schedules are snapshots checked on 26 September 2026; recheck them before judging. FandomVerse is an independent fan project, not a retailer or rights-holder partner. The Anime world uses online official previews for Demon Slayer, Naruto, Naruto Shippuden, Attack on Titan, JUJUTSU KAISEN, and My Hero Academia. These publisher videos and thumbnails require internet and are not bundled. All 35 profiles now have subject-matched licensed photographs, cosplay, performer portraits, or documented official visuals; cards label fan cosplay and context photos. All event, release, article, and trailer records have relevant visuals. The five exact merchandise photographs remain on official retailer sites because reuse permission could not be verified; the Naruto shirt card shows a labelled official Shippuden trailer visual for context. Seventeen sourced trailer/video entries include online authorized players or official source links; the locally licensed Tales of Zestiria video plays offline.
 
 See `docs/PROJECT-REPORT.md`, `docs/SRS-CHECKLIST.md`, `docs/TEST-RESULTS.md`, `docs/MEDIA-CREDITS.md`, `docs/WALKTHROUGH.md`, and `docs/CODE-GUIDE.md`. The MP4 demo and source ZIP are in `submission/`.

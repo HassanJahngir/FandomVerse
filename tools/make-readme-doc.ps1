@@ -21,7 +21,7 @@ ASSUMPTIONS
 4. Bookmarks persist in browser localStorage; personal notes live only in sessionStorage. No visitor change writes to bundled JSON.
 5. Orbit is a scripted local FAQ/recommendation guide. It is not connected to a live AI API.
 6. Public visibility does not give image reuse permission. Some cards use an explicit media-rights fallback and an official source link. Local reused assets and their credits are documented in docs/MEDIA-CREDITS.md.
-7. Warriors Xtreme, Hassan Jahangir, Hassan Khan, Hassan Afridi, Shayan Shahnoor, hassanssk21@gmail.com, and DHA Karachi are participant-supplied public details in src/config/team.json. Verify spelling and consent before publishing.
+7. Warriors Xtreme, Hassan Jahangir, Hassan Khan, Hassan Afridi, Shayan, Shahnoor, Gufran, hassanssk21@gmail.com, and DHA Karachi are participant-supplied public details in src/config/team.json. Verify spelling and consent before publishing.
 8. FandomVerse is not an official rights-holder site or retailer. Purchases can only be considered on linked official retailer pages.
 9. Static local preview cannot prove 24/7 hosted uptime or production capacity. External links, embeds, and a configured Google Map require internet.
 

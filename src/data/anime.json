@@ -720,5 +720,38 @@
         "url": "https://www.youtube.com/watch?v=yeUpnIKt6k4"
       }
     ]
+  },
+  {
+    "id": "anime-trailer-naruto-shippuden",
+    "category": "anime",
+    "type": "trailer",
+    "title": "Naruto Shippuden, Set 1 — official VIZ trailer",
+    "description": "VIZ Media's official trailer for the Naruto Shippuden Set 1 home-video release. Published in 2023; this is an archive preview, not a new release announcement.",
+    "tags": [
+      "Naruto Shippuden",
+      "VIZ Media",
+      "Archive"
+    ],
+    "franchise": "Naruto Shippuden",
+    "featured": true,
+    "status": "released",
+    "verifiedAt": "2026-09-27",
+    "image": "https://i.ytimg.com/vi/22R0j8UKRzY/hqdefault.jpg",
+    "imageAlt": "Naruto Uzumaki and the Naruto Shippuden title in VIZ Media's official Set 1 trailer thumbnail",
+    "imageCredit": "vizmedia",
+    "imageKind": "official-trailer-thumbnail",
+    "imageSourceUrl": "https://www.youtube.com/watch?v=22R0j8UKRzY",
+    "mediaKind": "trailer",
+    "mediaUrl": "https://www.youtube.com/watch?v=22R0j8UKRzY",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/22R0j8UKRzY",
+    "poster": "https://i.ytimg.com/vi/22R0j8UKRzY/hqdefault.jpg",
+    "mediaPermission": "Official channel YouTube oEmbed player and thumbnail; online only, no local copy or republication license claimed.",
+    "transcript": "Use captions or the transcript in the official YouTube player when VIZ supplies them.",
+    "sources": [
+      {
+        "label": "VIZ Media official Naruto Shippuden Set 1 trailer",
+        "url": "https://www.youtube.com/watch?v=22R0j8UKRzY"
+      }
+    ]
   }
 ]

@@ -13,6 +13,10 @@ try {
   await page.getByRole("heading", { name: /Seven Worlds/ }).waitFor();
   await page.goto(`${base}/#/world/anime`, { waitUntil: "domcontentloaded" });
   await page.getByRole("heading", { name: "Anime", exact: true }).waitFor();
+  await page.goto(`${base}/#/about`, { waitUntil: "domcontentloaded" });
+  for (const member of ["Shayan", "Shahnoor", "Gufran"]) {
+    await page.getByText(member, { exact: true }).waitFor();
+  }
   await page.goto(`${base}/#/contact`, { waitUntil: "domcontentloaded" });
   await page.getByText("DHA Karachi", { exact: true }).first().waitFor();
   console.log(JSON.stringify({
@@ -20,6 +24,7 @@ try {
     homeStatus: home.status(),
     title: await page.title(),
     contactHasDhaKarachi: true,
+    teamNamesSeparate: true,
     mobileOverflow: await page.evaluate(() => document.documentElement.scrollWidth > innerWidth),
     pageErrors: errors,
   }));

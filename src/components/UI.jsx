@@ -147,12 +147,13 @@ export function Card({ item, bookmarks, toggle, addCart }) {
             </small>
           </div>
         )}
-        {item.imageKind === "official-trailer-thumbnail" && (
+        {item.imageContext ? (
+          <span className="card-photo-label">
+            {item.type === "merchandise" ? "Official trailer · not product photo" : "Context image"}
+          </span>
+        ) : item.imageKind === "official-trailer-thumbnail" ? (
           <span className="card-photo-label">Official trailer visual</span>
-        )}
-        {item.imageContext && (
-          <span className="card-photo-label">Context image</span>
-        )}
+        ) : null}
         {item.type === "profile" && item.imageCredit && item.imageKind !== "official-trailer-thumbnail" && (
           <span className="card-photo-label">{item.imageKind === "fan-cosplay" ? "Fan cosplay" : item.imageKind === "performer-photo" ? "Performer photo" : "Licensed photo"}</span>
         )}

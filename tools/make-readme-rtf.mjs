@@ -13,7 +13,7 @@ ASSUMPTIONS
 4. Bookmarks use localStorage; notes use sessionStorage; the cart exists only in memory. Visitors cannot edit bundled JSON.
 5. Orbit is a scripted local JSON assistant with no live AI API.
 6. Some copyrighted franchise/product imagery lacks republication permission, so the site uses labelled fallbacks and official links. Licensed local media is credited in docs/MEDIA-CREDITS.md.
-7. Warriors Xtreme, Hassan Jahangir, Hassan Khan, Hassan Afridi, Shayan Shahnoor, hassanssk21@gmail.com, and DHA Karachi are participant-supplied public details in src/config/team.json. Verify spelling and consent before publishing.
+7. Warriors Xtreme, Hassan Jahangir, Hassan Khan, Hassan Afridi, Shayan, Shahnoor, Gufran, hassanssk21@gmail.com, and DHA Karachi are participant-supplied public details in src/config/team.json. Verify spelling and consent before publishing.
 8. FandomVerse is independent and is not an official retailer or franchise partner. Static preview cannot establish hosted uptime or capacity.
 
 OpenAI Codex assisted with research organization, design, implementation, testing, and documentation. The participant must understand, personalize, and validate the final submission.

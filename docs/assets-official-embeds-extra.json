@@ -138,5 +138,15 @@
     "embedUrl": "https://www.youtube-nocookie.com/embed/3uaMeEcwvvU",
     "permissionBasis": "Official channel YouTube oEmbed player and thumbnail; online display only, no downloaded copy or standalone reuse license",
     "verifiedAt": "2026-09-26"
+  },
+  {
+    "id": "anime-trailer-naruto-shippuden",
+    "title": "Naruto Shippuden, Set 1 — official VIZ trailer",
+    "creator": "vizmedia (verified VIZ Media channel)",
+    "sourceUrl": "https://www.youtube.com/watch?v=22R0j8UKRzY",
+    "thumbnailUrl": "https://i.ytimg.com/vi/22R0j8UKRzY/hqdefault.jpg",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/22R0j8UKRzY",
+    "permissionBasis": "Official channel YouTube oEmbed player and thumbnail; online display only, no downloaded copy or standalone reuse license",
+    "verifiedAt": "2026-09-27"
   }
 ]
