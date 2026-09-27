@@ -338,6 +338,12 @@ test("locally bundled Anime cosplay and sources remain clearly attributed", asyn
   );
   for (const slug of ["tanjiro", "nezuko", "zenitsu", "inosuke", "giyu"]) {
     await page.goto(`/#/item/anime-profile-${slug}`);
+    const headingImageBounds = await page.evaluate(() => {
+      const heading = document.querySelector(".detail-heading").getBoundingClientRect();
+      const image = document.querySelector(".detail-heading .heading-visual").getBoundingClientRect();
+      return image.top >= heading.top && image.bottom <= heading.bottom;
+    });
+    expect(headingImageBounds).toBe(true);
     const picture = page.locator(".detail-image img");
     await picture.scrollIntoViewIfNeeded();
     await expect
@@ -358,6 +364,12 @@ test("world headers use relevant sourced photos and cards share dimensions", asy
     await page.goto(`/#/world/${world}`);
     await expect(page.locator(".image-heading .heading-visual img")).toHaveAttribute("src", /\S+/);
     await expect(page.locator(".image-heading .heading-photo-credit")).toHaveAttribute("href", /^https:\/\//);
+    const headingImageBounds = await page.evaluate(() => {
+      const heading = document.querySelector(".image-heading").getBoundingClientRect();
+      const image = document.querySelector(".image-heading .heading-visual").getBoundingClientRect();
+      return image.top >= heading.top && image.bottom <= heading.bottom;
+    });
+    expect(headingImageBounds).toBe(true);
     const sizes = await page.locator(".card-grid .content-card").evaluateAll((cards) =>
       cards.slice(0, 5).map((card) => {
         const rect = card.getBoundingClientRect();

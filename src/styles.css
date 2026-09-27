@@ -1384,6 +1384,7 @@ em {
   overflow: hidden;
 }
 .image-heading {
+  position: relative;
   min-height: 290px;
   margin: 28px 0 34px;
   padding: 52px 46px;
