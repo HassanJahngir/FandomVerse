@@ -34,6 +34,7 @@ for (const name of [
   "package.json",
   "package-lock.json",
   "vite.config.js",
+  "vercel.json",
   "playwright.config.js",
   "README.md",
   "ReadMe.doc",
